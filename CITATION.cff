@@ -1,24 +1,33 @@
 cff-version: 1.2.0
-title: CLAP - Clinical LLM Audit Pack
+title: "CLAP: Clinical LLM Audit Pack"
 message: "If you use this software, please cite it as below."
 type: software
+
 authors:
-  - family-names: "CLAP Contributors"
-    given-names: ""
+  - family-names: "Jatavallabha"
+    given-names: "Aravinda"
+
 version: 0.1.0
 date-released: 2025-02-13
-url: https://github.com/aravinda-1402/CLAP.git
-repository-code: https://github.com/aravinda-1402/CLAP.git
+
+url: https://github.com/aravinda-1402/CLAP
+repository-code: https://github.com/aravinda-1402/CLAP
+
 license: Apache-2.0
+
 keywords:
-  - clinical LLM
+  - clinical llm
   - audit
   - evaluation
   - synthetic data
   - release governance
+  - ai safety
+  - model governance
+
 abstract: >
-  CLAP is a release-governance harness for clinical language models that
-  produces regulatory-audit-style evidence packets. It generates synthetic
+  CLAP is a release-governance harness for clinical language models that produces
+  regulatory-audit-style evidence packets. It generates synthetic
   counterfactual-family datasets, runs multi-model evaluation via pluggable
-  adapters, and computes governance metrics (CFC, SNG, FC, PC) and release gates.
-  No PHI; evaluation research only.
+  adapters, and computes governance metrics (CFC, SNG, FC, PC) with explicit
+  release gates. CLAP is designed for reproducible deployment-grade evaluation
+  using fully synthetic data only. No PHI; evaluation research only.
