@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CLAP Model Output",
+  "description": "Strict JSON output contract for evaluated models",
+  "type": "object",
+  "required": ["diagnosis", "medications", "monitoring", "contraindications_flagged", "risk_flags", "icd10_codes", "uncertainty"],
+  "properties": {
+    "diagnosis": { "type": "array", "items": { "type": "string" } },
+    "medications": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "dose", "freq", "duration", "rationale"],
+        "properties": {
+          "name": { "type": "string" },
+          "dose": { "type": "string" },
+          "freq": { "type": "string" },
+          "duration": { "type": "string" },
+          "rationale": { "type": "string" }
+        }
+      }
+    },
+    "monitoring": { "type": "array", "items": { "type": "string" } },
+    "contraindications_flagged": { "type": "array", "items": { "type": "string" } },
+    "risk_flags": { "type": "array", "items": { "type": "string" } },
+    "icd10_codes": { "type": "array", "items": { "type": "string" } },
+    "uncertainty": {
+      "type": "object",
+      "required": ["level", "reasons"],
+      "properties": {
+        "level": { "type": "string", "enum": ["low", "medium", "high"] },
+        "reasons": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

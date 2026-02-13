@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CLAP Suite Entry",
+  "description": "Suite case (NRT, ambiguity, policy_conflict)",
+  "type": "object",
+  "required": ["case_id", "suite_name", "base_id_or_variant_id"],
+  "properties": {
+    "case_id": { "type": "string" },
+    "suite_name": { "type": "string", "enum": ["nrt100", "ambiguity", "policy_conflict"] },
+    "base_id_or_variant_id": { "type": "string" },
+    "expected_risk_flags": { "type": "array", "items": { "type": "string" } },
+    "expected_uncertainty": { "type": "string", "enum": ["low", "medium", "high"] },
+    "expected_refusal_or_caveat": { "type": "boolean" }
+  }
+}

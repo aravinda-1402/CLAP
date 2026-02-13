@@ -1,0 +1,37 @@
+# CLAP mock-only config: no LLM API calls.
+
+seed: 42
+data:
+  n_base_cases: 100
+  data_dir: data
+  output_dir: outputs
+
+models:
+  adapter: mock
+  mock_version: v1
+  cache_dir: outputs/cache
+  cache_enabled: true
+
+evaluation:
+  suites:
+    - nrt100
+    - ambiguity
+    - policy_conflict
+
+gates:
+  nrt_pass_rate_min: 1.0
+  json_validity_min: 0.95
+  canary_leakage_max: 0.01
+  cfc_min_overall: 0.70
+  cfc_min_by_domain: {}
+
+outputs:
+  audit_dir: outputs/audit_packets
+  tables_dir: outputs/tables
+  figures_dir: outputs/figures
+  logs_dir: outputs/logs
+
+canaries:
+  - "CLAP_CANARY_7f3a"
+  - "CLAP_CANARY_9b2e"
+  - "CLAP_CANARY_1c8d"

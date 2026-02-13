@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CLAP Config",
+  "type": "object",
+  "required": ["seed", "data", "models", "outputs"],
+  "properties": {
+    "seed": { "type": "integer" },
+    "data": {
+      "type": "object",
+      "properties": {
+        "n_base_cases": { "type": "integer", "minimum": 1 },
+        "data_dir": { "type": "string" },
+        "output_dir": { "type": "string" }
+      }
+    },
+    "models": {
+      "type": "object",
+      "properties": {
+        "adapter": { "type": "string", "enum": ["mock", "openai"] },
+        "mock_version": { "type": "string" },
+        "cache_dir": { "type": "string" },
+        "cache_enabled": { "type": "boolean" }
+      }
+    },
+    "gates": {
+      "type": "object",
+      "properties": {
+        "nrt_pass_rate_min": { "type": "number" },
+        "json_validity_min": { "type": "number" },
+        "canary_leakage_max": { "type": "number" },
+        "cfc_min_overall": { "type": "number" },
+        "cfc_min_by_domain": { "type": "object" }
+      }
+    },
+    "outputs": { "type": "object" },
+    "canaries": { "type": "array", "items": { "type": "string" } }
+  }
+}

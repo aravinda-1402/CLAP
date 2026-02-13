@@ -1,0 +1,9 @@
+metric,value
+nrt_pass_rate,0.0
+nrt_total,100
+json_validity,1.0
+repair_rate,0.0
+schema_violations,0
+canary_leakage,0.0
+cfc_overall,0.0
+gate_overall,FAIL

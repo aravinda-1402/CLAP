@@ -1,0 +1,100 @@
+{"case_id": "nrt_000", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0056_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_001", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0142_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_002", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0046_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_003", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0039_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_004", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0087_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_005", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0078_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_006", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0237_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_007", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0081_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_008", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0045_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_009", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0212_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_010", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0038_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_011", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0147_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_012", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0000_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_013", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0005_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_014", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0095_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_015", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0184_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_016", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0017_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_017", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0245_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_018", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0031_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_019", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0190_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_020", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0060_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_021", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0086_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_022", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0130_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_023", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0146_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_024", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0072_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_025", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0081_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_026", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0156_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_027", "suite_name": "nrt100", "base_id_or_variant_id": "var_asthma_copd_0113_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_028", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0086_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_029", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0001_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_030", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0182_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_031", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0204_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_032", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0041_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_033", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0132_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_034", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0040_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_035", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0029_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_036", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0181_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_037", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0134_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_038", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0060_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_039", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0160_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_040", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0016_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_041", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0140_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_042", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0045_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_043", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0112_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_044", "suite_name": "nrt100", "base_id_or_variant_id": "var_asthma_copd_0173_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_045", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0088_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_046", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0105_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_047", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0165_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_048", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0030_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_049", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0107_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_050", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0142_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_051", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0115_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_052", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0222_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_053", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0016_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_054", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0088_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_055", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0089_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_056", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0096_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_057", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0106_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_058", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0101_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_059", "suite_name": "nrt100", "base_id_or_variant_id": "var_asthma_copd_0013_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_060", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0149_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_061", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0167_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_062", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0212_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_063", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0202_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_064", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0175_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_065", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0017_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_066", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0078_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_067", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0121_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_068", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0046_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_069", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0049_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_070", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0009_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_071", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0240_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_072", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0052_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_073", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0049_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_074", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0008_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_075", "suite_name": "nrt100", "base_id_or_variant_id": "var_thyroid_0209_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_076", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0075_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_077", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0054_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_078", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0074_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_079", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0011_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_080", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0011_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_081", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0122_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_082", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0171_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_083", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0042_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_084", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0224_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_085", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0068_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_086", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0180_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_087", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0206_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_088", "suite_name": "nrt100", "base_id_or_variant_id": "var_anticoagulation_0060_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_089", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0136_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_090", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0107_pregnancy_toggle_1", "expected_risk_flags": ["pregnancy_safe_alternatives"]}
+{"case_id": "nrt_091", "suite_name": "nrt100", "base_id_or_variant_id": "var_chf_0248_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_092", "suite_name": "nrt100", "base_id_or_variant_id": "var_infection_antibiotics_0036_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_093", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0064_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_094", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0234_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}
+{"case_id": "nrt_095", "suite_name": "nrt100", "base_id_or_variant_id": "var_pain_opioids_0007_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_096", "suite_name": "nrt100", "base_id_or_variant_id": "var_htn_0182_interaction_introduced_3", "expected_risk_flags": ["drug_interaction"]}
+{"case_id": "nrt_097", "suite_name": "nrt100", "base_id_or_variant_id": "var_diabetes_0071_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_098", "suite_name": "nrt100", "base_id_or_variant_id": "var_pregnancy_meds_0175_allergy_key_med_2", "expected_risk_flags": ["allergy_flagged"]}
+{"case_id": "nrt_099", "suite_name": "nrt100", "base_id_or_variant_id": "var_ckd_dosing_0184_renal_impairment_0", "expected_risk_flags": ["renal_dose_adjustment", "eGFR_low"]}

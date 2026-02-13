@@ -1,0 +1,18 @@
+% Placeholder: fill with actual result narrative after running the pipeline.
+% Include: overall gate PASS/FAIL, NRT pass rate, CFC by domain, format compliance, canary leakage.
+% Reference figures: \includegraphics[width=\linewidth]{figs/cfc_by_domain.png}, etc.
+
+Results are produced by running \texttt{make all} or \texttt{python -m clap run --config experiments/config.yaml}. The audit packet (JSON and PDF) in \texttt{outputs/audit\_packets/} contains the full summary. Key outputs:
+\begin{itemize}
+  \item Gate outcome (PASS/FAIL) and list of failed gates.
+  \item NRT pass rate and per-case failures.
+  \item CFC overall and by domain (see \texttt{outputs/figures/cfc\_by\_domain.png}).
+  \item Format compliance and repair rate (see \texttt{outputs/figures/format\_compliance.png}).
+  \item Canary leakage (see \texttt{outputs/figures/canary\_leakage.png}).
+\end{itemize}
+
+Figures (run \texttt{make run} then \texttt{make paper} to copy into \texttt{paper/figs/}):
+\begin{center}
+\includegraphics[width=0.8\linewidth]{figs/cfc_by_domain.png}
+\end{center}
+Additional figures: \texttt{figs/cfc\_overall.png}, \texttt{figs/format\_compliance.png}, \texttt{figs/nrt\_safety.png}, \texttt{figs/canary\_leakage.png}.

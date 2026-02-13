@@ -1,0 +1,31 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CLAP Audit Packet",
+  "description": "Release audit evidence packet",
+  "type": "object",
+  "required": ["metadata", "gating", "suite_summaries"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "timestamp": { "type": "string" },
+        "git_commit_hash": { "type": "string" },
+        "config_hash": { "type": "string" },
+        "env_info": { "type": "object" },
+        "cli_command": { "type": "string" }
+      }
+    },
+    "gating": {
+      "type": "object",
+      "properties": {
+        "overall": { "type": "string", "enum": ["PASS", "FAIL"] },
+        "gate_failures": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "suite_summaries": { "type": "object" },
+    "domain_breakdown": { "type": "object" },
+    "worst_failures": { "type": "array" },
+    "figure_refs": { "type": "array", "items": { "type": "string" } },
+    "table_refs": { "type": "array", "items": { "type": "string" } }
+  }
+}

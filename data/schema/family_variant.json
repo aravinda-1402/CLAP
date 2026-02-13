@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CLAP Family Variant",
+  "description": "Counterfactual variant of a base case",
+  "type": "object",
+  "required": ["variant_id", "base_id", "variant_type", "expected_change_spec", "summary"],
+  "properties": {
+    "variant_id": { "type": "string", "pattern": "^var_[a-z0-9_]+$" },
+    "base_id": { "type": "string" },
+    "variant_type": { "type": "string", "enum": ["renal_impairment", "pregnancy_toggle", "allergy_key_med", "interaction_introduced"] },
+    "expected_change_spec": {
+      "type": "object",
+      "description": "Machine-readable expected changes",
+      "properties": {
+        "medication_changes": { "type": "array", "items": { "type": "string" } },
+        "risk_flags_expected": { "type": "array", "items": { "type": "string" } },
+        "contraindications_expected": { "type": "array", "items": { "type": "string" } },
+        "forbidden_changes": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "summary": { "type": "string" }
+  }
+}
