@@ -2,7 +2,7 @@
 
 Release-governance harness for Clinical LLMs: generates a synthetic counterfactual-family dataset, runs multi-model evaluation via pluggable adapters, computes governance metrics and release gates, and produces an **Audit Packet** (JSON + PDF), figures, tables, and an arXiv-ready paper scaffold.
 
-**No PHI. No real patient data. Synthetic only. Evaluation research only—not for clinical use.**
+**No PHI. No real patient data. Synthetic only. Evaluation research only-not for clinical use.**
 
 ---
 
