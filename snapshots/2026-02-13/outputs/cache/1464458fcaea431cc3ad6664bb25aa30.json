@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_anticoagulation_0110_renal_impairment_0\",\n  \"base_id\": \"base_anticoagulation_0110\",\n  \"evaluation\": {\n    \"medication_changes\": [\"adjust_warfarin_for_renal\"],\n    \"risk_flags_expected\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\"increase_nephrotoxic_dose\"]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 249,
+"completion_tokens": 109,
+"latency_seconds": 1.2209279999951832
+}

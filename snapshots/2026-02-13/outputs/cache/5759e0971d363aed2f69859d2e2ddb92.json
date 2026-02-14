@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_chf_0158_interaction_introduced_3\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_detected\": [\n      \"drug_interaction\"\n    ],\n    \"contraindications_detected\": [\n      \"interaction_requires_monitoring_or_change\"\n    ],\n    \"forbidden_changes_made\": []\n  },\n  \"compliance\": \"meets_expectations\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 212,
+"completion_tokens": 92,
+"latency_seconds": 1.1785081000125501
+}

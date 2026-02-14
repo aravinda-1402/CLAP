@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_thyroid_0069_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": [\"substitute_for_levothyroxine\"],\n    \"risk_flags_expected\": [\"allergy_flagged\"],\n    \"contraindications_expected\": [\"avoid_levothyroxine_allergy\"],\n    \"forbidden_changes\": [\"prescribe_levothyroxine\"]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 249,
+"completion_tokens": 93,
+"latency_seconds": 1.9426742999930866
+}

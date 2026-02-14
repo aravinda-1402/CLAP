@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0229\",\n  \"domain\": \"thyroid\",\n  \"demographics\": {\n    \"age_group\": \"65-74\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"hypothyroidism\",\n    \"obesity\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"levothyroxine\",\n      \"dose\": \"100mcg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"TSH\": 5.2,\n    \"T4_free\": 0.9,\n    \"Cr\": 1.0\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"assessment\": \"TSH is mildly elevated at 5.2 mIU/L with a low-normal free T4 of 0.9 ng/dL, suggesting suboptimal hypothyroidism control. The patient is on levothyroxine 100 mcg daily. Consider evaluating adherence, absorption issues, or need for dose adjustment.\",\n  \"plan\": [\n    \"Repeat TSH and free T4 in 6-8 weeks after any levothyroxine dose adjustment.\",\n    \"Review medication adherence and potential interfering factors (e.g., supplements, GI disorders).\",\n    \"Optimize levothyroxine dose to achieve TSH within reference range (typically 0.4-4.0 mIU/L).\",\n    \"Monitor for symptoms of hypo- or hyperthyroidism.\",\n    \"Address obesity with lifestyle interventions as it can impact thyroid hormone metabolism.\"\n  ],\n  \"notes\": \"Synthetic case 230. Domain: thyroid. Age group 65-74, sex M. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 309,
+"completion_tokens": 389,
+"latency_seconds": 5.900111099996138
+}

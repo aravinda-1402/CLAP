@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_chf_0028\",\n  \"assessment\": \"This is a 65-74-year-old male with heart failure with reduced ejection fraction (HFrEF) and hypertension, currently managed with lisinopril, carvedilol, and furosemide. Vital signs and labs are within acceptable ranges. BNP of 450 indicates some degree of volume overload or cardiac stress but is not critically elevated. Renal function is stable with eGFR 65 and creatinine 1.2, and potassium is normal at 4.0. Current medication regimen is appropriate for HFrEF with ACE inhibitor, beta-blocker, and diuretic. Blood pressure and heart rate are adequately controlled.\",\n  \"plan_recommendations\": [\n    \"Continue current medications: lisinopril 10mg daily, carvedilol 6.25mg BID, furosemide 20mg daily.\",\n    \"Monitor symptoms of worsening heart failure such as weight gain, edema, dyspnea.\",\n    \"Regular follow-up with echocardiogram to evaluate ejection fraction and cardiac function.\",\n    \"Monitor renal function and electrolytes periodically given ACE inhibitor and diuretic use.\",\n    \"Encourage lifestyle measures: low sodium diet, fluid restriction as needed, physical activity as tolerated.\",\n    \"Consider uptitration of beta-blocker dose gradually as tolerated to optimize heart failure outcomes.\",\n    \"Evaluate blood pressure targets per hypertension guidelines given patient's comorbidity.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 326,
+"latency_seconds": 6.092583899997408
+}

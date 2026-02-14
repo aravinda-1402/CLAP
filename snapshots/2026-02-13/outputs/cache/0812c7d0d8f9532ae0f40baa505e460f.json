@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pregnancy_meds_0195\",\n  \"evaluation\": {\n    \"appropriateness_of_medications\": {\n      \"levothyroxine\": \"Appropriate for hypothyroidism management in this age group.\",\n      \"prenatal_vitamin\": \"Not typically indicated for a 65-74 year old female; prenatal vitamins are primarily intended for pregnant or childbearing age women.\"\n    },\n    \"pregnancy_status\": \"Not pregnant as per pregnancy_flag=false; prenatal vitamin use is unnecessary.\",\n    \"recommendations\": [\n      \"Continue levothyroxine as prescribed with regular monitoring of TSH.\",\n      \"Consider discontinuing prenatal vitamin unless there is a specific indication beyond pregnancy (e.g., specific nutrient deficiencies).\",\n      \"Routine monitoring of thyroid function recommended to maintain TSH within target range.\",\n      \"No adverse vitals or labs identified; renal function normal.\"\n    ],\n    \"summary\": \"Levothyroxine therapy appropriate for hypothyroidism. Prenatal vitamin is not clinically indicated given patient's age and non-pregnant status.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 224,
+"latency_seconds": 3.736774199991487
+}

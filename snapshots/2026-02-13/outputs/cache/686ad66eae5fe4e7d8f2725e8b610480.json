@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_infection_antibiotics_0106_renal_impairment_0\",\n  \"base_id\": \"base_infection_antibiotics_0106\",\n  \"result\": {\n    \"medication_changes\": [\n      \"adjust_amoxicillin_for_renal\"\n    ],\n    \"risk_flags_found\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_found\": [],\n    \"forbidden_changes_found\": []\n  },\n  \"evaluation\": \"All expected medication changes, risk flags, and contraindications are correctly identified. No forbidden changes were made.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 250,
+"completion_tokens": 137,
+"latency_seconds": 1.6787753999815322
+}

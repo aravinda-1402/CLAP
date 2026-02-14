@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0086\",\n  \"assessment\": {\n    \"infection_status\": \"cellulitis active\",\n    \"fever_present\": true,\n    \"response_to_antibiotics\": \"pending evaluation\",\n    \"allergy_considerations\": \"patient allergic to sulfa, current antibiotics (amoxicillin) appropriate\",\n    \"renal_function\": \"normal (eGFR 90, Cr 1.0)\",\n    \"other_factors\": \"anxiety noted, monitor for compliance\"\n  },\n  \"recommendations\": {\n    \"continue_current_antibiotics\": true,\n    \"monitor_vitals_and_labs\": true,\n    \"consider_pain_and_anxiety_management\": true,\n    \"follow_up_timing\": \"48-72 hours post treatment initiation\",\n    \"avoid_sulfa_drugs\": true\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 357,
+"completion_tokens": 183,
+"latency_seconds": 4.117014700022992
+}

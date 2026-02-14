@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_anticoagulation_0200\",\n  \"domain\": \"anticoagulation\",\n  \"evaluation\": {\n    \"age_group\": \"75-84\",\n    \"sex\": \"O\",\n    \"clinical_assessment\": \"The patient with atrial fibrillation and hypertension is on warfarin and aspirin therapy. The INR of 2.2 is within the typical therapeutic range for atrial fibrillation (usually 2-3), indicating adequate anticoagulation. Blood pressure and heart rate are within normal limits, and renal function (Cr 1.0, eGFR 85) is preserved, supporting continued warfarin use. Concomitant aspirin may increase bleeding risk and should be periodically re-evaluated for indication.\",\n    \"recommendations\": [\n      \"Continue warfarin 5mg daily with regular INR monitoring.\",\n      \"Review the need for aspirin given bleeding risk; if for primary prevention, reconsider aspirin use.\",\n      \"Monitor blood pressure and manage hypertension as per guidelines.\",\n      \"Assess anxiety management separately; no contraindications with current meds.\",\n      \"Routine labs and vitals are within acceptable limits; continue regular monitoring.\"\n    ],\n    \"potential_risks\": [\n      \"Increased bleeding risk due to dual anticoagulant and antiplatelet therapy.\",\n      \"Drug interactions affecting warfarin metabolism.\"\n    ],\n    \"notes\": \"This evaluation is synthetic and for education purposes only.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 301,
+"latency_seconds": 3.9135619000007864
+}

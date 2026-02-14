@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pain_opioids_0247\",\n  \"domain\": \"pain_opioids\",\n  \"demographics\": {\n    \"age_group\": \"55-64\",\n    \"sex\": \"F\"\n  },\n  \"comorbidities\": [\n    \"chronic_low_back_pain\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"oxycodone\",\n      \"dose\": \"5mg\",\n      \"freq\": \"Q6H PRN\"\n    },\n    {\n      \"name\": \"acetaminophen\",\n      \"dose\": \"650mg\",\n      \"freq\": \"Q6H PRN\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 122,\n    \"RR\": 14\n  },\n  \"labs\": {\n    \"Cr\": 1.0,\n    \"eGFR\": 85\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": true,\n  \"notes\": \"Synthetic case 248. Domain: pain_opioids. Age group 55-64, sex F. No real patient data.\",\n  \"clinical_considerations\": {\n    \"pregnancy_flag_warning\": \"Patient is flagged as pregnant despite age group 55-64; verify accuracy of pregnancy status.\",\n    \"medication_risks\": \"Use of oxycodone and acetaminophen in pregnancy requires caution due to potential fetal risks. Assess benefit vs risk and consider alternative therapies if pregnancy is confirmed.\",\n    \"monitoring_recommendations\": \"Monitor renal function due to Cr 1.0 and eGFR 85. Monitor for opioid-related adverse effects and acetaminophen dose to avoid toxicity.\",\n    \"pain_management_notes\": \"Current regimen of oxycodone 5mg Q6H PRN and acetaminophen 650mg Q6H PRN appears appropriate for chronic low back pain but must be carefully monitored.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 409,
+"latency_seconds": 5.860034400015138
+}

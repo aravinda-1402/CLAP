@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_chf_0108\",\n  \"assessment\": {\n    \"summary\": \"Patient is a 55-64 year old female with heart failure with reduced ejection fraction (HFrEF) and hypertension, currently managed on lisinopril, carvedilol, and furosemide. Vitals and labs are within acceptable ranges with BP 115/xx, HR 68 bpm, BNP mildly elevated at 450 consistent with chronic heart failure, stable renal function (Cr 1.2, eGFR 65), and normal potassium (4.0).\",\n    \"clinical_notes\": \"The current medication regimen is appropriate for HFrEF including RAAS inhibition (lisinopril), beta-blockade (carvedilol), and diuresis (furosemide). Blood pressure and heart rate are well controlled. BNP elevation reflects chronic heart failure status. No electrolyte abnormalities or renal impairment noted. Continue current management and monitor clinical status with regular follow-up.\",\n    \"recommendations\": [\n      \"Continue current heart failure guideline-directed medical therapy.\",\n      \"Monitor weight daily to assess fluid status.\",\n      \"Regularly assess renal function and electrolytes given diuretic use.\",\n      \"Reassess symptoms and functional status to optimize therapy.\",\n      \"Consider referral to heart failure specialist if condition changes.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 280,
+"latency_seconds": 4.302144100016449
+}

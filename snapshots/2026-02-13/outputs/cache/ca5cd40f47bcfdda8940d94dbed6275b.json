@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_ckd_dosing_0084_interaction_introduced_3\",\n  \"base_id\": \"base_ckd_dosing_0084\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_identified\": [\n      \"drug_interaction\"\n    ],\n    \"contraindications_identified\": [\n      \"interaction_requires_monitoring_or_change\"\n    ],\n    \"forbidden_changes_made\": false,\n    \"compliance_with_expected\": true\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 218,
+"completion_tokens": 108,
+"latency_seconds": 2.345181800017599
+}

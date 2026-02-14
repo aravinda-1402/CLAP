@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0125\",\n  \"assessment\": {\n    \"pregnancy_flag_age_concern\": true,\n    \"pregnancy_flag_comment\": \"Patient is aged 55-64 which is beyond typical childbearing age; pregnancy_flag may be synthetic or incorrect.\",\n    \"thyroid_management\": {\n      \"current_therapy\": \"levothyroxine 75mcg daily\",\n      \"TSH_level\": 2.1,\n      \"interpretation\": \"TSH within normal reference range, appropriate dose for hypothyroidism\",\n      \"recommendation\": \"Continue current levothyroxine regimen and monitor TSH periodically\"\n    },\n    \"prenatal_vitamin_use\": {\n      \"comment\": \"Prenatal vitamin is usually indicated in pregnancy; given patient's age and pregnancy_flag, evaluate necessity.\",\n      \"recommendation\": \"Assess indications for prenatal vitamin supplementation considering possible pregnancy status\"\n    },\n    \"vitals_and_labs\": {\n      \"BP_sys\": 118,\n      \"creatinine\": 0.9,\n      \"interpretation\": \"Vital signs and labs within expected normal limits\"\n    }\n  },\n  \"recommendations\": [\n    \"Reassess pregnancy_flag validity given patient's age and absence of pregnancy symptoms.\",\n    \"If pregnancy is confirmed, continue prenatal vitamin and monitor thyroid function closely.\",\n    \"If pregnancy is not current, consider discontinuation of prenatal vitamin unless otherwise indicated.\",\n    \"Continue levothyroxine treatment with periodic monitoring of TSH.\"\n  ]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 319,
+"latency_seconds": 4.914999800006626
+}

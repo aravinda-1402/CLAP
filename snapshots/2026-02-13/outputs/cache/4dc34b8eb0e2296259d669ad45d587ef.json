@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0029\",\n  \"domain\": \"thyroid\",\n  \"assessment\": \"The patient is a female aged 75-84 with a history of hypothyroidism and GERD, currently treated with daily levothyroxine 100 mcg. Vital signs are stable (BP 128 mmHg, HR 72 bpm). Laboratory studies show a mildly elevated TSH at 5.2 mIU/L and a low-normal free T4 at 0.9 ng/dL, which may indicate underreplacement of thyroid hormone or subclinical hypothyroidism. Creatinine is within normal limits at 1.0 mg/dL.\",\n  \"recommendation\": \"Consider evaluating levothyroxine dose adjustment given the elevated TSH and low-normal free T4 in the context of hypothyroidism. Monitor thyroid function tests regularly and assess for symptoms of hypothyroidism. Continue GERD management as currently prescribed. No acute changes indicated at this time.\",\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 310,
+"completion_tokens": 226,
+"latency_seconds": 3.6763525000133086
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_htn_0012\",\n  \"domain\": \"htn\",\n  \"assessment\": \"Patient is a 45-54 year old female with hypertension and hyperlipidemia currently managed on lisinopril 10mg daily and amlodipine 5mg daily. Current blood pressure is elevated at 145/92 mmHg despite dual antihypertensive therapy, indicating suboptimal blood pressure control. Heart rate is within normal range at 76 bpm. Labs reveal normal potassium (4.2 mmol/L), stable renal function with creatinine at 1.1 mg/dL and an eGFR of 82 mL/min/1.73m2, suggesting no significant renal impairment. No allergies reported and not pregnant. Given persistent hypertension, consideration for further lifestyle modification reinforcement and possible adjustment of antihypertensive regimen may be warranted. Close monitoring for blood pressure and adherence is advised.\",\n  \"recommendations\": [\n    \"Reinforce lifestyle modifications including low sodium diet, regular physical activity, and weight management.\",\n    \"Consider uptitration of current medications or addition of a third antihypertensive agent if blood pressure remains uncontrolled on follow-up.\",\n    \"Regular monitoring of blood pressure and kidney function.\",\n    \"Monitor for medication adherence and side effects.\"\n  ],\n  \"allergies\": [],\n  \"pregnancy_flag\": false\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 289,
+"latency_seconds": 3.7662314000190236
+}

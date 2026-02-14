@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_chf_0108_renal_impairment_0\",\n  \"base_id\": \"base_chf_0108\",\n  \"evaluation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true,\n    \"overall_comment\": \"The medication changes include adjustment of furosemide given renal impairment. Risk flags include renal dose adjustment and low eGFR as expected. No contraindications are present, and no increase in nephrotoxic doses occurred. Overall, all expectations are met.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 139,
+"latency_seconds": 2.0911269999924116
+}

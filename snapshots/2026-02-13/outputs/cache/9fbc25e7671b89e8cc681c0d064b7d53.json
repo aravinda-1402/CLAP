@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_thyroid_0039_renal_impairment_0\",\n  \"medication_changes\": [\"adjust_levothyroxine_for_renal\"],\n  \"risk_flags\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n  \"contraindications\": [],\n  \"forbidden_changes\": [\"increase_nephrotoxic_dose\"]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 248,
+"completion_tokens": 85,
+"latency_seconds": 1.35457480000332
+}

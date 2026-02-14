@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0174\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"current_dose\": \"300mg TID\",\n      \"renal_adjustment\": \"Dose adjustment recommended for eGFR 32. Consider reducing dose or extending dosing interval to avoid accumulation and toxicity.\"\n    },\n    \"metformin\": {\n      \"current_dose\": \"500mg BID\",\n      \"renal_adjustment\": \"Use with caution; metformin contraindicated if eGFR <30 mL/min/1.73m2. Monitor renal function closely; no dose reduction required at eGFR 32 but avoid if eGFR falls below 30.\"\n    }\n  },\n  \"summary\": \"The patient with CKD stage 3b (eGFR 32) and diabetes is on gabapentin and metformin. Gabapentin dose may need reduction or interval extension due to reduced renal clearance. Metformin is acceptable at this eGFR with monitoring; however, caution is advised given progression risk. No contraindications noted. Continue monitoring renal function and adjust medications accordingly.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 340,
+"completion_tokens": 239,
+"latency_seconds": 4.183513500000117
+}

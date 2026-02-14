@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pregnancy_meds_0165\",\n  \"assessment\": \"Patient is a 35-44 year old individual with hypothyroidism managed on levothyroxine 75mcg daily and taking a prenatal vitamin daily. Current lab values show TSH at 2.1 mIU/L, which is within the normal range indicating adequate thyroid hormone replacement. Creatinine is 0.9 mg/dL, within normal limits, and blood pressure is 118 mmHg systolic, which is also within normal range. No allergies reported and patient is not pregnant at this time.\",\n  \"recommendations\": [\n    \"Continue current levothyroxine dose with regular monitoring of TSH every 6-12 months or as clinically indicated.\",\n    \"Maintain prenatal vitamin supplementation as part of general health maintenance.\",\n    \"Monitor thyroid function tests if pregnancy occurs or if symptoms suggest altered thyroid status.\",\n    \"Follow-up with primary care or endocrinology as appropriate.\"\n  ],\n  \"clinical_notes\": \"No immediate changes indicated. Current management appears appropriate with stable labs and vitals.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 227,
+"latency_seconds": 2.552770000009332
+}

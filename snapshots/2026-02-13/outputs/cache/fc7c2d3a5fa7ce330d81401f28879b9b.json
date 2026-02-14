@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0189\",\n  \"interpretation\": {\n    \"TSH\": {\n      \"value\": 5.2,\n      \"unit\": \"mIU/L\",\n      \"interpretation\": \"Elevated\",\n      \"comment\": \"TSH is elevated above the typical upper limit of around 4.0 mIU/L, suggesting suboptimal thyroid hormone replacement.\"\n    },\n    \"T4_free\": {\n      \"value\": 0.9,\n      \"unit\": \"ng/dL\",\n      \"interpretation\": \"Low-normal\",\n      \"comment\": \"Free T4 is at low-normal range, which may correspond with the elevated TSH, indicating possible undertreatment.\"\n    },\n    \"clinical_recommendation\": \"Consider evaluating levothyroxine dose and compliance. Possible slight dose adjustment upward may be warranted to achieve TSH within target range.\"\n  },\n  \"summary\": \"35-44 year old male with hypothyroidism on levothyroxine 100 mcg daily with elevated TSH of 5.2 mIU/L and low-normal free T4 of 0.9 ng/dL suggesting suboptimal thyroid hormone replacement.\",\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 264,
+"latency_seconds": 4.391231099987635
+}

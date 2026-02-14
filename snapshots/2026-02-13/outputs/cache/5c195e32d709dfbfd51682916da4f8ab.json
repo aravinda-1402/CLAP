@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_diabetes_0121\",\n  \"domain\": \"diabetes\",\n  \"evaluation\": {\n    \"summary\": \"The patient is a 65-74 year old with type 2 diabetes and obesity, currently managed with metformin 1000mg BID and insulin glargine 20 units QHS. Vitals and labs are within expected ranges for stable diabetes management with an HbA1c of 7.8%. Renal function is preserved with normal creatinine and eGFR. Allergy to latex is noted. No pregnancy risk.\",\n    \"recommendations\": [\n      \"Continue current diabetes medications with monitoring of glycemic control.\",\n      \"Consider lifestyle interventions targeting obesity to support glycemic management and cardiovascular health.\",\n      \"Continue regular monitoring of HbA1c every 3-6 months to assess diabetes control.\",\n      \"Monitor renal function periodically given diabetes and age.\",\n      \"Assess for potential hypoglycemia given insulin therapy, especially in elderly population.\",\n      \"Avoid latex exposure due to allergy.\"\n    ],\n    \"risk_assessment\": {\n      \"glycemic_control\": \"Adequate, but HbA1c slightly above target of <7%, potential for adjustment.\",\n      \"renal_function\": \"Normal\",\n      \"cardiovascular_risk\": \"Moderate due to age and diabetes; BP well controlled at 132 mmHg systolic.\",\n      \"hypoglycemia_risk\": \"Moderate due to insulin use.\"\n    },\n    \"clinical_notes\": \"No urgent changes recommended given current stable status. Emphasis on continued monitoring and lifestyle modifications.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 349,
+"completion_tokens": 329,
+"latency_seconds": 4.542809699982172
+}

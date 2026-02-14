@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_diabetes_0101\",\n  \"domain\": \"diabetes\",\n  \"evaluation\": {\n    \"summary\": \"The patient is a male aged 55-64 with type 2 diabetes and obesity, managed on metformin 1000mg BID and insulin glargine 20 units QHS. Current labs demonstrate an HbA1c of 7.8%, indicating suboptimal glycemic control. Renal function is preserved with a creatinine of 1.0 mg/dL and eGFR of 88 mL/min/1.73m2. Vitals show a systolic blood pressure of 132 mmHg and heart rate of 78 bpm. There are no reported allergies. The therapeutic regimen is appropriate; however, HbA1c above target suggests need for further optimization of diabetes management. Consider lifestyle intervention intensification and evaluation for potential therapy adjustments. Monitor for obesity-related complications.\",\n    \"recommendations\": [\n      \"Continue current metformin and insulin glargine regimen.\",\n      \"Assess adherence and efficacy of current treatment.\",\n      \"Consider lifestyle interventions including diet and physical activity enhancements.\",\n      \"Monitor HbA1c every 3 months to evaluate response to therapy.\",\n      \"Evaluate cardiovascular risk profile and optimize blood pressure and lipid management as indicated.\",\n      \"Screen for diabetes complications regularly.\"\n    ],\n    \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 298,
+"latency_seconds": 4.941452000028221
+}

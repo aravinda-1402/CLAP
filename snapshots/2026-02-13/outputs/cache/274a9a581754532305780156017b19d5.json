@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_anticoagulation_0220_interaction_introduced_3\",\n  \"base_id\": \"base_anticoagulation_0220\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_identified\": [\n      \"drug_interaction\"\n    ],\n    \"contraindications_identified\": [\n      \"interaction_requires_monitoring_or_change\"\n    ],\n    \"forbidden_changes\": [\n      \"ignore_interaction\"\n    ],\n    \"conclusion\": \"The variant correctly identifies the drug interaction risk and the requirement for monitoring or change, with no medication changes made and no forbidden changes applied.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 218,
+"completion_tokens": 141,
+"latency_seconds": 2.644958399992902
+}

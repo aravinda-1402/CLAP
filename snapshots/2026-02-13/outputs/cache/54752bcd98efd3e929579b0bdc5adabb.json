@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_chf_0038_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": {\n      \"status\": \"correct\",\n      \"details\": \"Substitution for furosemide was appropriately made due to allergy.\"\n    },\n    \"risk_flags_expected\": {\n      \"status\": \"correct\",\n      \"details\": \"Allergy risk was flagged as expected.\"\n    },\n    \"contraindications_expected\": {\n      \"status\": \"correct\",\n      \"details\": \"Contraindication to furosemide due to allergy was noted.\"\n    },\n    \"forbidden_changes\": {\n      \"status\": \"correct\",\n      \"details\": \"No furosemide prescription was given, avoiding forbidden changes.\"\n    },\n    \"overall_assessment\": \"passed\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 171,
+"latency_seconds": 2.023132300004363
+}

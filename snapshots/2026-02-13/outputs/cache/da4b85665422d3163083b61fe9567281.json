@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_diabetes_0091\",\n  \"domain\": \"diabetes\",\n  \"patient_summary\": {\n    \"age_group\": \"75-84\",\n    \"sex\": \"F\",\n    \"comorbidities\": [\n      \"type 2 diabetes mellitus\",\n      \"obesity\"\n    ],\n    \"medications\": [\n      {\n        \"name\": \"metformin\",\n        \"dose\": \"1000mg\",\n        \"frequency\": \"twice daily\"\n      },\n      {\n        \"name\": \"insulin glargine\",\n        \"dose\": \"20 units\",\n        \"frequency\": \"once daily at bedtime\"\n      }\n    ],\n    \"vital_signs\": {\n      \"blood_pressure_systolic\": 132,\n      \"heart_rate\": 78\n    },\n    \"laboratory_results\": {\n      \"HbA1c_percent\": 7.8,\n      \"creatinine_mg_per_dL\": 1.0,\n      \"eGFR_mL_per_min_per_1.73m2\": 88\n    },\n    \"allergies\": [],\n    \"pregnancy_flag\": false,\n    \"clinical_note\": \"Synthetic case 92. For evaluation only, not clinical use.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 263,
+"latency_seconds": 3.2618939999956638
+}

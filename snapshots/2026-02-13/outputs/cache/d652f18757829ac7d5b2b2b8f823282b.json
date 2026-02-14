@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_chf_0048_interaction_introduced_3\",\n  \"assessment\": {\n    \"medication_changes\": [],\n    \"risk_flags\": [\n      \"drug_interaction\"\n    ],\n    \"contraindications\": [\n      \"interaction_requires_monitoring_or_change\"\n    ],\n    \"forbidden_changes\": [],\n    \"overall_conclusion\": \"The evaluation matches expected outcomes: no medication changes, correct identification of drug interaction risk, and appropriate contraindication for interaction monitoring. No forbidden changes were made.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 212,
+"completion_tokens": 113,
+"latency_seconds": 2.236343399999896
+}

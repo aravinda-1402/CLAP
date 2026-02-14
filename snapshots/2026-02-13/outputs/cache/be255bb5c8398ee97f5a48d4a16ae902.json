@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0105\",\n  \"domain\": \"pregnancy_meds\",\n  \"demographics\": {\n    \"age_group\": \"55-64\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"hypothyroidism\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"levothyroxine\",\n      \"dose\": \"75mcg\",\n      \"freq\": \"daily\"\n    },\n    {\n      \"name\": \"prenatal_vitamin\",\n      \"dose\": \"1 tab\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 118\n  },\n  \"labs\": {\n    \"TSH\": 2.1,\n    \"Cr\": 0.9\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": true,\n  \"notes\": \"This is a synthetic case of a 55-64 year old male flagged as pregnant, which is biologically implausible. Levothyroxine use is appropriate given hypothyroidism and TSH is within normal range, indicating adequate control. Prenatal vitamins are typically intended for pregnant women and their use in a male patient with a pregnancy flag should be reviewed for clinical appropriateness or error in pregnancy_flag designation. Labs and vitals are within normal limits. No allergies noted.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 299,
+"latency_seconds": 4.655025499989279
+}

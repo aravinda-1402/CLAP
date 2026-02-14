@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_chf_0068_renal_impairment_0\",\n  \"base_id\": \"base_chf_0068\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_furosemide_for_renal\"\n    ],\n    \"risk_flags_expected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\n      \"increase_nephrotoxic_dose\"\n    ],\n    \"evaluation_result\": \"Meets expected medication changes, risk flags, and forbidden changes. No contraindications present as expected.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 144,
+"latency_seconds": 2.4322997000126634
+}

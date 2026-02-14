@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_infection_antibiotics_0026_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": [\"substitute_for_amoxicillin\"],\n    \"risk_flags_expected\": [\"allergy_flagged\"],\n    \"contraindications_expected\": [\"avoid_amoxicillin_allergy\"],\n    \"forbidden_changes\": [\"prescribe_amoxicillin\"],\n    \"result\": \"PASS\",\n    \"comments\": \"All expected medication changes, risk flags, contraindications, and forbidden changes correctly identified and processed.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 116,
+"latency_seconds": 2.325560900004348
+}

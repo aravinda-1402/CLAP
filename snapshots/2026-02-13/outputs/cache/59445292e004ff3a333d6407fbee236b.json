@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pregnancy_meds_0105_renal_impairment_0\",\n  \"base_id\": \"base_pregnancy_meds_0105\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_levothyroxine_for_renal\"\n    ],\n    \"risk_flags_detected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_detected\": [],\n    \"forbidden_changes_detected\": [],\n    \"compliance_status\": \"Compliant with expected medication changes and risk flags. No contraindications or forbidden changes detected.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 254,
+"completion_tokens": 141,
+"latency_seconds": 2.4196792999864556
+}

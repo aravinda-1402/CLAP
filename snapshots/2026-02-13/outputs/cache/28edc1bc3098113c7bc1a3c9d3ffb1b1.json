@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0079\",\n  \"assessment\": \"The patient is a 35-44 year old female with hypothyroidism and obesity, currently on 100mcg daily levothyroxine. Vital signs are stable with BP 128 mmHg and HR 72 bpm. Labs show a mildly elevated TSH at 5.2 mIU/L with low-normal free T4 at 0.9 ng/dL, suggestive of suboptimal thyroid hormone replacement.\",\n  \"recommendations\": [\n    \"Consider adjusting the levothyroxine dose to achieve a target TSH within the reference range (generally 0.4-4.0 mIU/L).\",\n    \"Repeat thyroid function tests in 6-8 weeks after dose adjustment to monitor response.\",\n    \"Monitor for symptoms of hypothyroidism or hyperthyroidism to guide therapy.\",\n    \"Address obesity with lifestyle modification recommendations including diet and exercise to improve overall health and thyroid function.\"\n  ],\n  \"follow_up\": \"Re-evaluate thyroid labs and clinical status in 6-8 weeks after any adjustment in levothyroxine dose.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 309,
+"completion_tokens": 236,
+"latency_seconds": 3.2739277000073344
+}

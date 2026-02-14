@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_chf_0108_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": [\"substitute_for_furosemide\"],\n    \"risk_flags_expected\": [\"allergy_flagged\"],\n    \"contraindications_expected\": [\"avoid_furosemide_allergy\"],\n    \"forbidden_changes\": [\"prescribe_furosemide\"],\n    \"assessment\": \"The synthetic variant correctly identifies the allergy to furosemide. Medication changes appropriately substitute furosemide, avoiding its prescription. Allergy risk flag is set as expected, and contraindications prevent furosemide use. No forbidden changes detected.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 143,
+"latency_seconds": 1.8529341999965254
+}

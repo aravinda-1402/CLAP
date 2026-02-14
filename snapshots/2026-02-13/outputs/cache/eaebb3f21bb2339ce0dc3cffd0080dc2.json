@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0024\",\n  \"ckd_stage\": \"3b\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"reduce dose\",\n      \"rationale\": \"Gabapentin is renally cleared; in CKD stage 3b (eGFR 30-44), dose adjustment needed to avoid accumulation and toxicity.\",\n      \"suggested_dose\": \"300mg once daily or based on clinical response\",\n      \"monitoring\": \"monitor for signs of toxicity including dizziness, somnolence\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"use with caution\",\n      \"rationale\": \"Metformin is contraindicated if eGFR <30 mL/min; at eGFR 32 mL/min, benefits may outweigh risks with careful monitoring for lactic acidosis.\",\n      \"suggested_dose\": \"continue 500mg BID with renal function monitoring\",\n      \"monitoring\": \"monitor renal function closely every 3-6 months; watch for signs of lactic acidosis\"\n    }\n  },\n  \"additional_notes\": \"Blood pressure is slightly elevated; manage hypertension according to CKD guidelines to slow progression. Continue regular monitoring of renal function and glycemic control.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 270,
+"latency_seconds": 5.024847499997122
+}

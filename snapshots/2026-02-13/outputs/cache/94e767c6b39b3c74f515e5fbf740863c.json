@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0114\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"current_dose\": \"300mg TID\",\n      \"recommendation\": \"Dose adjustment recommended due to CKD stage 3b (eGFR 32). Consider dose reduction or increased dosing interval to avoid accumulation and toxicity. Typical dosing in CKD stage 3b is usually reduced by 50%. Consult latest guidelines.\",\n      \"suggested_dose\": \"150mg TID or 300mg BID\"\n    },\n    \"metformin\": {\n      \"current_dose\": \"500mg BID\",\n      \"recommendation\": \"Use with caution due to eGFR 32 mL/min. Metformin is not contraindicated but requires dose adjustment and monitoring. FDA recommends caution if eGFR is between 30-45 mL/min; consider dose reduction and monitor renal function closely.\",\n      \"suggested_dose\": \"Consider maintaining current dose with caution and regular renal function monitoring; some clinicians reduce dose or frequency.\"\n    }\n  },\n  \"monitoring\": [\n    \"Monitor renal function (eGFR, serum creatinine) frequently at least every 3 months or as clinically indicated.\",\n    \"Monitor for signs of gabapentin toxicity (dizziness, somnolence).\",\n    \"Monitor blood glucose control considering diabetes and metformin use.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 340,
+"completion_tokens": 310,
+"latency_seconds": 4.435714499995811
+}

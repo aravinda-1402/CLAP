@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_thyroid_0039_interaction_introduced_3\",\n  \"medication_changes\": [],\n  \"risk_flags_identified\": [\n    \"drug_interaction\"\n  ],\n  \"contraindications_identified\": [\n    \"interaction_requires_monitoring_or_change\"\n  ],\n  \"forbidden_changes_detected\": [],\n  \"evaluation\": \"All expected risk flags and contraindications are identified. No forbidden changes detected. The variant complies with the expected specifications.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 215,
+"completion_tokens": 107,
+"latency_seconds": 1.6297729999932926
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0154\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Consider reducing gabapentin dosage\",\n      \"rationale\": \"In CKD stage 3b (eGFR 30-44), gabapentin clearance is reduced; dose adjustment to prevent toxicity is recommended.\",\n      \"suggested_dose\": \"Starting at 100-300 mg once daily, titrate carefully based on response and tolerance\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Continue with caution; max 500 mg BID acceptable\",\n      \"rationale\": \"Metformin is contraindicated if eGFR <30; current eGFR is 32, close monitoring is required to avoid lactic acidosis.\",\n      \"monitoring\": \"Monitor renal function frequently and watch for signs of lactic acidosis\"\n    }\n  },\n  \"summary\": \"Gabapentin dose should be reduced due to decreased renal clearance in CKD stage 3b. Metformin can be continued at current dose with close monitoring as eGFR is borderline. No allergy or pregnancy concerns.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 244,
+"latency_seconds": 3.015580100007355
+}

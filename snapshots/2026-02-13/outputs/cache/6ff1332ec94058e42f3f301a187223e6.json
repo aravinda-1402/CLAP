@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_diabetes_0041\",\n  \"domain\": \"diabetes\",\n  \"evaluation\": {\n    \"summary\": \"Patient is a male aged 65-74 with type 2 diabetes, obesity, and GERD, managed on metformin 1000mg BID and insulin glargine 20 units QHS. Vital signs and labs are within template ranges. HbA1c of 7.8% indicates suboptimal glycemic control requiring continued monitoring and possible therapy adjustment. Renal function is preserved with normal creatinine and eGFR. Allergy to latex noted. No contraindications identified.\",\n    \"recommendations\": [\n      \"Continue current diabetes management with metformin and insulin glargine.\",\n      \"Monitor HbA1c every 3-6 months to assess glycemic control.\",\n      \"Address obesity through lifestyle interventions.\",\n      \"Monitor renal function regularly given diabetes and medication use.\",\n      \"Manage GERD symptoms as per guidelines.\"\n    ],\n    \"flags\": {\n      \"pregnancy_flag\": false,\n      \"allergy\": \"latex\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 357,
+"completion_tokens": 228,
+"latency_seconds": 3.7440668000199366
+}

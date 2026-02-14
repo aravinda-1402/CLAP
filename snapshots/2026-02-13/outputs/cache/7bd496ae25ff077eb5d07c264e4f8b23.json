@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"medication_changes\": [\"substitute_for_amoxicillin\"],\n  \"risk_flags\": [\"allergy_flagged\"],\n  \"contraindications\": [\"avoid_amoxicillin_allergy\"],\n  \"forbidden_changes\": [\"prescribe_amoxicillin\"]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 54,
+"latency_seconds": 1.8250316999910865
+}

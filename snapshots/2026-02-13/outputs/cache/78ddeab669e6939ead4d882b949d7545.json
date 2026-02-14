@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_htn_0082\",\n  \"domain\": \"htn\",\n  \"assessment\": {\n    \"interpretation\": \"The patient is a young adult female with hypertension, hyperlipidemia, and anxiety, currently treated with lisinopril and amlodipine. Blood pressure readings remain elevated (145/92 mmHg) indicating suboptimal control of hypertension despite dual therapy. Heart rate is normal. Kidney function and electrolytes are within normal limits.\",\n    \"recommendations\": [\n      \"Consider lifestyle modifications including diet and exercise to aid blood pressure control.\",\n      \"Evaluate medication adherence and consider dose adjustment or adding another antihypertensive agent if lifestyle changes are insufficient.\",\n      \"Regular monitoring of blood pressure and renal function is advised.\",\n      \"Manage hyperlipidemia and anxiety per respective guidelines.\",\n      \"Screen periodically for end-organ damage due to hypertension.\"\n    ],\n    \"note\": \"For evaluation only, synthetic case. Not for clinical use.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 358,
+"completion_tokens": 205,
+"latency_seconds": 2.9929200999904424
+}

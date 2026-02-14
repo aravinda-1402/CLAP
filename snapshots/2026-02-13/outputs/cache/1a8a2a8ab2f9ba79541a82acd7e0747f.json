@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0109\",\n  \"assessment\": {\n    \"interpretation\": {\n      \"TSH\": {\n        \"value\": 5.2,\n        \"interpretation\": \"Mildly elevated TSH\"\n      },\n      \"T4_free\": {\n        \"value\": 0.9,\n        \"interpretation\": \"Low-normal free T4\"\n      }\n    },\n    \"clinical_significance\": \"In a patient with known hypothyroidism on levothyroxine therapy, a TSH of 5.2 with low-normal free T4 suggests possible undertreatment or need for dose adjustment.\",\n    \"recommendations\": [\n      \"Consider increasing levothyroxine dose after clinical correlation.\",\n      \"Repeat thyroid function tests in 6-8 weeks after dose adjustment.\",\n      \"Monitor for symptoms of hypothyroidism or hyperthyroidism.\"\n    ],\n    \"cautions\": [\n      \"Avoid overtreatment leading to hyperthyroidism, particularly in older adults.\"\n    ]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 309,
+"completion_tokens": 216,
+"latency_seconds": 2.6831396000052337
+}

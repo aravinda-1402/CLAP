@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_chf_0008\",\n  \"domain\": \"chf\",\n  \"demographics\": {\n    \"age_group\": \"75-84\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"heart_failure_rEF\",\n    \"hypertension\",\n    \"GERD\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"lisinopril\",\n      \"dose\": \"10mg\",\n      \"freq\": \"daily\"\n    },\n    {\n      \"name\": \"carvedilol\",\n      \"dose\": \"6.25mg\",\n      \"freq\": \"BID\"\n    },\n    {\n      \"name\": \"furosemide\",\n      \"dose\": \"20mg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 115,\n    \"HR\": 68,\n    \"weight_kg\": 78\n  },\n  \"labs\": {\n    \"BNP\": 450,\n    \"Cr\": 1.2,\n    \"eGFR\": 65,\n    \"K\": 4.0\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 9. Domain: chf. Age group 75-84, sex M. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 403,
+"completion_tokens": 292,
+"latency_seconds": 7.9379691000212915
+}

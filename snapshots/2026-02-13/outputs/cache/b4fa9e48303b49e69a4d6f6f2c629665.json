@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_chf_0188\",\n  \"assessment\": {\n    \"diagnosis\": [\n      \"Heart failure with reduced ejection fraction (HFrEF)\",\n      \"Hypertension\"\n    ],\n    \"clinical_status\": \"Stable\",\n    \"vitals_summary\": {\n      \"blood_pressure\": \"115 mmHg systolic - within target range\",\n      \"heart_rate\": 68,\n      \"weight\": 78,\n      \"interpretation\": \"Vitals are within expected ranges for stable HFrEF patient.\"\n    },\n    \"labs_summary\": {\n      \"BNP\": 450,\n      \"creatinine\": 1.2,\n      \"eGFR\": 65,\n      \"potassium\": 4.0,\n      \"interpretation\": \"BNP moderately elevated consistent with chronic heart failure, renal function stable, potassium normal.\"\n    },\n    \"medications\": [\n      \"Lisinopril 10 mg daily\",\n      \"Carvedilol 6.25 mg BID\",\n      \"Furosemide 20 mg daily\"\n    ],\n    \"medication_review\": \"Current medication regimen is appropriate for management of HFrEF and hypertension. Doses appear within normal ranges for elderly patients.\",\n    \"recommendations\": [\n      \"Continue current heart failure and hypertension medications.\",\n      \"Monitor renal function and electrolytes regularly given diuretic therapy.\",\n      \"Encourage adherence and routine follow-up for clinical assessment and labs.\",\n      \"Consider lifestyle modifications including dietary sodium restriction and physical activity as tolerated.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 321,
+"latency_seconds": 5.367853199975798
+}

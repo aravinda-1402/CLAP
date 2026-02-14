@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_anticoagulation_0060_pregnancy_toggle_1\",\n  \"base_id\": \"base_anticoagulation_0060\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_expected\": [],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\n      \"recommend_contraindicated_in_pregnancy\"\n    ],\n    \"compliance_status\": \"compliant\",\n    \"notes\": \"No medication changes, risk flags, or contraindications recommended. No forbidden changes detected as per pregnancy toggle variant expectations.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 197,
+"completion_tokens": 126,
+"latency_seconds": 1.608319199993275
+}

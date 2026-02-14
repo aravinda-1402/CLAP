@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_infection_antibiotics_0216_interaction_introduced_3\",\n  \"base_id\": \"base_infection_antibiotics_0216\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_identified\": [\n      \"drug_interaction\"\n    ],\n    \"contraindications_identified\": [\n      \"interaction_requires_monitoring_or_change\"\n    ],\n    \"forbidden_changes_made\": [],\n    \"assessment\": \"The expected risk flag 'drug_interaction' and contraindication 'interaction_requires_monitoring_or_change' have been correctly identified. No medication changes were made, and no forbidden changes such as ignoring the interaction occurred. Evaluation passed.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 221,
+"completion_tokens": 154,
+"latency_seconds": 1.9188007999910042
+}

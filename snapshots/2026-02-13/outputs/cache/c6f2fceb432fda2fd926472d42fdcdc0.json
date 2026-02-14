@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0107\",\n  \"assessment\": {\n    \"summary\": \"A female patient aged 65-74 with chronic low back pain using oxycodone 5mg and acetaminophen 650mg both as needed every 6 hours. Vital signs and laboratory results are within normal limits, indicating stable clinical status without immediate concerns for opioid toxicity or renal impairment.\",\n    \"risk_evaluation\": {\n      \"opioid_risk\": \"Moderate due to age and opioid use, but controlled with PRN dosing.\",\n      \"renal_function\": \"Normal (eGFR 85, Cr 1.0)\",\n      \"respiratory_status\": \"Normal respiratory rate (14 bpm).\"\n    },\n    \"recommendations\": [\n      \"Continue current medication regimen with monitoring for efficacy and side effects.\",\n      \"Assess pain control regularly and evaluate for potential opioid-related adverse effects.\",\n      \"Monitor renal function periodically due to age and medication use.\",\n      \"Encourage non-pharmacologic pain management strategies as adjunct therapy.\"\n    ],\n    \"clinical_notes\": \"No allergies or pregnancy concerns. No abnormal vital signs or labs.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 242,
+"latency_seconds": 5.475074099987978
+}

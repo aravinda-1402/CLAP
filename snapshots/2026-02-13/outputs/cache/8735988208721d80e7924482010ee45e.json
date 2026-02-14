@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_anticoagulation_0010\",\n  \"domain\": \"anticoagulation\",\n  \"assessment\": {\n    \"bleeding_risk\": \"moderate\",\n    \"stroke_risk\": \"elevated_due_to_atrial_fibrillation\",\n    \"warfarin_management\": \"INR_within_therapeutic_range_2-3\",\n    \"aspirin_use\": \"concurrent_low_dose_aspirin_may_increase_bleeding_risk\",\n    \"recommendations\": [\n      \"Continue warfarin with routine INR monitoring to maintain therapeutic range.\",\n      \"Review necessity of aspirin considering bleeding risk; assess if aspirin is indicated or if alternative therapy is preferable.\",\n      \"Monitor blood pressure and control hypertension to reduce stroke risk.\",\n      \"Encourage weight management strategies for obesity to improve overall cardiovascular health.\"\n    ]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 186,
+"latency_seconds": 2.5103957999963313
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_chf_0038\",\n  \"assessment\": {\n    \"diagnosis\": \"Heart Failure with reduced Ejection Fraction (HFrEF) in a young female with comorbid hypertension and obesity.\",\n    \"status\": \"Stable\",\n    \"clinical_rationale\": \"Patient is on optimal guideline-directed medical therapy with ACE inhibitor (lisinopril), beta-blocker (carvedilol), and diuretic (furosemide). Vital signs are within normal limits, labs show mildly elevated BNP consistent with chronic heart failure. Renal function and electrolytes are stable.\",\n    \"concerns\": \"Close monitoring required due to young age and multiple comorbidities. Attention to weight management and blood pressure control is important to reduce cardiac workload.\",\n    \"recommendations\": [\n      \"Continue current medications with adherence monitoring.\",\n      \"Regular follow-up with cardiology and primary care.\",\n      \"Lifestyle modifications focusing on weight loss and dietary sodium restriction.\",\n      \"Monitor renal function and electrolytes periodically.\",\n      \"Consider echocardiogram periodically to assess EF and cardiac function.\"\n    ]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 402,
+"completion_tokens": 235,
+"latency_seconds": 4.17644380001002
+}

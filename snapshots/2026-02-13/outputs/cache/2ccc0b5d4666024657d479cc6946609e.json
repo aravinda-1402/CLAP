@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_chf_0168\",\n  \"domain\": \"chf\",\n  \"assessment\": {\n    \"summary\": \"75-84-year-old female with heart failure with reduced ejection fraction (HFrEF), hypertension, and obesity, currently stable on guideline-directed medical therapy with lisinopril, carvedilol, and furosemide. Vitals and labs are within target ranges. BNP at 450 suggests mild ongoing cardiac stress but no acute decompensation. Renal function is stable. Allergic to sulfa drugs, contraindicating certain diuretics. No signs of volume overload or hypoperfusion.\",\n    \"clinical_implications\": [\n      \"Continue current heart failure regimen ensuring adherence and monitoring for side effects.\",\n      \"Monitor renal function and electrolytes regularly to avoid complications.\",\n      \"Address obesity and hypertension with lifestyle modifications to reduce cardiac workload.\",\n      \"Avoid sulfa-containing medications due to allergy.\",\n      \"Evaluate clinical status periodically including symptoms and functional status.\"\n    ],\n    \"recommendations\": [\n      \"Maintain current ACE inhibitor (lisinopril) and beta-blocker (carvedilol) therapy at prescribed doses.\",\n      \"Continue furosemide 20 mg daily to manage volume status.\",\n      \"Regular follow-up with cardiology and primary care.\",\n      \"Encourage diet low in sodium and optimized for heart failure management.\",\n      \"Assess need for advanced heart failure therapies or devices if symptoms worsen.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 410,
+"completion_tokens": 304,
+"latency_seconds": 5.296311900019646
+}

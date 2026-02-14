@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"evaluation_result\": \"pass\",\n  \"notes\": \"All expected medication changes, risk flags, contraindications, and forbidden changes align with the provided expectations.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 35,
+"latency_seconds": 0.8893581000156701
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pregnancy_meds_0085\",\n  \"recommendations\": {\n    \"pregnancy_med_use_in_males\": {\n      \"note\": \"Prenatal vitamins are generally safe and not harmful if taken by males; often used for nutritional supplementation.\",\n      \"clinical_significance\": \"No contraindications in this male patient; continue levothyroxine for hypothyroidism as prescribed.\"\n    },\n    \"hypothyroidism_management\": {\n      \"TSH_level\": 2.1,\n      \"interpretation\": \"TSH within target range for hypothyroidism management on levothyroxine.\",\n      \"recommendation\": \"Maintain current levothyroxine dosing and monitor thyroid function periodically.\"\n    },\n    \"general_advice\": {\n      \"pregnancy_flag\": false,\n      \"relevance\": \"Patient is male, so pregnancy-related medication considerations and monitoring are not applicable.\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 191,
+"latency_seconds": 2.620458800025517
+}

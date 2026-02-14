@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0084\",\n  \"domain\": \"ckd_dosing\",\n  \"dose_adjustments\": {\n    \"gabapentin\": {\n      \"recommended_dose\": \"300mg\",\n      \"frequency\": \"TID\",\n      \"notes\": \"Dose is appropriate for CKD stage 3b with eGFR of 32. Monitor for CNS side effects.\"\n    },\n    \"metformin\": {\n      \"recommended_dose\": \"500mg\",\n      \"frequency\": \"BID\",\n      \"notes\": \"Metformin use is generally safe with eGFR >30 but caution advised. Close monitoring recommended to avoid lactic acidosis.\"\n    }\n  },\n  \"recommendations\": [\n    \"Monitor renal function regularly due to CKD stage 3b.\",\n    \"Watch for signs of metformin-associated lactic acidosis.\",\n    \"Adjust doses if eGFR declines below 30 mL/min/1.73m2.\"\n  ],\n  \"allergy_considerations\": {\n    \"avoid\": [\"penicillin\"],\n    \"notes\": \"Alternative antibiotics should be selected if needed.\"\n  },\n  \"pregnancy_considerations\": \"Not pregnant, no dose adjustments related to pregnancy required.\",\n  \"summary\": \"Current dosing of gabapentin and metformin is appropriate for CKD stage 3b with eGFR of 32. Monitor renal function and drug side effects closely.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 347,
+"completion_tokens": 304,
+"latency_seconds": 5.120006199984346
+}

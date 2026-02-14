@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0139\",\n  \"domain\": \"thyroid\",\n  \"demographics\": {\n    \"age_group\": \"45-54\",\n    \"sex\": \"O\"\n  },\n  \"comorbidities\": [\n    \"hypothyroidism\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"levothyroxine\",\n      \"dose\": \"100mcg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"TSH\": 5.2,\n    \"T4_free\": 0.9,\n    \"Cr\": 1.0\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 140. Domain: thyroid. Age group 45-54, sex O. No real patient data.\",\n  \"interpretation\": {\n    \"TSH\": \"Mildly elevated\",\n    \"T4_free\": \"Lower normal range\",\n    \"assessment\": \"Possible mild under-replacement of levothyroxine. Consider clinical correlation and possible dose adjustment.\",\n    \"recommendation\": \"Repeat thyroid function tests in 6-8 weeks after any dose change. Monitor symptoms.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 289,
+"latency_seconds": 6.122670400014613
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_diabetes_0061_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_metformin_for_renal\"\n    ],\n    \"risk_flags_expected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\n      \"increase_nephrotoxic_dose\"\n    ],\n    \"compliance_status\": \"compliant\",\n    \"comments\": \"The medication changes, risk flags, contraindications, and forbidden changes match the expected specifications for the renal impairment variant.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 239,
+"completion_tokens": 141,
+"latency_seconds": 2.161173800006509
+}

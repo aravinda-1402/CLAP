@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_thyroid_0149_pregnancy_toggle_1\",\n  \"base_id\": \"base_thyroid_0149\",\n  \"observed_change_spec\": {\n    \"medication_changes\": [],\n    \"risk_flags_expected\": [\n      \"pregnancy_safe_alternatives\"\n    ],\n    \"contraindications_expected\": [\n      \"avoid_teratogenic_if_applicable\"\n    ],\n    \"forbidden_changes\": [\n      \"recommend_contraindicated_in_pregnancy\"\n    ]\n  },\n  \"evaluation\": \"pass\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 234,
+"completion_tokens": 120,
+"latency_seconds": 2.288436000002548
+}

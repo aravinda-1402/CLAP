@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_diabetes_0151_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_metformin_for_renal\"\n    ],\n    \"risk_flags_identified\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_identified\": [],\n    \"forbidden_changes_detected\": [],\n    \"assessment\": \"Meets expected medication changes and risk flags with no contraindications or forbidden changes.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 239,
+"completion_tokens": 115,
+"latency_seconds": 1.7047811000084039
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0036\",\n  \"assessment\": {\n    \"infection_status\": \"cellulitis suspected\",\n    \"antibiotic_therapy\": \"amoxicillin appropriate for cellulitis\",\n    \"dose_adequacy\": \"500mg TID within standard dosing range\",\n    \"potential_interactions\": \"omeprazole may reduce amoxicillin absorption slightly but clinically insignificant\",\n    \"allergy_considerations\": \"no allergies reported\",\n    \"vital_signs\": \"mild fever 38.2\u00b0C consistent with infection\",\n    \"laboratory_findings\": \"elevated WBC at 12.5 indicates inflammatory/infectious response\",\n    \"renal_function\": \"Cr 1.0 and eGFR 90 normal; no dose adjustment needed\"\n  },\n  \"recommendations\": {\n    \"continue_amoxicillin\": true,\n    \"monitor_clinical_response\": true,\n    \"consider_alternate_antibiotics_if_no_improvement\": true,\n    \"monitor_vitals_and_lab\": \"repeat WBC and temp if symptoms persist beyond 48-72 hours\"\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT FOR CLINICAL USE\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 259,
+"latency_seconds": 5.09842860000208
+}

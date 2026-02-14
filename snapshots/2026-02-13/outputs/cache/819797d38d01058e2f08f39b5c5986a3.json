@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_chf_0118_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_furosemide_for_renal\"\n    ],\n    \"risk_flags_detected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_detected\": [],\n    \"forbidden_changes_detected\": []\n  },\n  \"matches_expected\": true\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 99,
+"latency_seconds": 1.3666280999896117
+}

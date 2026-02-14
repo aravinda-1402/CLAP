@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_asthma_copd_0033\",\n  \"assessment\": {\n    \"summary\": \"65-74 year old male patient with COPD, asthma, and GERD. Currently on albuterol inhaler PRN and budesonide formoterol BID. Vital signs and labs within normal limits. No allergies reported.\",\n    \"clinical_impression\": \"Stable chronic asthma and COPD with comorbid GERD. No acute exacerbation evident based on current data.\",\n    \"recommendations\": [\n      \"Continue current inhaled therapies (albuterol PRN, budesonide/formoterol BID).\",\n      \"Monitor for symptoms of COPD or asthma exacerbation.\",\n      \"Continue management of GERD as per existing care plan.\",\n      \"Regular follow-up for lung function and symptom review.\",\n      \"Patient education on inhaler technique and adherence.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 360,
+"completion_tokens": 183,
+"latency_seconds": 2.156691200012574
+}

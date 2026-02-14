@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0197\",\n  \"recommendations\": {\n    \"assessment\": \"The patient is an elderly individual (75-84 years) with chronic low back pain managed with oxycodone and acetaminophen on a PRN basis. Current vitals and labs are within normal limits.\",\n    \"plan\": [\n      {\n        \"recommendation\": \"Continue current pain management regimen of oxycodone 5mg and acetaminophen 650mg as needed every 6 hours.\",\n        \"rationale\": \"Pain control appears adequate and patient has no current contraindications or abnormal labs.\"\n      },\n      {\n        \"recommendation\": \"Monitor for opioid-related adverse effects such as sedation, constipation, and respiratory depression considering age group.\",\n        \"rationale\": \"Elderly patients are at increased risk of opioid side effects.\"\n      },\n      {\n        \"recommendation\": \"Regularly assess pain levels and functionality to optimize pain control and minimize opioid use.\",\n        \"rationale\": \"To balance pain relief and reduce risk of opioid dependence or adverse events.\"\n      },\n      {\n        \"recommendation\": \"Educate patient on safe opioid use, storage, and disposal.\",\n        \"rationale\": \"To prevent misuse and ensure patient safety.\"\n      }\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 268,
+"latency_seconds": 3.9787761000043247
+}

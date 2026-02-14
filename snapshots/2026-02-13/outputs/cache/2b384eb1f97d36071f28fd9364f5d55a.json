@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_chf_0178\",\n  \"assessment\": \"The patient is a 45-54-year-old with heart failure with reduced ejection fraction (HFrEF) and hypertension. Current management includes guideline-directed medical therapy with lisinopril, carvedilol, and furosemide. Vital signs and labs are stable with BP 115/XX mmHg, HR 68 bpm, BNP moderately elevated at 450 indicating ongoing heart failure activity. Renal function is preserved (Cr 1.2 mg/dL, eGFR 65 mL/min/1.73m2) and potassium is normal at 4.0 mmol/L. The patient has a sulfa allergy, which should be considered in medication choices. Pregnancy is not a factor. Continue current therapy and monitor clinical status and renal function regularly.\",\n  \"recommendations\": [\n    \"Continue lisinopril 10mg daily and carvedilol 6.25mg BID for heart failure and hypertension management.\",\n    \"Maintain furosemide 20mg daily for volume control; monitor weight and symptoms for fluid status.\",\n    \"Regular follow-up to monitor BNP and renal function to assess heart failure progression and medication tolerance.\",\n    \"Avoid sulfa-containing medications due to allergy.\",\n    \"Lifestyle modifications: sodium restriction, fluid management, and adherence to medications.\"\n  ],\n  \"clinical_flags\": {\n    \"stable_heart_failure\": true,\n    \"no_immediate_risk_factors\": true,\n    \"renal_function_stable\": true,\n    \"potassium_normal\": true,\n    \"allergy_to_sulfa\": true,\n    \"pregnancy\": false\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 403,
+"completion_tokens": 347,
+"latency_seconds": 4.383930199983297
+}

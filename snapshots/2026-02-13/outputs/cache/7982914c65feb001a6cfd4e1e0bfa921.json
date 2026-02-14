@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_ckd_dosing_0164_allergy_key_med_2\",\n  \"base_id\": \"base_ckd_dosing_0164\",\n  \"results\": {\n    \"medication_changes\": [\n      \"substitute_for_gabapentin\"\n    ],\n    \"risk_flags_expected\": [\n      \"allergy_flagged\"\n    ],\n    \"contraindications_expected\": [\n      \"avoid_gabapentin_allergy\"\n    ],\n    \"forbidden_changes\": [\n      \"prescribe_gabapentin\"\n    ]\n  },\n  \"evaluation\": \"All expected medication changes, risk flags, contraindications, and forbidden changes have been correctly identified.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 246,
+"completion_tokens": 146,
+"latency_seconds": 2.2119352000008803
+}

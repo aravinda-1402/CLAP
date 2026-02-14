@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0016\",\n  \"assessment\": {\n    \"summary\": \"65-74 year-old patient with cellulitis on amoxicillin and omeprazole. Febrile and mild leukocytosis suggesting active infection. Vitals and renal function within normal limits indicating stable condition.\",\n    \"recommendations\": [\n      {\n        \"action\": \"continue_amoxicillin\",\n        \"rationale\": \"Current antibiotic regimen appropriate for cellulitis; patient shows fever and elevated WBC which supports ongoing infection treatment.\",\n        \"dose_adjustment\": \"none\"\n      },\n      {\n        \"action\": \"monitor_clinical_status\",\n        \"rationale\": \"Monitor temperature, heart rate, and WBC to assess response to therapy.\",\n        \"frequency\": \"daily\"\n      },\n      {\n        \"action\": \"supportive_care\",\n        \"rationale\": \"Maintain hydration and manage symptoms as needed.\"\n      }\n    ],\n    \"warnings\": [\n      \"Monitor for any signs of allergic reaction despite none reported.\",\n      \"No dose adjustment needed based on current renal function.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 234,
+"latency_seconds": 3.5848032999783754
+}

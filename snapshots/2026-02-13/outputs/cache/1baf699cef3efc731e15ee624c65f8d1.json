@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_htn_0152_allergy_key_med_2\",\n  \"base_id\": \"base_htn_0152\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"substitute_for_lisinopril\"\n    ],\n    \"risk_flags\": [\n      \"allergy_flagged\"\n    ],\n    \"contraindications\": [\n      \"avoid_lisinopril_allergy\"\n    ],\n    \"forbidden_changes\": [\n      \"prescribe_lisinopril\"\n    ]\n  },\n  \"status\": \"meets_expected_change_spec\",\n  \"notes\": \"The medication changes and risk flags match the expected specifications for allergy management related to lisinopril.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 152,
+"latency_seconds": 2.200180400017416
+}

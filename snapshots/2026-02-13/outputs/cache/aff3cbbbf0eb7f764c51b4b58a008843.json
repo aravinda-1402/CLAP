@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_infection_antibiotics_0136_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_captured\": true,\n    \"contraindications_handled\": true,\n    \"forbidden_changes_avoided\": true,\n    \"comments\": \"All expected medication changes, risk flags, and contraindication considerations have been correctly identified and addressed. No forbidden medication dosage increases were made.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 250,
+"completion_tokens": 107,
+"latency_seconds": 2.2323838000011165
+}

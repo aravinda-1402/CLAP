@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pain_opioids_0087\",\n  \"domain\": \"pain_opioids\",\n  \"demographics\": {\n    \"age_group\": \"25-34\",\n    \"sex\": \"F\"\n  },\n  \"comorbidities\": [\n    \"chronic_low_back_pain\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"oxycodone\",\n      \"dose\": \"5mg\",\n      \"freq\": \"Q6H PRN\"\n    },\n    {\n      \"name\": \"acetaminophen\",\n      \"dose\": \"650mg\",\n      \"freq\": \"Q6H PRN\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 122,\n    \"RR\": 14\n  },\n  \"labs\": {\n    \"Cr\": 1.0,\n    \"eGFR\": 85\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 88. Domain: pain_opioids. Age group 25-34, sex F. No real patient data.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 244,
+"latency_seconds": 3.187250699993456
+}

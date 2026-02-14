@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_infection_antibiotics_0056\",\n  \"domain\": \"infection_antibiotics\",\n  \"demographics\": {\n    \"age_group\": \"55-64\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"cellulitis\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"amoxicillin\",\n      \"dose\": \"500mg\",\n      \"freq\": \"TID\"\n    },\n    {\n      \"name\": \"omeprazole\",\n      \"dose\": \"20mg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"temp\": 38.2,\n    \"HR\": 88\n  },\n  \"labs\": {\n    \"WBC\": 12.5,\n    \"Cr\": 1.0,\n    \"eGFR\": 90\n  },\n  \"allergies\": [\n    \"sulfa\"\n  ],\n  \"pregnancy_flag\": false,\n  \"assessment\": \"Patient is a 55-64 year old male with cellulitis, currently on amoxicillin 500mg TID and omeprazole 20mg daily. The patient has a mild fever (38.2\u00b0C) and elevated WBC count (12.5), consistent with active infection.\",\n  \"plan\": {\n    \"continue_antibiotics\": \"Continue amoxicillin 500mg TID for cellulitis.\",\n    \"monitoring\": [\n      \"Monitor temperature and WBC count for response to treatment.\",\n      \"Watch for any allergic reactions given sulfa allergy - amoxicillin is safe in this context.\",\n      \"Assess renal function periodically given Cr 1.0 and eGFR 90, which are currently normal.\"\n    ],\n    \"additional_notes\": \"No contraindications to current medications. No pregnancy considerations since patient is male.\"\n  },\n  \"notes\": \"Synthetic case 57. Domain: infection_antibiotics. Age group 55-64, sex M. No real patient data.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 350,
+"completion_tokens": 434,
+"latency_seconds": 7.3982418999949005
+}

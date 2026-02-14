@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_infection_antibiotics_0236_renal_impairment_0\",\n  \"medication_changes\": [\n    \"adjust_amoxicillin_for_renal\"\n  ],\n  \"risk_flags_identified\": [\n    \"renal_dose_adjustment\",\n    \"eGFR_low\"\n  ],\n  \"contraindications_identified\": [],\n  \"forbidden_changes_detected\": [],\n  \"evaluation\": \"All expected medication changes and risk flags are present. No contraindications or forbidden changes detected. Compliance with expected management for renal impairment in antibiotic prescribing is confirmed.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 250,
+"completion_tokens": 123,
+"latency_seconds": 1.7430688999884296
+}

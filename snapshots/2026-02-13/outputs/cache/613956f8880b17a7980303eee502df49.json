@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_infection_antibiotics_0146_allergy_key_med_2\",\n  \"base_id\": \"base_infection_antibiotics_0146\",\n  \"evaluation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true,\n    \"overall_assessment\": \"Meets expected criteria. Appropriate substitution for amoxicillin prescribed, allergy appropriately flagged, contraindication respected, and no amoxicillin prescribed.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 121,
+"latency_seconds": 2.43384439998772
+}

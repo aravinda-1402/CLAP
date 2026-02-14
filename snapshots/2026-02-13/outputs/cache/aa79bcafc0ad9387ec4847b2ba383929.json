@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pregnancy_meds_0015_pregnancy_toggle_1\",\n  \"evaluation\": {\n    \"medication_changes\": {\n      \"status\": \"met\",\n      \"details\": \"No medication changes recommended as expected.\"\n    },\n    \"risk_flags_expected\": {\n      \"status\": \"met\",\n      \"details\": \"Risk flag 'pregnancy_safe_alternatives' present as expected.\"\n    },\n    \"contraindications_expected\": {\n      \"status\": \"met\",\n      \"details\": \"Contraindication 'avoid_teratogenic_if_applicable' correctly identified.\"\n    },\n    \"forbidden_changes\": {\n      \"status\": \"met\",\n      \"details\": \"No recommendations of contraindicated medications in pregnancy were made.\"\n    }\n  },\n  \"overall_assessment\": \"Passed all evaluation criteria.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 180,
+"latency_seconds": 2.7071827999898233
+}

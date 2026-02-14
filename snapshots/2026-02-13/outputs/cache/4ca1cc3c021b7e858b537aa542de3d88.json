@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"assessment\": {\n    \"summary\": \"45-54-year-old female with type 2 diabetes and obesity on metformin and insulin glargine. Labs show HbA1c of 7.8%, indicating suboptimal glycemic control. Blood pressure and heart rate are within acceptable ranges. Renal function preserved with normal creatinine and eGFR.\",\n    \"recommendations\": [\n      \"Consider intensification of glycemic management to achieve target HbA1c <7%, balancing risk of hypoglycemia.\",\n      \"Reinforce lifestyle modifications including diet and weight management to address obesity.\",\n      \"Continue current antihyperglycemic medications, monitoring for efficacy and side effects.\",\n      \"Regular monitoring of renal function given diabetes status.\",\n      \"Evaluate cardiovascular risk and manage accordingly.\"\n    ],\n    \"next_steps\": [\n      \"Schedule follow-up visit to reassess glycemic control in 3 months.\",\n      \"Educate patient about signs of hypoglycemia and importance of medication adherence.\",\n      \"Consider consultation with endocrinology if glycemic targets are not met.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 223,
+"latency_seconds": 4.2416705999930855
+}

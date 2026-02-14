@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_infection_antibiotics_0186_pregnancy_toggle_1\",\n  \"compliance\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_present\": [\"pregnancy_safe_alternatives\"],\n    \"contraindications_present\": [\"avoid_teratogenic_if_applicable\"],\n    \"forbidden_changes_avoided\": true\n  },\n  \"summary\": \"The variant correctly avoids medication changes, includes risk flag for pregnancy safe alternatives, contraindications to avoid teratogenic drugs, and avoids recommending contraindicated medications during pregnancy.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 121,
+"latency_seconds": 2.283727000001818
+}

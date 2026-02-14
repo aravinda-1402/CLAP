@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pregnancy_meds_0095\",\n  \"evaluation\": {\n    \"pregnancy_med_relevance\": \"Not applicable\",\n    \"rationale\": \"The patient is a male aged 55-64 years, which is outside the reproductive age range, and therefore pregnancy-related medication considerations are not relevant.\",\n    \"levothyroxine_use\": \"Appropriate\",\n    \"prenatal_vitamin_use\": \"Unusual but not harmful\",\n    \"notes\": \"Levothyroxine dose and frequency are appropriate given hypothyroidism and normal TSH level. Prenatal vitamins are typically intended for pregnancy or women of childbearing age; in this male patient, the clinical benefit is unclear but no immediate harm is noted. Labs and vitals are within normal limits.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 166,
+"latency_seconds": 3.5527818000118714
+}

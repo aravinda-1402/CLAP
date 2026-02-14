@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0205\",\n  \"evaluation\": {\n    \"medication_appropriateness\": {\n      \"levothyroxine\": {\n        \"indication\": \"Appropriate for hypothyroidism.\",\n        \"dose_frequencies\": \"Dose of 75mcg daily is within typical therapeutic range.\",\n        \"recommendations\": \"Continue monitoring TSH levels periodically to ensure euthyroid state.\"\n      },\n      \"prenatal_vitamin\": {\n        \"indication\": \"Usually indicated for pregnancy or women of childbearing age. Given age group and pregnancy_flag false, use is atypical.\",\n        \"recommendations\": \"Consider reevaluating the necessity of prenatal vitamins in this post-menopausal patient unless for other medical reasons.\",\n        \"risk\": \"No direct harm likely from prenatal vitamins, but unnecessary supplementation may be avoided.\"\n      }\n    },\n    \"comorbidity_considerations\": {\n      \"hypothyroidism\": \"Adequately addressed by levothyroxine. Maintain standard monitoring.\"\n    },\n    \"clinical_advice\": \"Given the age group (55-64) and no pregnancy, prenatal vitamins are usually not indicated. Levothyroxine therapy should continue with TSH monitoring. No contraindications or safety issues noted.\",\n    \"disclaimers\": \"FOR EVALUATION ONLY - NOT CLINICAL USE. Synthetic case data.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 295,
+"latency_seconds": 5.591710699984105
+}

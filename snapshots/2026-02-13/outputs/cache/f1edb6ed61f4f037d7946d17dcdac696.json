@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_htn_0132\",\n  \"evaluation\": {\n    \"blood_pressure\": {\n      \"systolic\": 145,\n      \"diastolic\": 92,\n      \"interpretation\": \"Stage 2 Hypertension\",\n      \"recommendation\": \"Consider lifestyle modifications and evaluate the current antihypertensive regimen for optimization.\"\n    },\n    \"heart_rate\": {\n      \"value\": 76,\n      \"interpretation\": \"Within normal limits\"\n    },\n    \"labs\": {\n      \"potassium\": {\n        \"value\": 4.2,\n        \"interpretation\": \"Within normal limits\"\n      },\n      \"creatinine\": {\n        \"value\": 1.1,\n        \"interpretation\": \"Within normal limits\"\n      },\n      \"eGFR\": {\n        \"value\": 82,\n        \"interpretation\": \"Normal renal function\"\n      }\n    },\n    \"medications\": {\n      \"current_regimen\": [\n        \"lisinopril 10mg daily\",\n        \"amlodipine 5mg daily\"\n      ],\n      \"comments\": \"Medications are appropriate for hypertension management in this age group. Monitor blood pressure response and renal function periodically.\"\n    },\n    \"comorbidities\": [\n      \"hypertension\",\n      \"hyperlipidemia\"\n    ],\n    \"summary\": \"Patient is an older adult with hypertension and hyperlipidemia currently treated with lisinopril and amlodipine. Blood pressure remains elevated in stage 2 range requiring close monitoring and potential medication adjustment.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 328,
+"latency_seconds": 4.922056600014912
+}

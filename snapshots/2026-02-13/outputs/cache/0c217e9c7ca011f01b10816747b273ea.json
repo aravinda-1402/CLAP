@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_anticoagulation_0230_allergy_key_med_2\",\n  \"medication_changes\": [\"substitute_for_warfarin\"],\n  \"risk_flags\": [\"allergy_flagged\"],\n  \"contraindications\": [\"avoid_warfarin_allergy\"],\n  \"forbidden_changes\": [\"prescribe_warfarin\"]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 246,
+"completion_tokens": 82,
+"latency_seconds": 1.752161700016586
+}

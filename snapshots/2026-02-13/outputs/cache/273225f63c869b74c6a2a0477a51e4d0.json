@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0075\",\n  \"assessment\": \"The patient is a 65-74 year old female with hypothyroidism managed on levothyroxine 75mcg daily and a prenatal vitamin daily. Vital signs and labs including TSH and creatinine are within template reference ranges. Pregnancy is not indicated.\",\n  \"recommendations\": [\n    \"Continue current levothyroxine dosing with periodic monitoring of TSH to maintain euthyroid status.\",\n    \"Prenatal vitamin administration is not typically indicated in this age group unless specific nutritional deficiencies are present; reassess necessity.\",\n    \"Routine monitoring of renal function and blood pressure is appropriate given age and medications.\",\n    \"No contraindications or safety concerns noted related to current medications in this patient profile.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 188,
+"latency_seconds": 3.166346000012709
+}

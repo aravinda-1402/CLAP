@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pregnancy_meds_0005_pregnancy_toggle_1\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_found\": [\n      \"pregnancy_safe_alternatives\"\n    ],\n    \"contraindications_found\": [\n      \"avoid_teratogenic_if_applicable\"\n    ],\n    \"forbidden_changes_found\": []\n  },\n  \"match_expected\": true\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 96,
+"latency_seconds": 1.4705094000091776
+}

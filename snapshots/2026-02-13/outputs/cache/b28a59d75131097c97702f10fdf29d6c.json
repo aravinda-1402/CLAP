@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_diabetes_0001_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true,\n    \"overall_assessment\": \"Pass\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 239,
+"completion_tokens": 73,
+"latency_seconds": 1.2669271000195295
+}

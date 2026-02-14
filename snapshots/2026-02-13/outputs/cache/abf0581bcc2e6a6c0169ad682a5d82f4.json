@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0014\",\n  \"recommendations\": [\n    {\n      \"medication\": \"gabapentin\",\n      \"recommendation\": \"Reduce dose or increase dosing interval to avoid toxicity in CKD stage 3b (eGFR 32). Consider 300 mg once daily or 300 mg every other day, monitoring for efficacy and side effects.\"\n    },\n    {\n      \"medication\": \"metformin\",\n      \"recommendation\": \"Use with caution. eGFR 32 ml/min is near threshold. Continue metformin 500 mg BID only if eGFR stable and patient monitored for lactic acidosis. Avoid dose increase. Consider renal function reassessment regularly.\"\n    }\n  ],\n  \"summary\": \"Patient is a 75-84 year old with CKD stage 3b (eGFR 32) and diabetes on gabapentin and metformin. Gabapentin dosing should be adjusted to reduce risk of accumulation. Metformin can be continued cautiously with monitoring.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 216,
+"latency_seconds": 3.080098000005819
+}

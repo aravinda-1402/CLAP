@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0207\",\n  \"assessment\": {\n    \"summary\": \"The patient is a young adult female with chronic low back pain currently managed with oxycodone and acetaminophen as needed. Vital signs and laboratories are within normal limits, indicating no immediate complications related to medication use or underlying health status. Given the current data, the pain management regimen appears appropriate; continued monitoring of pain control, side effects, and renal function is recommended.\",\n    \"recommendations\": [\n      \"Continue current oxycodone 5mg and acetaminophen 650mg as needed regimen.\",\n      \"Monitor for opioid-related side effects including sedation, constipation, and potential dependence.\",\n      \"Regularly assess pain control and functional status to adjust therapy as necessary.\",\n      \"Monitor renal function periodically given acetaminophen use.\",\n      \"Consider multidisciplinary pain management strategies if pain persists or worsens.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 192,
+"latency_seconds": 3.4095289999968372
+}

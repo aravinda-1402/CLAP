@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0065\",\n  \"domain\": \"pregnancy_meds\",\n  \"evaluation\": {\n    \"patient_summary\": \"Male patient aged 35-44 with hypothyroidism on levothyroxine 75mcg daily and prenatal vitamin daily. Vitals and labs within normal limits.\",\n    \"pregnancy_flag_issue\": \"Pregnancy flagged as true, but patient sex is male, which is inconsistent with biological pregnancy capability.\",\n    \"medication_comment\": \"Levothyroxine dose appears appropriate for hypothyroidism management. Prenatal vitamin generally recommended for pregnancy; clinical indication in a male patient should be clarified.\",\n    \"labs_comment\": {\n      \"TSH\": \"2.1 mIU/L, within normal reference range indicating stable thyroid function.\",\n      \"Cr\": \"0.9 mg/dL, within normal limits, indicating normal kidney function.\"\n    },\n    \"clinical_recommendation\": \"Review and confirm pregnancy flag accuracy given male sex. Evaluate rationale for prenatal vitamin use in this male patient. Continue current levothyroxine dosing with periodic thyroid function monitoring.\",\n    \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 256,
+"latency_seconds": 4.514963599998737
+}

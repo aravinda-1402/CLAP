@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_anticoagulation_0150\",\n  \"domain\": \"anticoagulation\",\n  \"demographics\": {\n    \"age_group\": \"45-54\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"atrial_fibrillation\",\n    \"hypertension\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"warfarin\",\n      \"dose\": \"5mg\",\n      \"freq\": \"daily\"\n    },\n    {\n      \"name\": \"aspirin\",\n      \"dose\": \"81mg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"INR\": 2.2,\n    \"Cr\": 1.0,\n    \"eGFR\": 85\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 151. Domain: anticoagulation. Age group 45-54, sex M. No real patient data.\",\n  \"evaluation\": {\n    \"INR_within_target_range\": true,\n    \"recommended_INR_range\": \"2.0-3.0 for atrial fibrillation\",\n    \"warfarin_aspirin_combination\": \"consider bleeding risk; combination sometimes used for comorbid cardiovascular disease but should be regularly evaluated\",\n    \"blood_pressure\": \"controlled within normal limits\",\n    \"renal_function\": \"normal (eGFR 85 ml/min/1.73m2)\",\n    \"recommendations\": [\n      \"Continue warfarin aiming for target INR 2-3 for atrial fibrillation.\",\n      \"Regular INR monitoring recommended.\",\n      \"Evaluate ongoing need for aspirin given bleeding risk; coordinate with cardiology if needed.\",\n      \"Maintain blood pressure control.\",\n      \"Routine renal function monitoring.\"\n    ]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 344,
+"completion_tokens": 416,
+"latency_seconds": 6.29245149999042
+}

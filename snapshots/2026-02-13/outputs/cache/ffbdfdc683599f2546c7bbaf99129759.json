@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pregnancy_meds_0235\",\n  \"evaluation\": {\n    \"pregnancy_medication_appropriateness\": \"Not applicable - patient age group 65-74 with pregnancy_flag false. Prenatal vitamins typically not indicated unless specific clinical reasons exist.\",\n    \"medication_recommendations\": [\n      {\n        \"med\": \"levothyroxine\",\n        \"recommendation\": \"Appropriate for hypothyroidism. Continue current dose with periodic TSH monitoring.\"\n      },\n      {\n        \"med\": \"prenatal_vitamin\",\n        \"recommendation\": \"Consider discontinuation unless specific indication (e.g., nutritional deficiency) justifies use in this age group.\"\n      }\n    ],\n    \"comorbidity_management\": \"Ensure continued management of hypothyroidism and GERD with appropriate monitoring.\",\n    \"labs_vitals_assessment\": \"Labs and vitals within normal limits; no adjustments needed.\",\n    \"overall_assessment\": \"No pregnancy-related medication indications due to patient's age and pregnancy_flag false. Prenatal vitamin use may be re-evaluated.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 335,
+"completion_tokens": 228,
+"latency_seconds": 4.347896999999648
+}

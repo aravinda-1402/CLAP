@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"evaluation_id\": \"eval_diabetes_0171\",\n  \"base_id\": \"base_diabetes_0171\",\n  \"summary\": \"Patient with type 2 diabetes and obesity, aged 55-64, currently on metformin 1000mg BID and insulin glargine 20 units QHS. Vital signs stable with BP 132/-, HR 78. Labs show HbA1c at 7.8%, creatinine 1.0 mg/dL, and eGFR 88, indicating moderate glycemic control and normal renal function. Allergy to sulfa noted. No pregnancy risk. Current management appears appropriate for comorbidities and glycemic status. Continued monitoring and adjustment of therapy may be warranted to aim for improved glycemic targets.\",\n  \"recommendations\": [\n    \"Continue current anti-diabetic regimen with metformin and insulin glargine.\",\n    \"Monitor HbA1c every 3-6 months to assess glycemic control and adjust therapy accordingly.\",\n    \"Maintain regular monitoring of renal function due to diabetes and medication use.\",\n    \"Encourage lifestyle modification targeting weight reduction to manage obesity and improve insulin sensitivity.\",\n    \"Avoid sulfa-containing medications due to allergy.\"\n  ],\n  \"clinical_concerns\": [\n    \"HbA1c of 7.8% suggests suboptimal glycemic control; risk of diabetes-related complications if not addressed.\",\n    \"Obesity contributes to insulin resistance and need for ongoing management.\"\n  ],\n  \"disclaimer\": \"This is a synthetic case for evaluation only and not for clinical use.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 324,
+"latency_seconds": 4.727358200005256
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_anticoagulation_0090\",\n  \"domain\": \"anticoagulation\",\n  \"demographics\": {\n    \"age_group\": \"25-34\",\n    \"sex\": \"O\"\n  },\n  \"comorbidities\": [\n    \"atrial_fibrillation\",\n    \"hypertension\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"warfarin\",\n      \"dose\": \"5mg\",\n      \"freq\": \"daily\"\n    },\n    {\n      \"name\": \"aspirin\",\n      \"dose\": \"81mg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"INR\": 2.2,\n    \"Cr\": 1.0,\n    \"eGFR\": 85\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 91. Domain: anticoagulation. Age group 25-34, sex O. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 344,
+"completion_tokens": 242,
+"latency_seconds": 4.165119799989043
+}

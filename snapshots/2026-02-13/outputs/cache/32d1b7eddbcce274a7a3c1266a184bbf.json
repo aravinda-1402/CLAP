@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_infection_antibiotics_0046_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": {\n      \"meets_expectation\": true,\n      \"details\": \"Amoxicillin was substituted with an alternative antibiotic as expected.\"\n    },\n    \"risk_flags\": {\n      \"meets_expectation\": true,\n      \"details\": \"Allergy was flagged appropriately in the patient record.\"\n    },\n    \"contraindications\": {\n      \"meets_expectation\": true,\n      \"details\": \"Contraindications to amoxicillin due to allergy were documented and followed.\"\n    },\n    \"forbidden_changes\": {\n      \"meets_expectation\": true,\n      \"details\": \"No prescription of amoxicillin occurred.\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 167,
+"latency_seconds": 3.718827600008808
+}

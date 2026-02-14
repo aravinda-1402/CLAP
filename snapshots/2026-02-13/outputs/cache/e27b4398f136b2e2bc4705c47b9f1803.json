@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0159\",\n  \"assessment\": {\n    \"interpretation\": \"The patient's TSH level is mildly elevated above the typical reference range, while free T4 is at the lower end of normal, suggesting suboptimal thyroid hormone replacement.\",\n    \"recommendation\": \"Consider evaluating levothyroxine dose adequacy. Adjust dose as clinically indicated and reassess thyroid function tests in 6-8 weeks. Monitor symptoms and ensure medication adherence.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 107,
+"latency_seconds": 1.819472000002861
+}

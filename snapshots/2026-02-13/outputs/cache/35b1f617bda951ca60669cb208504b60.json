@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"case_id\": \"base_asthma_copd_0193\",\n  \"evaluation\": {\n    \"review\": \"The case involves a female patient aged 65-74 with comorbid COPD, asthma, and obesity. Current medications include albuterol inhaler (2 puffs Q4H PRN) and budesonide/formoterol (160/4.5 mcg BID). Vital signs (O2 saturation 96%, respiratory rate 16) and labs (WBC 8.2) are within expected ranges for stable pulmonary status. Allergy to latex is noted. The medication regimen is appropriate for managing COPD and asthma symptoms. No immediate clinical concerns are indicated given the presented data.\",\n    \"recommendations\": [\n      \"Continue current inhaler therapy and monitor symptom control.\",\n      \"Educate patient on proper inhaler technique.\",\n      \"Monitor for any signs of exacerbation or infection given comorbidities.\",\n      \"Encourage weight management interventions to address obesity, which may improve respiratory function.\"\n    ],\n    \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 365,
+"completion_tokens": 232,
+"latency_seconds": 4.821827200008556
+}

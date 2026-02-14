@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0097\",\n  \"evaluation\": {\n    \"risk_assessment\": {\n      \"opioid_use\": \"Moderate risk due to oxycodone use with chronic pain\",\n      \"mental_health\": \"Anxiety present, may require monitoring due to opioid use\",\n      \"renal_function\": \"Within normal limits (eGFR 85, Cr 1.0)\",\n      \"vitals\": \"Stable (BP_sys 122, RR 14)\"\n    },\n    \"recommendations\": {\n      \"pain_management\": \"Continue current oxycodone and acetaminophen regimen with monitoring\",\n      \"mental_health\": \"Consider anxiety management optimization alongside pain treatment\",\n      \"monitoring\": \"Regular assessment for opioid side effects and signs of misuse\",\n      \"general\": \"Ensure patient education about PRN medication use and potential side effects\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 350,
+"completion_tokens": 187,
+"latency_seconds": 3.6558455000049435
+}

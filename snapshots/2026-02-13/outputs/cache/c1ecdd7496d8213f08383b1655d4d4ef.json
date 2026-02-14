@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pain_opioids_0117\",\n  \"assessment\": {\n    \"pain_management\": \"Patient is using oxycodone 5mg and acetaminophen 650mg, both as needed every 6 hours, appropriate for chronic low back pain management.\",\n    \"medication_safety\": \"Current doses and frequency appear safe given normal renal function (eGFR 85) and no contraindications or allergies.\",\n    \"monitoring_recommendations\": \"Continue monitoring pain control effectiveness, watch for opioid side effects including sedation or constipation, and assess for any signs of acetaminophen overuse.\",\n    \"general_health\": \"Vitals and labs are within normal limits, indicating stable clinical status.\"\n  },\n  \"recommendations\": {\n    \"follow_up\": \"Regular follow-up to reassess pain control and functional status.\",\n    \"non_pharmacologic_options\": \"Consider adjunct non-pharmacologic therapies such as physical therapy or exercise if not already implemented.\",\n    \"opioid_stewardship\": \"Evaluate ongoing need for opioids to minimize risk of dependency.\"\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 249,
+"latency_seconds": 3.6735986999992747
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_htn_0072_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_lisinopril_for_renal\"\n    ],\n    \"risk_flags_detected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_detected\": [],\n    \"forbidden_changes_detected\": []\n  },\n  \"compliance\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true\n  },\n  \"notes\": \"The variant correctly indicates the need to adjust lisinopril dosing due to renal impairment, flags relevant risks including renal dose adjustment and low eGFR, has no contraindications, and appropriately avoids increasing nephrotoxic dose.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 190,
+"latency_seconds": 2.990542199986521
+}

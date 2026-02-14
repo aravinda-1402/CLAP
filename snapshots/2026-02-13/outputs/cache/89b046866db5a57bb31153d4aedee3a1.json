@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0099\",\n  \"domain\": \"thyroid\",\n  \"demographics\": {\n    \"age_group\": \"75-84\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"hypothyroidism\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"levothyroxine\",\n      \"dose\": \"100mcg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"TSH\": 5.2,\n    \"T4_free\": 0.9,\n    \"Cr\": 1.0\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 100. Domain: thyroid. Age group 75-84, sex M. No real patient data.\",\n  \"interpretation\": {\n    \"TSH_status\": \"mildly elevated\",\n    \"T4_free_status\": \"low normal\",\n    \"clinical_summary\": \"Patient is an elderly male with hypothyroidism on levothyroxine 100mcg daily. TSH mildly elevated at 5.2 suggests possible underreplacement, though free T4 is low normal. Clinical correlation recommended. Vitals and creatinine within normal limits. Consider adjusting levothyroxine dose based on symptoms and repeat thyroid function tests.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 315,
+"latency_seconds": 5.337418900016928
+}

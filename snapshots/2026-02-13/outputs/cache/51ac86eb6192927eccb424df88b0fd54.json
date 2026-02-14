@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"medication_changes\": [\"substitute_for_lisinopril\"],\n  \"risk_flags_expected\": [\"allergy_flagged\"],\n  \"contraindications_expected\": [\"avoid_lisinopril_allergy\"],\n  \"forbidden_changes\": [\"prescribe_lisinopril\"]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 59,
+"latency_seconds": 1.0819304999895394
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_furosemide_for_renal\"\n    ],\n    \"risk_flags\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications\": [],\n    \"forbidden_changes\": [\n      \"increase_nephrotoxic_dose\"\n    ]\n  },\n  \"matches_expected\": true,\n  \"notes\": \"All expected medication changes, risk flags, and forbidden changes are correctly identified. No contraindications present as expected.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 113,
+"latency_seconds": 1.8584106999915093
+}

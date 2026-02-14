@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0244\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Reduce dose or extend dosing interval\",\n      \"rationale\": \"Gabapentin is renally cleared and requires dose adjustment in patients with eGFR 30-59 mL/min/1.73m2 to avoid toxicity.\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Continue at reduced dose with monitoring\",\n      \"rationale\": \"Metformin is generally safe to continue in CKD stage 3b with eGFR between 30-45 but monitor renal function closely to avoid lactic acidosis.\"\n    }\n  },\n  \"monitoring\": [\n    \"Monitor renal function (eGFR and serum creatinine) periodically\",\n    \"Monitor for signs of gabapentin toxicity (e.g., sedation, dizziness)\",\n    \"Monitor blood glucose levels to ensure diabetes control\"\n  ],\n  \"notes\": \"Given patient's CKD stage 3b and diabetes with eGFR of 32, gabapentin dosing frequency should be reviewed and potentially reduced or replaced. Metformin can be continued with caution and regular monitoring due to borderline renal function.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 257,
+"latency_seconds": 3.263626200001454
+}

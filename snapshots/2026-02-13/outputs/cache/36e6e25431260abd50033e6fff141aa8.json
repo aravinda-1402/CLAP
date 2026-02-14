@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"case_id\": \"base_infection_antibiotics_0236\",\n  \"evaluation\": {\n    \"infection_status\": \"likely cellulitis flare or infection ongoing\",\n    \"laboratory_interpretation\": {\n      \"WBC\": \"mild leukocytosis consistent with infection\",\n      \"Cr\": \"normal renal function\",\n      \"eGFR\": \"normal kidney function\"\n    },\n    \"vital_signs_interpretation\": {\n      \"temperature\": \"mild fever indicating active infection\",\n      \"heart_rate\": \"normal range\"\n    },\n    \"medication_assessment\": {\n      \"amoxicillin\": {\n        \"dose_frequency\": \"appropriate for cellulitis treatment\",\n        \"coverage\": \"adequate for most skin infections\"\n      },\n      \"omeprazole\": \"appropriate for GI protection, no interaction concerns\"\n    },\n    \"recommendations\": {\n      \"continue_current_antibiotic_regimen\": true,\n      \"monitor_clinical_response\": \"monitor fever, erythema, and swelling improvement\",\n      \"follow_up\": \"clinical reassessment in 48-72 hours or sooner if worsening\",\n      \"labs_monitoring\": \"repeat WBC if no improvement\",\n      \"consideration\": \"if no clinical improvement consider antibiotic coverage review\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 268,
+"latency_seconds": 4.808643700001994
+}

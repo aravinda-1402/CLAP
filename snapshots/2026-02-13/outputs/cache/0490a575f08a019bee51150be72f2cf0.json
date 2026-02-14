@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0134\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": true,\n      \"recommended_dose\": \"300mg\",\n      \"recommended_frequency\": \"BID\",\n      \"rationale\": \"Gabapentin dosing should be reduced in CKD stage 3b (eGFR 30-44 ml/min) to prevent toxicity.\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": true,\n      \"recommended_dose\": \"500mg\",\n      \"recommended_frequency\": \"BID\",\n      \"rationale\": \"Metformin is generally safe in eGFR \u226530 ml/min but should be used with caution and monitored closely in CKD stage 3b. Dose adjustments may be needed with declining renal function.\"\n    }\n  },\n  \"monitoring\": {\n    \"renal_function\": \"Monitor eGFR and serum creatinine every 3-6 months or more frequently if clinical status changes.\",\n    \"blood_glucose\": \"Monitor blood glucose due to diabetes and medication adjustments.\",\n    \"side_effects\": \"Monitor for signs of gabapentin toxicity (dizziness, somnolence) and lactic acidosis symptoms with metformin.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 267,
+"latency_seconds": 4.197949199995492
+}

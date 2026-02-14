@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0137\",\n  \"evaluation\": {\n    \"risk_assessment\": {\n      \"opioid_use\": \"Moderate risk due to oxycodone use for chronic pain; monitor for dependency and side effects.\",\n      \"renal_function\": \"Normal based on Cr and eGFR values; no dosage adjustment needed.\",\n      \"respiratory_status\": \"Normal RR observed; no respiratory depression noted.\",\n      \"pain_management\": \"Current regimen appropriate for mild to moderate chronic low back pain; reassess pain control effectiveness periodically.\"\n    },\n    \"recommendations\": [\n      \"Continue current medication regimen with regular monitoring for efficacy and adverse effects.\",\n      \"Implement non-pharmacologic pain management strategies as adjunct therapy.\",\n      \"Schedule routine follow-up visits to evaluate pain control and functional status.\",\n      \"Educate patient on opioid use risks and safe medication practices.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 190,
+"latency_seconds": 3.2102093000139575
+}

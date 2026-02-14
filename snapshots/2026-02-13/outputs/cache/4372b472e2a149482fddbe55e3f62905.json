@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0067\",\n  \"evaluation\": {\n    \"clinical_assessment\": \"The patient is an elderly male (75-84 years) with chronic low back pain and GERD, currently on oxycodone 5mg and acetaminophen 650mg as needed every 6 hours. Vitals and labs including renal function are within normal limits. Pain management with short-acting opioid and acetaminophen is appropriate. Consideration should be given to potential opioid-related risks in this age group, including sedation, fall risk, and constipation. GERD should be monitored as opioids can exacerbate gastrointestinal symptoms.\",\n    \"recommendations\": [\n      \"Continue current pain management regimen with close monitoring of efficacy and side effects.\",\n      \"Assess for constipation regularly and consider prophylactic measures.\",\n      \"Monitor for signs of sedation or cognitive impairment due to opioid use.\",\n      \"Review GERD management to minimize gastrointestinal discomfort.\",\n      \"Evaluate possibility of non-opioid adjunctive therapies for chronic low back pain to reduce opioid exposure.\"\n    ],\n    \"cautions\": [\n      \"Risk of opioid-related adverse effects in older adults.\",\n      \"Potential drug interaction or worsening of GERD symptoms.\",\n      \"Need for regular renal function monitoring due to age group and medication use.\"\n    ],\n    \"overall_plan\": \"Maintain current therapy with vigilant monitoring and supportive care to optimize pain control and minimize adverse outcomes.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 295,
+"latency_seconds": 3.9887903000053484
+}

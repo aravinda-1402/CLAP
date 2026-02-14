@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_anticoagulation_0120\",\n  \"recommendation\": {\n    \"assessment\": \"The patient is an elderly female with atrial fibrillation and hypertension, currently anticoagulated with warfarin and also taking aspirin. Her INR is within the therapeutic range (2.2), blood pressure and heart rate are stable, and renal function is preserved (eGFR 85). Dual therapy with warfarin and aspirin in atrial fibrillation patients may increase bleeding risk without additional thrombotic benefit unless there is a specific indication for aspirin.\",\n    \"recommendation\": \"Evaluate the ongoing need for aspirin in this patient to minimize bleeding risk. If there is no recent history of coronary artery disease, stenting, or other indication for antiplatelet therapy, consider discontinuing aspirin while continuing warfarin monotherapy for atrial fibrillation. Continue regular INR monitoring and blood pressure control. Monitor for any signs of bleeding given combined therapy.\",\n    \"follow_up\": \"Schedule regular follow-up to reassess anticoagulation management, control of blood pressure, and monitor for adverse events.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 350,
+"completion_tokens": 235,
+"latency_seconds": 3.9071413000056054
+}

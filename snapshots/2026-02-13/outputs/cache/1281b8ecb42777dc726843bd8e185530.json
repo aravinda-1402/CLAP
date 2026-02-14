@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_diabetes_0031\",\n  \"domain\": \"diabetes\",\n  \"demographics\": {\n    \"age_group\": \"65-74\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"type2_diabetes\",\n    \"obesity\",\n    \"GERD\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"metformin\",\n      \"dose\": \"1000mg\",\n      \"freq\": \"BID\"\n    },\n    {\n      \"name\": \"insulin_glargine\",\n      \"dose\": \"20 units\",\n      \"freq\": \"QHS\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 132,\n    \"HR\": 78\n  },\n  \"labs\": {\n    \"HbA1c\": 7.8,\n    \"Cr\": 1.0,\n    \"eGFR\": 88\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 32. Domain: diabetes. Age group 65-74, sex M. No real patient data.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 251,
+"latency_seconds": 4.13064009998925
+}

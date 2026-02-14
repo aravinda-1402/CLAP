@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0249\",\n  \"evaluation\": {\n    \"interpretation\": \"The patient's TSH is slightly elevated at 5.2 mIU/L with a low-normal free T4 of 0.9 ng/dL while on levothyroxine 100 mcg daily, suggesting possible suboptimal thyroid hormone replacement or mild under-treatment.\",\n    \"recommendations\": [\n      \"Consider re-evaluating levothyroxine dose to achieve target TSH levels generally between 0.5 and 4.0 mIU/L in elderly patients, taking into account symptoms and comorbidities.\",\n      \"Monitor thyroid function tests in 6-8 weeks after any dose adjustment.\",\n      \"Ensure adherence to medication and proper administration (e.g., taken on empty stomach).\",\n      \"Assess for symptoms of hypothyroidism or overtreatment despite labs within template ranges.\",\n      \"Continue monitoring renal function, which is stable at Cr 1.0 mg/dL.\",\n      \"No immediate changes required if patient is asymptomatic, but close follow up advised.\"\n    ],\n    \"allergy_considerations\": \"No contraindications or interactions identified related to known latex allergy.\",\n    \"clinical_note\": \"This is a synthetic case for evaluation only and not for clinical use.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 308,
+"completion_tokens": 270,
+"latency_seconds": 4.053979899996193
+}

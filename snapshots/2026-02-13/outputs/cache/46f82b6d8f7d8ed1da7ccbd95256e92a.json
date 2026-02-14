@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_asthma_copd_0133\",\n  \"assessment\": {\n    \"primary_diagnosis\": [\"COPD\", \"asthma\"],\n    \"comorbid_conditions\": [\"GERD\"],\n    \"allergies\": [\"sulfa\"]\n  },\n  \"plan\": {\n    \"medications\": [\n      {\n        \"name\": \"albuterol_inhaler\",\n        \"dose\": \"2 puffs\",\n        \"frequency\": \"Q4H PRN\",\n        \"purpose\": \"relief of acute bronchospasm\"\n      },\n      {\n        \"name\": \"budesonide_formoterol\",\n        \"dose\": \"160/4.5 mcg\",\n        \"frequency\": \"BID\",\n        \"purpose\": \"maintenance therapy for asthma and COPD\"\n      }\n    ],\n    \"monitoring\": [\n      \"Monitor respiratory rate and oxygen saturation regularly\",\n      \"Watch for any exacerbation signs of COPD or asthma\",\n      \"Evaluate GERD control and consider acid suppression therapy if symptoms worsen\"\n    ],\n    \"patient_education\": [\n      \"Avoid triggers that can worsen asthma or COPD\",\n      \"Use albuterol inhaler as rescue medication only\",\n      \"Adherence to maintenance inhaler to control symptoms\"\n    ],\n    \"follow_up\": \"Routine follow-up to assess lung function and symptom control\"\n  },\n  \"status\": \"stable\",\n  \"notes\": \"Synthetic case 134. All vitals and labs are within normal ranges. No indication of infection or acute exacerbation.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 368,
+"completion_tokens": 320,
+"latency_seconds": 4.297317699994892
+}

@@ -32,6 +32,7 @@ outputs/logs/*.log
 
 # Generated at runtime; exclude cache to keep repo small
 outputs/cache/
+outputs/run_progress.json
 
 *.pdf
 !paper/paper.pdf

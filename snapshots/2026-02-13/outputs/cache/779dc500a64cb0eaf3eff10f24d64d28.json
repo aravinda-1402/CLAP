@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_asthma_copd_0213_renal_impairment_0\",\n  \"medication_changes\": [\n    \"adjust_budesonide_formoterol_for_renal\"\n  ],\n  \"risk_flags_detected\": [\n    \"renal_dose_adjustment\",\n    \"eGFR_low\"\n  ],\n  \"contraindications_detected\": [],\n  \"forbidden_changes_detected\": [],\n  \"evaluation_notes\": \"Medication adjusted according to renal impairment. Risk flags for renal dose adjustment and low eGFR are appropriately set. No contraindications or forbidden medication increase observed.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 261,
+"completion_tokens": 133,
+"latency_seconds": 1.8714924000087194
+}

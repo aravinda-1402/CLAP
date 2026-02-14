@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0094\",\n  \"domain\": \"ckd_dosing\",\n  \"evaluation\": {\n    \"patient_age_group\": \"55-64\",\n    \"patient_sex\": \"F\",\n    \"ckd_stage\": \"3b\",\n    \"eGFR\": 32,\n    \"comorbidities\": [\n      \"CKD_stage3b\",\n      \"diabetes\",\n      \"GERD\"\n    ],\n    \"current_medications\": [\n      {\n        \"name\": \"gabapentin\",\n        \"dose\": \"300mg\",\n        \"frequency\": \"TID\",\n        \"dose_adjustment_recommendation\": \"Dose is appropriate for CKD stage 3b. No change needed.\"\n      },\n      {\n        \"name\": \"metformin\",\n        \"dose\": \"500mg\",\n        \"frequency\": \"BID\",\n        \"dose_adjustment_recommendation\": \"Metformin use is acceptable with caution at eGFR 32 but monitor kidney function closely. Consider dose reduction or discontinuation if eGFR falls below 30 or if clinical condition worsens.\"\n      }\n    ],\n    \"blood_pressure\": {\n      \"systolic\": 138,\n      \"recommendation\": \"BP is slightly elevated; Blood pressure control is important in CKD management.\"\n    },\n    \"clinical_notes\": \"Patient with CKD stage 3b and diabetes is on gabapentin and metformin. Gabapentin dosing is appropriate. Metformin should be used cautiously with close monitoring of renal function. Maintain good blood pressure control to slow CKD progression.\",\n    \"alerts\": [],\n    \"summary\": \"Current medication regimen reasonable with monitoring recommendations for metformin due to CKD stage 3b.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 340,
+"completion_tokens": 365,
+"latency_seconds": 6.9491296999913175
+}

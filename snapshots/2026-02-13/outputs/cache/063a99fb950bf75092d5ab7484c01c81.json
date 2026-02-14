@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_pain_opioids_0057_pregnancy_toggle_1\",\n  \"medication_changes\": [],\n  \"risk_flags_detected\": [\n    \"pregnancy_safe_alternatives\"\n  ],\n  \"contraindications_detected\": [\n    \"avoid_teratogenic_if_applicable\"\n  ],\n  \"forbidden_changes_detected\": []\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 81,
+"latency_seconds": 1.6494690999970771
+}

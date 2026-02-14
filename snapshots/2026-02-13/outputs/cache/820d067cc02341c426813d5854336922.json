@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_diabetes_0181\",\n  \"domain\": \"diabetes\",\n  \"assessment\": {\n    \"summary\": \"55-64 year old male with type 2 diabetes and obesity on metformin and insulin glargine. Current glycemic control is suboptimal with HbA1c of 7.8%. Vital signs and renal function are within acceptable ranges.\",\n    \"recommendations\": [\n      \"Consider optimizing glycemic control possibly through medication adjustment or lifestyle interventions given HbA1c above target.\",\n      \"Continue current metformin and insulin glargine regimen with close monitoring.\",\n      \"Encourage weight management strategies to address obesity.\",\n      \"Monitor renal function periodically due to diabetes and medication use.\",\n      \"Schedule regular follow-ups for cardiovascular risk assessment and diabetes complications screening.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 170,
+"latency_seconds": 2.8721917000075337
+}

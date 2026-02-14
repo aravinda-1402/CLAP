@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0059\",\n  \"assessment\": \"The patient is an elderly male with hypothyroidism on levothyroxine therapy. Current labs show a mildly elevated TSH (5.2 mIU/L) with low-normal free T4 (0.9 ng/dL), which may suggest suboptimal thyroid hormone replacement. Vitals and renal function are within normal limits.\",\n  \"plan\": {\n    \"thyroid_management\": {\n      \"recommendation\": \"Consider evaluating levothyroxine dose adequacy. Possible mild underreplacement suggested by elevated TSH and low-normal free T4.\",\n      \"actions\": [\n        \"Assess adherence and timing of levothyroxine intake relative to meals and other medications.\",\n        \"Consider titrating levothyroxine dose cautiously with follow-up thyroid function tests in 6-8 weeks.\",\n        \"Monitor for symptoms of hypothyroidism or overtreatment.\"\n      ]\n    },\n    \"monitoring\": {\n      \"labs\": [\"TSH\", \"free T4\"],\n      \"frequency\": \"6-8 weeks after any dose adjustment\"\n    },\n    \"other_considerations\": \"Ensure periodic monitoring of renal function; ensure no new medications or conditions affecting thyroid status.\"\n  },\n  \"follow_up\": \"Re-evaluation of thyroid labs and clinical status in 6-8 weeks post any intervention.\",\n  \"disclaimer\": \"This synthetic case is for evaluation only and not for clinical use.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 306,
+"latency_seconds": 4.387898799992399
+}

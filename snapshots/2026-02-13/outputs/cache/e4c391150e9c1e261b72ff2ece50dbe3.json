@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_anticoagulation_0040\",\n  \"evaluation\": {\n    \"indication_accuracy\": \"Appropriate anticoagulation for atrial fibrillation\",\n    \"medications_review\": {\n      \"warfarin\": {\n        \"dose_appropriateness\": \"5mg daily is a common starting dose; individual dosing guided by INR\",\n        \"monitoring\": \"INR of 2.2 is within therapeutic range (2.0-3.0) for atrial fibrillation anticoagulation\"\n      },\n      \"aspirin\": {\n        \"dose_appropriateness\": \"81mg daily aspirin may increase bleeding risk in combination with warfarin; evaluate necessity\",\n        \"recommendation\": \"Consider risk-benefit of dual therapy; aspirin may be indicated if recent coronary disease but not specified here\"\n      }\n    },\n    \"lab_and_vitals_summary\": {\n      \"INR\": \"2.2 - therapeutic\",\n      \"renal_function\": \"Cr 1.0 and eGFR 85 mL/min indicate normal renal function\",\n      \"vital_signs\": \"BP 128/XX mmHg and HR 72 bpm within normal range\"\n    },\n    \"allergy_considerations\": \"Patient allergic to sulfa; no sulfa-containing meds prescribed\",\n    \"overall_assessment\": \"Patient is appropriately anticoagulated for atrial fibrillation with warfarin and therapeutic INR. Aspirin co-therapy should be reviewed given increased bleeding risk without clear indication.\",\n    \"recommendations\": [\n      \"Continue INR monitoring every 4-6 weeks\",\n      \"Assess indication for aspirin therapy given bleeding risk\",\n      \"Monitor blood pressure and renal function periodically\"\n    ]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 360,
+"completion_tokens": 362,
+"latency_seconds": 5.485191999992821
+}

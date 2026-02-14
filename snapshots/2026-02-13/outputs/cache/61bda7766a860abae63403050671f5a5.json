@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"result\": \"accepted\",\n  \"reasoning\": \"The expected change specification correctly includes substituting lisinopril due to allergy, flags allergy risk, contraindicates lisinopril, and forbids prescribing lisinopril. This aligns with the variant requirements for allergy management.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 65,
+"latency_seconds": 1.1962466999830212
+}

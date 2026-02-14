@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_chf_0238_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": {\n      \"present\": [\"substitute_for_furosemide\"],\n      \"missing\": [],\n      \"unexpected\": []\n    },\n    \"risk_flags\": {\n      \"present\": [\"allergy_flagged\"],\n      \"missing\": [],\n      \"unexpected\": []\n    },\n    \"contraindications\": {\n      \"present\": [\"avoid_furosemide_allergy\"],\n      \"missing\": [],\n      \"unexpected\": []\n    },\n    \"forbidden_changes\": {\n      \"respected\": [\"prescribe_furosemide\"],\n      \"violated\": []\n    }\n  },\n  \"conclusion\": \"All expected changes and flags are correctly implemented. No forbidden changes detected.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 172,
+"latency_seconds": 5.443831300013699
+}

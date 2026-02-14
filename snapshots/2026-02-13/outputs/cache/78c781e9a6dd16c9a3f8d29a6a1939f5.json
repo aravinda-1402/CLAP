@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"assessment\": \"The patient is a 25-34 year old female with stage 3b CKD (eGFR 32), diabetes, and anxiety, currently on gabapentin 300mg TID and metformin 500mg BID. Given the CKD stage and eGFR, metformin dose should be reviewed to minimize risk of lactic acidosis. Gabapentin dosing may need adjustment based on renal function to avoid toxicity. Blood pressure is slightly elevated at 138 mmHg systolic and should be monitored. No allergies or pregnancy.\",\n  \"recommendations\": {\n    \"metformin\": \"Review dose; consider reducing dose or temporary discontinuation based on eGFR and monitoring per guidelines due to CKD stage 3b.\",\n    \"gabapentin\": \"Consider dose reduction or extended dosing intervals due to decreased renal clearance in stage 3b CKD.\",\n    \"monitoring\": \"Close monitoring of renal function and blood glucose; monitor blood pressure and adjust antihypertensive therapy if needed.\",\n    \"follow_up\": \"Repeat labs including renal function in 1-3 months; reassess medication dosing based on kidney function and glycemic control.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 339,
+"completion_tokens": 245,
+"latency_seconds": 3.2058201000036206
+}

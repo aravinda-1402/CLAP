@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import json
 import logging
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -65,8 +66,14 @@ def _resolve_adapter(config: dict[str, Any]):
     if adapter_name == "mock":
         inner = MockAdapter(seed=seed, version=version)
     elif adapter_name == "openai" and OpenAIAdapter is not None:
+        api_key = os.environ.get("OPENAI_API_KEY") or os.environ.get("API_KEY")
+        if not api_key:
+            raise RuntimeError(
+                "OPENAI_API_KEY is not set. Set it in your environment (e.g. $env:OPENAI_API_KEY = 'sk-...') "
+                "or use experiments/config_mock.yaml for mock-only runs."
+            )
         inner = OpenAIAdapter(
-            model=models.get("openai_model", "gpt-4o-mini"),
+            model=models.get("openai_model") or models.get("model", "gpt-4o-mini"),
             base_url=models.get("openai_base_url"),
         )
     else:
@@ -121,6 +128,9 @@ def run_evaluation(config_path: str | Path) -> dict[str, Any]:
             logging.StreamHandler(sys.stdout),
         ],
     )
+    # Reduce noise from HTTP client (one line per request)
+    logging.getLogger("httpx").setLevel(logging.WARNING)
+    logging.getLogger("openai").setLevel(logging.WARNING)
 
     # Ensure data exists
     if not (data_dir / "cases_base.jsonl").exists():
@@ -147,7 +157,14 @@ def run_evaluation(config_path: str | Path) -> dict[str, Any]:
     parse_results: dict[str, ParseResult] = {}
     raw_outputs: dict[str, str] = {}
     canary_by_case: dict[str, list[str]] = {}
+    n_cases = len(case_ids)
+    progress_file = out_dir / "run_progress.json"
+    logger.info("Running model on %d cases (this may take several minutes)...", n_cases)
+    logger.info("Each response is saved to %s immediately.", config["models"].get("cache_dir", "outputs/cache"))
     for i, cid in enumerate(case_ids):
+        if (i + 1) % 10 == 0 or i == 0 or i == n_cases - 1:
+            logger.info("Progress: %d / %d cases", i + 1, n_cases)
+            sys.stdout.flush()
         if cid in base_by_id:
             case = base_by_id[cid]
             summary = case["summary"]
@@ -164,6 +181,14 @@ def run_evaluation(config_path: str | Path) -> dict[str, Any]:
         result = adapter.generate(prompt, case_id=cid)
         raw_outputs[cid] = result.raw_text
         parse_results[cid] = parse_model_output(result.raw_text)
+        # Save progress to disk every call (cache already has response; this records progress)
+        try:
+            progress_file.write_text(
+                json.dumps({"completed": i + 1, "total": n_cases, "last_case_id": cid}, indent=0),
+                encoding="utf-8",
+            )
+        except Exception:
+            pass
 
     # NRT suite evaluation
     nrt_cases = suites.get("nrt100", [])

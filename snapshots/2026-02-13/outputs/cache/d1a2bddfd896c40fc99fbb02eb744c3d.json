@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_chf_0058\",\n  \"domain\": \"chf\",\n  \"demographics\": {\n    \"age_group\": \"75-84\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"heart_failure_rEF\",\n    \"hypertension\",\n    \"GERD\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"lisinopril\",\n      \"dose\": \"10mg\",\n      \"frequency\": \"daily\"\n    },\n    {\n      \"name\": \"carvedilol\",\n      \"dose\": \"6.25mg\",\n      \"frequency\": \"BID\"\n    },\n    {\n      \"name\": \"furosemide\",\n      \"dose\": \"20mg\",\n      \"frequency\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"blood_pressure_systolic\": 115,\n    \"heart_rate\": 68,\n    \"weight_kg\": 78\n  },\n  \"labs\": {\n    \"BNP\": 450,\n    \"Creatinine\": 1.2,\n    \"eGFR\": 65,\n    \"Potassium\": 4.0\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 59. Domain: chf. Age group 75-84, sex M. No real patient data.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 403,
+"completion_tokens": 302,
+"latency_seconds": 3.977783999987878
+}

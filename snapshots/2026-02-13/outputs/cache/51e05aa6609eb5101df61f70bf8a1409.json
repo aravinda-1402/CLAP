@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_anticoagulation_0210_pregnancy_toggle_1\",\n  \"base_id\": \"base_anticoagulation_0210\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags\": [],\n    \"contraindications\": [],\n    \"forbidden_changes_encountered\": false\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 197,
+"completion_tokens": 76,
+"latency_seconds": 1.2219114000035916
+}

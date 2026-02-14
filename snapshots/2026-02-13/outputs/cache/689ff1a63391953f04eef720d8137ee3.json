@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0129\",\n  \"domain\": \"thyroid\",\n  \"demographics\": {\n    \"age_group\": \"65-74\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"hypothyroidism\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"levothyroxine\",\n      \"dose\": \"100mcg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"TSH\": 5.2,\n    \"T4_free\": 0.9,\n    \"Cr\": 1.0\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"interpretation\": {\n    \"TSH\": {\n      \"value\": 5.2,\n      \"interpretation\": \"Mildly elevated above the typical reference range (0.4-4.0 mIU/L), which may indicate suboptimal thyroid hormone replacement or mild hypothyroidism.\"\n    },\n    \"T4_free\": {\n      \"value\": 0.9,\n      \"interpretation\": \"At the lower end or slightly below normal reference range (approximately 0.9-1.7 ng/dL), suggesting possible mild hypothyroidism or under-treatment.\"\n    },\n    \"clinical_recommendation\": \"Consider evaluating levothyroxine dosage and clinical symptoms to optimize thyroid hormone replacement. Monitor thyroid function tests periodically.\"\n  },\n  \"notes\": \"Synthetic case 130. Domain: thyroid. Age group 65-74, sex M. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 361,
+"latency_seconds": 5.1834927999880165
+}

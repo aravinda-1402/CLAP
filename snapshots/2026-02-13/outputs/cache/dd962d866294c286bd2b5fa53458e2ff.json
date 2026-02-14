@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"medication_changes\": [],\n  \"risk_flags_identified\": [\n    \"drug_interaction\"\n  ],\n  \"contraindications_identified\": [\n    \"interaction_requires_monitoring_or_change\"\n  ],\n  \"forbidden_changes_made\": []\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 212,
+"completion_tokens": 54,
+"latency_seconds": 1.2320661999983713
+}

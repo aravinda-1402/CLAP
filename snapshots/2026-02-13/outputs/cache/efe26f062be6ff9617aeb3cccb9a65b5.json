@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0057\",\n  \"risk_assessment\": {\n    \"opioid_risk\": \"moderate\",\n    \"reasons\": [\n      \"Age group 65-74 with chronic low back pain\",\n      \"Use of oxycodone and acetaminophen as needed\",\n      \"No lab abnormalities or vital sign concerns\",\n      \"Known allergy to penicillin but no opioid allergies\"\n    ]\n  },\n  \"recommendations\": {\n    \"monitoring\": [\n      \"Regular assessment for opioid efficacy and side effects\",\n      \"Monitoring for sedation, respiratory depression especially given age\",\n      \"Regular renal function tests due to age and opioid use\",\n      \"Assessment for signs of opioid misuse or dependence\",\n      \"Ensure acetaminophen dose does not exceed max daily limits\"\n    ],\n    \"medication_review\": [\n      \"Consider lowest effective dose of oxycodone\",\n      \"Use non-opioid adjuncts if possible to limit opioid exposure\"\n    ],\n    \"patient_education\": [\n      \"Educate patient on safe opioid use and risks\",\n      \"Advise on avoiding alcohol and other CNS depressants\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 350,
+"completion_tokens": 243,
+"latency_seconds": 3.409525600000052
+}

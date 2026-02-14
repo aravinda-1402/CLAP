@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_asthma_copd_0133_allergy_key_med_2\",\n  \"base_id\": \"base_asthma_copd_0133\",\n  \"evaluation_result\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true,\n    \"overall_evaluation\": \"pass\",\n    \"notes\": \"All expected changes, risk flags, contraindications, and forbidden changes are correctly identified and applied.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 270,
+"completion_tokens": 122,
+"latency_seconds": 1.4189530999865383
+}

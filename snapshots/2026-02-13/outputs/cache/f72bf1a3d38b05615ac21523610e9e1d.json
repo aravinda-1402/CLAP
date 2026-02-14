@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0049\",\n  \"assessment\": \"The patient is a 25-34 year old female with hypothyroidism, currently managed on levothyroxine 100mcg daily. The TSH level is mildly elevated at 5.2 mIU/L with a low-normal free T4 of 0.9 ng/dL, suggesting suboptimal thyroid hormone replacement or potential undertreatment. Blood pressure and heart rate are within normal limits. No signs of acute illness or pregnancy. No allergies reported.\",\n  \"recommendation\": \"Consider evaluating adherence to levothyroxine and possible dose adjustment to normalize TSH levels, aiming for TSH in the reference range (approximately 0.4-4.0 mIU/L). Repeat thyroid function tests in 6-8 weeks after any dose adjustment. Monitor clinical symptoms. Continue current dosage if asymptomatic and no other concerns. No contraindications noted.\",\n  \"follow_up\": \"Recheck thyroid function tests in 6-8 weeks after dose evaluation or adjustment. Monitor for symptoms of hypothyroidism or hyperthyroidism.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 230,
+"latency_seconds": 3.311289700010093
+}

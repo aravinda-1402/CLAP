@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_diabetes_0071_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"substitute_for_metformin\"\n    ],\n    \"risk_flags_expected\": [\n      \"allergy_flagged\"\n    ],\n    \"contraindications_expected\": [\n      \"avoid_metformin_allergy\"\n    ],\n    \"forbidden_changes\": [\n      \"prescribe_metformin\"\n    ],\n    \"compliance\": true,\n    \"notes\": \"All expected medication changes, risk flags, contraindications, and forbidden changes are present and correctly applied.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 228,
+"completion_tokens": 127,
+"latency_seconds": 1.9389748999965377
+}

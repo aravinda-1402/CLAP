@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"evaluation\": {\n    \"variant_id\": \"var_htn_0042_allergy_key_med_2\",\n    \"result\": \"pass\",\n    \"details\": {\n      \"medication_changes_verified\": true,\n      \"risk_flags_verified\": true,\n      \"contraindications_verified\": true,\n      \"forbidden_changes_verified\": true,\n      \"comments\": \"The medication change avoids prescribing lisinopril due to allergy, flags the allergy appropriately, and respects contraindications as expected.\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 107,
+"latency_seconds": 1.6696139000123367
+}

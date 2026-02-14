@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"evaluation\": {\n    \"variant_id\": \"var_chf_0078_allergy_key_med_2\",\n    \"compliance\": {\n      \"medication_changes_correct\": true,\n      \"risk_flags_correct\": true,\n      \"contraindications_correct\": true,\n      \"forbidden_changes_respected\": true\n    },\n    \"summary\": \"The synthetic variant correctly substitutes furosemide to avoid allergy risks. Allergy is flagged appropriately. Contraindications to avoid furosemide due to allergy are included. The forbidden change of prescribing furosemide is not made.\",\n    \"issues\": []\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 129,
+"latency_seconds": 1.9613534999953117
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0104\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Dose reduction recommended due to eGFR 32 mL/min. Consider lowering dose or extending dosing interval.\",\n      \"rationale\": \"Gabapentin is renally cleared and requires dose adjustment at eGFR < 60 to avoid toxicity.\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Continue with caution. Metformin use is generally safe with eGFR \u2265 30 mL/min but monitor renal function closely.\",\n      \"rationale\": \"Risk of lactic acidosis increases with lower eGFR; current eGFR is 32 mL/min.\"\n    }\n  },\n  \"additional_notes\": \"Monitor renal function regularly. Optimize blood pressure control. Avoid nephrotoxic agents. Consider referral to nephrology for CKD stage 3b.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 345,
+"completion_tokens": 202,
+"latency_seconds": 3.6258724000072107
+}

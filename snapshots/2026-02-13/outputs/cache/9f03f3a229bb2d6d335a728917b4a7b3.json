@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0164\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Reduce dose or extend dosing interval due to decreased renal clearance in CKD stage 3b.\",\n      \"suggested_dose\": \"300mg once daily or 300mg every 12 hours\",\n      \"rationale\": \"Gabapentin is renally cleared; accumulation can occur with eGFR 30-44 mL/min/1.73m2.\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Use with caution; max daily dose typically reduced.\",\n      \"suggested_dose\": \"500mg once or twice daily with close monitoring\",\n      \"rationale\": \"Metformin is contraindicated if eGFR <30; with eGFR 30-44, dose reduction and monitoring for lactic acidosis risk recommended.\"\n    }\n  },\n  \"monitoring\": [\n    \"Regular monitoring of renal function (eGFR) every 3-6 months\",\n    \"Monitor for signs of drug toxicity (e.g., gabapentin side effects such as dizziness, sedation)\",\n    \"Monitor blood glucose control given diabetes and metformin use\",\n    \"Blood pressure monitoring as per standard care\"\n  ],\n  \"notes\": \"Patient has CKD stage 3b (eGFR 32). Adjust gabapentin dose to avoid accumulation. Metformin can be continued at reduced dose with caution and monitoring. No allergies reported.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 321,
+"latency_seconds": 5.844575600000098
+}

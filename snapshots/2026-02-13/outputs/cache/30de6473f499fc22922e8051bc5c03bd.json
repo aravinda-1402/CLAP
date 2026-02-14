@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0157\",\n  \"assessment\": \"The patient is a female aged 35-44 with chronic low back pain managed on oxycodone 5mg and acetaminophen 650mg as needed every 6 hours. Vitals and labs including blood pressure, respiratory rate, creatinine, and eGFR are within normal limits. Given the patient is pregnant, caution is advised when using opioid analgesics such as oxycodone due to potential risks to the fetus. The dosing frequency and as-needed use should be reviewed regularly to minimize fetal exposure. Non-pharmacologic pain management strategies and alternative analgesics safer in pregnancy should be considered.\",\n  \"recommendations\": [\n    \"Consult obstetrics for coordinated care and risk assessment regarding opioid use in pregnancy.\",\n    \"Consider minimizing opioid use and focus on non-opioid analgesics and alternative pain management approaches safer in pregnancy.\",\n    \"Monitor maternal and fetal health closely during opioid therapy.\",\n    \"Educate patient regarding potential risks of opioid use during pregnancy.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 237,
+"latency_seconds": 5.908945000002859
+}

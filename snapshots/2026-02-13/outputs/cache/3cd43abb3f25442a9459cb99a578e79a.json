@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0006\",\n  \"summary\": \"A male patient aged 75-84 with comorbid cellulitis and obesity is being treated with amoxicillin 500mg TID and omeprazole 20mg daily. Vital signs show a temperature of 38.2\u00b0C and heart rate of 88 bpm. Laboratory results reveal elevated white blood cells at 12.5 x10^9/L, normal creatinine at 1.0 mg/dL, and eGFR of 90 mL/min/1.73m2, indicating preserved renal function. The elevated temperature and leukocytosis are consistent with an infectious process requiring antibiotic therapy. Amoxicillin is an appropriate choice for cellulitis management in this clinical context. No allergies reported. Clinical status is stable; monitor for response to antibiotics and any adverse effects.\",\n  \"recommendations\": [\n    \"Continue current antibiotic therapy with amoxicillin 500mg TID for cellulitis.\",\n    \"Monitor temperature and WBC count to assess response to therapy.\",\n    \"Observe for any signs of antibiotic intolerance or adverse effects.\",\n    \"Maintain hydration and address obesity-related factors as part of overall care.\"\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 349,
+"completion_tokens": 253,
+"latency_seconds": 4.276587600004859
+}

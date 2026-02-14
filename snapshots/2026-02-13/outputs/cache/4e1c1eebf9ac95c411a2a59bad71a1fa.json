@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pain_opioids_0247_renal_impairment_0\",\n  \"base_id\": \"base_pain_opioids_0247\",\n  \"evaluation\": {\n    \"medication_changes\": [\"adjust_oxycodone_for_renal\"],\n    \"risk_flags_expected\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\"increase_nephrotoxic_dose\"]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 254,
+"completion_tokens": 112,
+"latency_seconds": 2.102374400012195
+}

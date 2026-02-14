@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_ckd_dosing_0194_renal_impairment_0\",\n  \"base_id\": \"base_ckd_dosing_0194\",\n  \"evaluation\": {\n    \"expected_changes_matched\": true,\n    \"details\": {\n      \"medication_changes\": {\n        \"expected\": [\"adjust_gabapentin_for_renal\"],\n        \"found\": [\"adjust_gabapentin_for_renal\"],\n        \"match\": true\n      },\n      \"risk_flags_expected\": {\n        \"expected\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n        \"found\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n        \"match\": true\n      },\n      \"contraindications_expected\": {\n        \"expected\": [],\n        \"found\": [],\n        \"match\": true\n      },\n      \"forbidden_changes\": {\n        \"expected\": [\"increase_nephrotoxic_dose\"],\n        \"found\": [],\n        \"match\": true\n      }\n    }\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 249,
+"completion_tokens": 218,
+"latency_seconds": 2.9955228000180796
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"assessment\": {\n    \"thyroid_status\": \"subclinical hypothyroidism\",\n    \"rationale\": \"TSH is mildly elevated at 5.2 mIU/L with normal free T4 at 0.9 ng/dL in a patient on levothyroxine therapy. This may reflect underreplacement or age-related TSH reference changes.\",\n    \"recommendations\": [\n      \"Evaluate levothyroxine dose and adherence.\",\n      \"Consider monitoring TSH and free T4 in 6-8 weeks.\",\n      \"Assess for symptoms of hypothyroidism or overtreatment.\",\n      \"Avoid overtreatment in elderly to reduce risk of atrial fibrillation and osteoporosis.\"\n    ]\n  },\n  \"plan\": {\n    \"continue_levothyroxine\": true,\n    \"dose_adjustment\": \"consider small increase if clinically indicated\",\n    \"follow_up\": \"repeat thyroid function tests in 6-8 weeks\",\n    \"monitoring\": [\n      \"clinical symptoms\",\n      \"cardiac status\"\n    ]\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 309,
+"completion_tokens": 230,
+"latency_seconds": 3.3680382999882568
+}

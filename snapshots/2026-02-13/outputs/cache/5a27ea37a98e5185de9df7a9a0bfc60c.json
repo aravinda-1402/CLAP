@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_diabetes_0161_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": [\"substitute_for_metformin\"],\n    \"risk_flags_detected\": [\"allergy_flagged\"],\n    \"contraindications_detected\": [\"avoid_metformin_allergy\"],\n    \"forbidden_changes_detected\": []\n  },\n  \"conclusion\": \"The plan correctly addresses the allergy to metformin by substituting the medication, flags the allergy risk appropriately, includes the contraindication to avoid metformin, and has not prescribed metformin. The case meets the expected criteria.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 228,
+"completion_tokens": 132,
+"latency_seconds": 2.234013800014509
+}

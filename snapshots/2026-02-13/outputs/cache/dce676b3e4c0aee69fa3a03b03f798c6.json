@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pain_opioids_0227_interaction_introduced_3\",\n  \"medication_changes\": [],\n  \"risk_flags\": [\n    \"drug_interaction\"\n  ],\n  \"contraindications\": [\n    \"interaction_requires_monitoring_or_change\"\n  ],\n  \"forbidden_changes\": [\n    \"ignore_interaction\"\n  ]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 221,
+"completion_tokens": 83,
+"latency_seconds": 1.488200899999356
+}

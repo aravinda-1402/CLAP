@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_htn_0242\",\n  \"domain\": \"htn\",\n  \"demographics\": {\n    \"age_group\": \"25-34\",\n    \"sex\": \"F\"\n  },\n  \"comorbidities\": [\n    \"hypertension\",\n    \"hyperlipidemia\"\n  ],\n  \"current_medications\": [\n    {\n      \"name\": \"lisinopril\",\n      \"dose\": \"10mg\",\n      \"frequency\": \"daily\"\n    },\n    {\n      \"name\": \"amlodipine\",\n      \"dose\": \"5mg\",\n      \"frequency\": \"daily\"\n    }\n  ],\n  \"vital_signs\": {\n    \"blood_pressure_systolic\": 145,\n    \"blood_pressure_diastolic\": 92,\n    \"heart_rate\": 76\n  },\n  \"laboratory_results\": {\n    \"potassium\": 4.2,\n    \"creatinine\": 1.1,\n    \"estimated_GFR\": 82\n  },\n  \"allergies\": [],\n  \"pregnancy_status\": false,\n  \"clinical_notes\": \"Synthetic case 243. Domain: htn. Age group 25-34, sex F. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 262,
+"latency_seconds": 5.336560299998382
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_ckd_dosing_0134_interaction_introduced_3\",\n  \"medication_changes\": [],\n  \"risk_flags\": [\n    \"drug_interaction\"\n  ],\n  \"contraindications\": [\n    \"interaction_requires_monitoring_or_change\"\n  ],\n  \"forbidden_changes\": [\n    \"ignore_interaction\"\n  ]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 218,
+"completion_tokens": 82,
+"latency_seconds": 1.6923548999766354
+}

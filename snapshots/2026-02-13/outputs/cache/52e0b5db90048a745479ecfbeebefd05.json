@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_htn_0142\",\n  \"assessment\": \"The patient is a male aged 45-54 with a history of hypertension, hyperlipidemia, and GERD, currently on lisinopril 10mg daily and amlodipine 5mg daily. His blood pressure remains elevated at 145/92 mmHg despite dual antihypertensive therapy, indicating suboptimal blood pressure control. Heart rate, renal function (eGFR 82), and potassium levels are within normal limits.\",\n  \"plan\": [\n    \"Consider optimizing antihypertensive regimen to achieve target blood pressure <130/80 mmHg as per guidelines.\",\n    \"Assess adherence to current medications and lifestyle modifications including dietary sodium restriction and physical activity.\",\n    \"Monitor blood pressure regularly and reassess in 2-4 weeks after medication adjustment.\",\n    \"Evaluate lipid profile control and manage hyperlipidemia as per current guidelines.\",\n    \"Address GERD management and review possible medication interactions.\",\n    \"Continue monitoring renal function and electrolytes periodically.\"\n  ],\n  \"next_steps\": [\n    \"Schedule follow-up appointment for blood pressure reassessment.\",\n    \"Consider addition of a third antihypertensive agent if target not achieved, e.g., thiazide diuretic or beta-blocker based on patient profile.\",\n    \"Lifestyle counseling for hypertension and hyperlipidemia.\"\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 359,
+"completion_tokens": 287,
+"latency_seconds": 7.722266099997796
+}

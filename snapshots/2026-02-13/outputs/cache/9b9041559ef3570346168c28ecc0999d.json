@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_chf_0248\",\n  \"assessment\": \"Patient is a 55-64 year old female with heart failure with reduced ejection fraction (HFrEF) and hypertension. Current medications include lisinopril 10mg daily, carvedilol 6.25mg twice daily, and furosemide 20mg daily. Vitals are stable with BP 115 mmHg systolic and HR 68 bpm. Laboratory values show BNP at 450 pg/mL indicating ongoing heart failure activity, creatinine 1.2 mg/dL with eGFR 65 mL/min suggesting adequate renal function, and potassium at 4.0 mmol/L within normal limits. No allergies or pregnancy concerns noted. Overall clinical picture consistent with stable HFrEF management. Continued monitoring and adherence to current therapy recommended.\",\n  \"recommendations\": [\n    \"Continue current heart failure and hypertension regimen including lisinopril, carvedilol, and furosemide.\",\n    \"Regular monitoring of renal function and electrolytes due to diuretic and ACE inhibitor use.\",\n    \"Assess volume status and symptoms of heart failure at follow-up visits.\",\n    \"Consider echocardiogram to monitor left ventricular function if not recently done.\",\n    \"Encourage lifestyle modifications including sodium restriction, fluid management, and physical activity as tolerated.\"\n  ]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 284,
+"latency_seconds": 3.8255435000173748
+}

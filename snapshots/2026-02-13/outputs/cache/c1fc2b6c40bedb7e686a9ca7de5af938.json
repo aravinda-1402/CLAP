@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_asthma_copd_0093_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_detected\": [\"allergy_flagged\"],\n    \"contraindications_detected\": [\"avoid_budesonide_formoterol_allergy\"],\n    \"forbidden_changes_not_violated\": true,\n    \"comments\": \"All expected medication changes, risk flags, and contraindications are correctly identified. Prescription of budesonide_formoterol is correctly avoided.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 270,
+"completion_tokens": 122,
+"latency_seconds": 2.0500842000183184
+}

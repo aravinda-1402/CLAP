@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pregnancy_meds_0215_interaction_introduced_3\",\n  \"medication_changes\": [],\n  \"risk_flags\": [\"drug_interaction\"],\n  \"contraindications\": [\"interaction_requires_monitoring_or_change\"],\n  \"forbidden_changes_performed\": false\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 221,
+"completion_tokens": 70,
+"latency_seconds": 1.054848800005857
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"assessment\": \"The patient is a 25-34 year old female with chronic low back pain currently managed with oxycodone 5mg every 6 hours as needed and acetaminophen 650mg every 6 hours as needed. Vital signs and laboratory values are within normal limits, including blood pressure, respiratory rate, creatinine, and eGFR, indicating stable renal function. There are no allergies or pregnancy concerns reported.\",\n  \"recommendations\": [\n    \"Continue current medication regimen with close monitoring of pain levels and side effects.\",\n    \"Regularly assess for signs of opioid use disorder given ongoing oxycodone use.\",\n    \"Consider non-pharmacologic pain management strategies to supplement current treatment.\",\n    \"Ensure acetaminophen dose does not exceed recommended maximum daily limits to avoid hepatotoxicity.\",\n    \"Schedule routine follow-up to evaluate efficacy and potential need for therapy adjustment.\"\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 184,
+"latency_seconds": 4.231052099989029
+}

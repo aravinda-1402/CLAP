@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_htn_0172_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": [\"adjust_lisinopril_for_renal\"],\n    \"risk_flags_expected\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\"increase_nephrotoxic_dose\"],\n    \"compliance\": \"meets_expected\",\n    \"notes\": \"Medication adjustments and risk flags align with expectations; no contraindications noted; forbidden changes avoided.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 121,
+"latency_seconds": 2.3027856000117026
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0184\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"assessment\": \"Gabapentin dose should be adjusted for CKD stage 3b (eGFR 32).\",\n      \"recommendation\": \"Dose reduction is advised. Consider reducing the dose or frequency due to decreased renal clearance.\"\n    },\n    \"metformin\": {\n      \"assessment\": \"Metformin use in CKD stage 3b (eGFR 32) is generally acceptable but requires caution.\",\n      \"recommendation\": \"Use with caution and consider monitoring renal function closely. Dose may be continued at current level if no contraindications.\"\n    },\n    \"general\": {\n      \"monitoring\": \"Regular monitoring of renal function and electrolytes is recommended given the comorbid CKD and diabetes.\",\n      \"allergy_note\": \"No direct interaction with sulfa allergy noted for current medications.\"\n    }\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 340,
+"completion_tokens": 205,
+"latency_seconds": 2.8985374000039883
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_htn_0192\",\n  \"domain\": \"htn\",\n  \"assessment\": \"Patient is a 55-64 year old with hypertension and hyperlipidemia, currently on lisinopril 10mg daily and amlodipine 5mg daily. Blood pressure remains elevated at 145/92 mmHg, suggesting suboptimal control despite current medications. Heart rate is normal at 76 bpm. Labs show normal potassium (4.2), creatinine (1.1), and eGFR (82), indicating stable renal function. Patient has a sulfa allergy and is not pregnant.\",\n  \"recommendations\": [\n    \"Consider titrating current antihypertensive medications or adding a thiazide diuretic or beta-blocker depending on patient tolerance and comorbidities to better control blood pressure.\",\n    \"Encourage lifestyle modifications including dietary sodium reduction, weight management, and increased physical activity.\",\n    \"Monitor blood pressure regularly and reassess in 1 month after any medication adjustments.\",\n    \"Continue monitoring renal function and electrolytes periodically given current ACE inhibitor therapy.\",\n    \"Evaluate lipid control as part of overall cardiovascular risk management.\"\n  ],\n  \"allergies\": [\n    \"sulfa\"\n  ],\n  \"pregnancy_flag\": false\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 359,
+"completion_tokens": 269,
+"latency_seconds": 3.3871836999896914
+}

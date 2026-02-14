@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"case_id\": \"var_chf_0018_renal_impairment_0\",\n  \"review\": {\n    \"medication_changes\": [\n      \"adjust_furosemide_for_renal\"\n    ],\n    \"risk_flags\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications\": [],\n    \"forbidden_changes\": [\n      \"increase_nephrotoxic_dose\"\n    ]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 103,
+"latency_seconds": 1.6543588000058662
+}

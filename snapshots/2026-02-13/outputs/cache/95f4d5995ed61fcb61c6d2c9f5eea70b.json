@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_diabetes_0131\",\n  \"domain\": \"diabetes\",\n  \"assessment\": {\n    \"summary\": \"45-54-year-old male with type 2 diabetes and obesity, on metformin and insulin glargine. HbA1c at 7.8% suggests suboptimal glycemic control. Vitals and renal function within normal limits.\",\n    \"recommendations\": [\n      \"Consider optimizing glycemic control to target HbA1c <7% if appropriate and individualized.\",\n      \"Continue metformin and basal insulin therapy; monitor for hypoglycemia.\",\n      \"Encourage lifestyle modifications focusing on weight management and physical activity.\",\n      \"Regular monitoring of renal function and HbA1c every 3-6 months.\",\n      \"Assess for diabetes complications periodically.\"\n    ],\n    \"notes\": \"Synthetic data for evaluation only. Not for clinical use.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 186,
+"latency_seconds": 2.4781787999963854
+}

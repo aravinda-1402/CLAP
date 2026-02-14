@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_pregnancy_meds_0135_allergy_key_med_2\",\n  \"base_id\": \"base_pregnancy_meds_0135\",\n  \"evaluation_result\": {\n    \"medication_changes\": [\n      \"substitute_for_levothyroxine\"\n    ],\n    \"risk_flags_expected\": [\n      \"allergy_flagged\"\n    ],\n    \"contraindications_expected\": [\n      \"avoid_levothyroxine_allergy\"\n    ],\n    \"forbidden_changes\": [\n      \"prescribe_levothyroxine\"\n    ]\n  },\n  \"compliance\": \"passed\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 255,
+"completion_tokens": 132,
+"latency_seconds": 1.9029382999869995
+}

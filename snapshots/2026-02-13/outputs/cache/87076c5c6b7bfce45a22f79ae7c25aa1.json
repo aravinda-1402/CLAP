@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_anticoagulation_0230\",\n  \"evaluation\": {\n    \"summary\": \"This is a synthetic anticoagulation case involving a patient aged 45-54 with atrial fibrillation and hypertension treated with warfarin and aspirin daily. The patient's INR of 2.2 is within the typical therapeutic range for atrial fibrillation anticoagulation. Blood pressure and heart rate are within normal limits, kidney function is preserved with Cr 1.0 and eGFR 85. No allergies or pregnancy concerns noted.\",\n    \"assessment\": {\n      \"INR_status\": \"therapeutic\",\n      \"risk_assessment\": \"Standard risk profile considering age and comorbidities; no signs of bleeding or thrombosis.\",\n      \"medication_review\": \"Warfarin dose of 5mg daily with aspirin 81mg daily is consistent with dual therapy but warrants caution due to bleeding risk; monitoring advised.\",\n      \"vitals_and_labs\": \"Vitals stable; renal function adequate; no adjustments necessary at this time.\"\n    },\n    \"recommendations\": {\n      \"monitoring\": [\n        \"Regular INR monitoring to maintain therapeutic range between 2.0-3.0.\",\n        \"Blood pressure monitoring to keep within target range for hypertension.\",\n        \"Watch for signs of bleeding due to combination of warfarin and aspirin.\"\n      ],\n      \"medication_considerations\": [\n        \"Evaluate ongoing need for aspirin in addition to warfarin to balance stroke prevention versus bleeding risk.\"\n      ]\n    },\n    \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 344,
+"completion_tokens": 342,
+"latency_seconds": 5.456961999996565
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_anticoagulation_0200_pregnancy_toggle_1\",\n  \"base_id\": \"base_anticoagulation_0200\",\n  \"evaluation_result\": {\n    \"medication_changes\": [],\n    \"risk_flags_expected\": [],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\n      \"recommend_contraindicated_in_pregnancy\"\n    ],\n    \"conclusion\": \"Evaluation matches expected outcomes with no medication changes, no new risk flags or contraindications, and no recommendation of contraindicated medications during pregnancy.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 197,
+"completion_tokens": 126,
+"latency_seconds": 1.9764657999912743
+}

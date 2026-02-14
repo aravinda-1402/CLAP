@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"medication_changes\": [],\n  \"risk_flags_expected\": [],\n  \"contraindications_expected\": [],\n  \"forbidden_changes\": [\n    \"recommend_contraindicated_in_pregnancy\"\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 197,
+"completion_tokens": 45,
+"latency_seconds": 1.0274349999963306
+}

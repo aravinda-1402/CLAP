@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_anticoagulation_0000\",\n  \"evaluation\": {\n    \"indication\": \"Atrial fibrillation with thromboprophylaxis indicated.\",\n    \"medication_review\": {\n      \"warfarin\": {\n        \"dose_appropriate\": true,\n        \"monitoring\": \"INR is within therapeutic range (2.0-3.0), appropriate warfarin anticoagulation.\",\n        \"comments\": \"Maintain current dose; continue regular INR monitoring.\"\n      },\n      \"aspirin\": {\n        \"indication_appropriate\": false,\n        \"comments\": \"Concurrent use of warfarin and aspirin increases bleeding risk. Assess necessity of aspirin; commonly not recommended for stroke prevention in atrial fibrillation when on warfarin.\"\n      }\n    },\n    \"risk_assessment\": {\n      \"bleeding_risk\": \"Moderate due to combined antiplatelet and anticoagulant therapy.\",\n      \"stroke_risk\": \"High due to atrial fibrillation.\"\n    },\n    \"recommendations\": [\n      \"Evaluate need for aspirin in context of bleeding risk versus cardiovascular indications.\",\n      \"Continue warfarin with INR monitoring every 2-4 weeks.\",\n      \"Manage hypertension and obesity to reduce cardiovascular risk.\",\n      \"Educate patient on bleeding signs and importance of adherence.\"\n    ],\n    \"allergy_considerations\": \"No interaction with current medications noted; penicillin allergy unrelated.\",\n    \"pregnancy_considerations\": \"Not applicable, pregnancy_flag false.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 358,
+"completion_tokens": 314,
+"latency_seconds": 5.810218400001759
+}

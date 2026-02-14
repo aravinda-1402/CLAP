@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_infection_antibiotics_0246\",\n  \"recommendations\": {\n    \"pregnancy_flag_consideration\": \"Although the patient is flagged as pregnant, amoxicillin is generally considered safe during pregnancy. Continue monitoring clinical response and labs.\",\n    \"infection_management\": {\n      \"current_antibiotic\": \"amoxicillin 500mg TID\",\n      \"suitability\": \"Appropriate for cellulitis with no signs of systemic compromise or resistance.\",\n      \"recommendation\": \"Continue current antibiotic therapy with close monitoring for improvement.\",\n      \"additional_labs\": \"Monitor white cell count and renal function due to antibiotic use.\",\n      \"temperature\": \"Mild febrile (38.2\u00b0C), monitor for fever resolution.\"\n    },\n    \"medication_review\": {\n      \"omeprazole\": \"Continue as prescribed; no contraindications identified with current antibiotics.\"\n    }\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 196,
+"latency_seconds": 3.40746560000116
+}

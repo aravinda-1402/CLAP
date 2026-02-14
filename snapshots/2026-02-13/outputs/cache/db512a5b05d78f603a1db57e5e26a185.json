@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pregnancy_meds_0185\",\n  \"evaluation\": {\n    \"age_pregnancy_consistency\": \"Pregnancy in the age group 55-64 is highly uncommon and likely inconsistent with typical childbearing ages.\",\n    \"medications_appropriateness\": {\n      \"levothyroxine\": \"Appropriate for hypothyroidism.\",\n      \"prenatal_vitamin\": \"Appropriate during pregnancy to provide necessary nutrients.\"\n    },\n    \"labs_vitals_assessment\": {\n      \"TSH\": \"Within normal range, appropriate for hypothyroid management.\",\n      \"Cr\": \"Within normal range, no renal impairment indicated.\",\n      \"BP_sys\": \"Within normal limits.\"\n    },\n    \"overall_assessment\": \"While medications and labs are appropriate for hypothyroidism and pregnancy, the patient age group 55-64 makes pregnancy highly improbable, suggesting this is a synthetic or hypothetical case.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 196,
+"latency_seconds": 4.387902000016766
+}

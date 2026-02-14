@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_htn_0202_renal_impairment_0\",\n  \"validation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true\n  },\n  \"comments\": \"All expected medication changes, risk flags, contraindications, and forbidden changes match the specification for renal impairment variant of base_htn_0202.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 102,
+"latency_seconds": 1.7112806999939494
+}

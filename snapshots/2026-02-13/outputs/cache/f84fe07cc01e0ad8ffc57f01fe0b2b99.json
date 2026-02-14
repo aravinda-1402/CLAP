@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0217\",\n  \"evaluation\": {\n    \"pregnancy_considerations\": {\n      \"oxyocodone\": {\n        \"risk\": \"Moderate risk - crosses placenta, potential neonatal withdrawal syndrome\",\n        \"recommendation\": \"Use lowest effective dose, monitor fetal development and neonatal withdrawal\"\n      },\n      \"acetaminophen\": {\n        \"risk\": \"Generally considered safe in pregnancy at recommended doses\",\n        \"recommendation\": \"Continue use as needed but avoid overdose\"\n      }\n    },\n    \"clinical_notes\": \"Patient is pregnant and taking oxycodone and acetaminophen for chronic low back pain. Oxycodone can cause neonatal withdrawal; monitor both mother and fetus closely. Labs and vitals are stable. Pain management should balance maternal benefit with fetal risk. Non-opioid therapies should be considered where possible.\",\n    \"action_plan\": [\n      \"Confirm necessity of opioid therapy during pregnancy and minimize dose/frequency.\",\n      \"Counsel patient on risks and signs of neonatal opioid withdrawal syndrome.\",\n      \"Consider non-pharmacologic pain management strategies and consult pain specialist if needed.\",\n      \"Monitor renal function and adjust acetaminophen dose if needed; current Cr and eGFR are normal.\",\n      \"Regular prenatal follow-up to monitor fetal well-being.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 276,
+"latency_seconds": 3.7882638999726623
+}

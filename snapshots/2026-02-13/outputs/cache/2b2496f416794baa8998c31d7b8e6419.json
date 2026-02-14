@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0169\",\n  \"assessment\": \"The patient is a 25-34 year old male with hypothyroidism on levothyroxine therapy. Current labs show mildly elevated TSH (5.2 mIU/L) and low-normal free T4 (0.9 ng/dL), suggesting possible under-replacement of thyroid hormone. Vital signs are within normal limits.\",\n  \"recommendation\": \"Consider evaluating levothyroxine dose adjustment to achieve TSH in the target range (typically 0.5-4.5 mIU/L). Clinical correlation with symptoms is advised. Repeat thyroid function tests in 6-8 weeks after any dose changes. Monitor renal function as per routine. Not for clinical use\u2014synthetic case.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 166,
+"latency_seconds": 3.674141600000439
+}

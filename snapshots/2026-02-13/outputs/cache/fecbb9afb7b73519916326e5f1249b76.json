@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_diabetes_0021_allergy_key_med_2\",\n  \"compliance\": {\n    \"medication_changes\": {\n      \"result\": \"correct\",\n      \"details\": \"Metformin has been substituted appropriately.\"\n    },\n    \"risk_flags\": {\n      \"result\": \"correct\",\n      \"details\": \"Allergy to metformin has been flagged.\"\n    },\n    \"contraindications\": {\n      \"result\": \"correct\",\n      \"details\": \"Avoid metformin allergy contraindication is implemented.\"\n    },\n    \"forbidden_changes\": {\n      \"result\": \"correct\",\n      \"details\": \"No prescriptions of metformin have been made.\"\n    }\n  },\n  \"overall_assessment\": \"The variant management correctly applies all expected medication changes, risk flags, contraindications, and avoids forbidden changes.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 228,
+"completion_tokens": 178,
+"latency_seconds": 4.051327199995285
+}

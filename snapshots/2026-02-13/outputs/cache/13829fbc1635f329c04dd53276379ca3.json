@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_diabetes_0051_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true,\n    \"comments\": \"All expected medication changes, risk flags, and forbidden changes are correctly identified. No contraindications expected or observed.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 239,
+"completion_tokens": 91,
+"latency_seconds": 1.575779800012242
+}

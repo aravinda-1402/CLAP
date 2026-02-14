@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_anticoagulation_0030\",\n  \"domain\": \"anticoagulation\",\n  \"demographics\": {\n    \"age_group\": \"65-74\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"atrial_fibrillation\",\n    \"hypertension\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"warfarin\",\n      \"dose\": \"5mg\",\n      \"freq\": \"daily\"\n    },\n    {\n      \"name\": \"aspirin\",\n      \"dose\": \"81mg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"INR\": 2.2,\n    \"Cr\": 1.0,\n    \"eGFR\": 85\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 31. Domain: anticoagulation. Age group 65-74, sex M. No real patient data.\",\n  \"evaluation\": {\n    \"warfarin_therapy\": {\n      \"INR\": 2.2,\n      \"therapeutic_range\": \"2.0-3.0\",\n      \"status\": \"therapeutic\"\n    },\n    \"aspirin_use\": {\n      \"indication\": \"secondary prevention for cardiovascular disease\",\n      \"consideration\": \"In patients with atrial fibrillation, combined use of aspirin and warfarin increases bleeding risk; assess necessity.\"\n    },\n    \"recommendations\": [\n      \"Monitor INR regularly to maintain between 2.0 and 3.0.\",\n      \"Evaluate the continued need for aspirin given increased bleeding risk with dual therapy.\",\n      \"Ensure BP and renal function remain stable.\",\n      \"Patient education regarding bleeding signs and medication adherence.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 344,
+"completion_tokens": 408,
+"latency_seconds": 5.148717099975329
+}

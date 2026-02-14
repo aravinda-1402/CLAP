@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0034\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"evaluation\": \"Gabapentin dose adjustment may be needed due to CKD stage 3b (eGFR 32). For eGFR 30-59 ml/min/1.73 m2, dose frequency or amount should be reduced to avoid accumulation and toxicity.\",\n      \"suggested_dose\": \"Consider reducing dose or extending dosing interval based on clinical response and tolerability; for example, 300 mg once or twice daily instead of TID.\",\n      \"monitoring\": \"Monitor for increased sedation, dizziness, or signs of toxicity.\"\n    },\n    \"metformin\": {\n      \"evaluation\": \"Metformin use is generally contraindicated or requires caution in patients with eGFR below 45 ml/min/1.73 m2 due to increased risk of lactic acidosis.\",\n      \"suggested_dose\": \"Consider dose reduction or discontinuation. Some guidelines allow cautious use at lower doses if eGFR is 30\u201345 ml/min/1.73 m2 with close monitoring.\",\n      \"monitoring\": \"Monitor renal function frequently and watch for symptoms of lactic acidosis.\"\n    },\n    \"general\": {\n      \"BP_management\": \"Current systolic BP of 138 mmHg is slightly above target for CKD patients; consider optimizing antihypertensive therapy as appropriate.\",\n      \"diabetes_management\": \"Maintain glycemic control with appropriate adjustments considering renal function.\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 321,
+"latency_seconds": 4.38591159999487
+}

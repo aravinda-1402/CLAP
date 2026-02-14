@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_asthma_copd_0193_renal_impairment_0\",\n  \"medication_changes\": [\n    \"adjust_budesonide_formoterol_for_renal\"\n  ],\n  \"risk_flags\": [\n    \"renal_dose_adjustment\",\n    \"eGFR_low\"\n  ],\n  \"contraindications\": [],\n  \"forbidden_changes\": [\n    \"increase_nephrotoxic_dose\"\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 261,
+"completion_tokens": 99,
+"latency_seconds": 1.4663041000021622
+}

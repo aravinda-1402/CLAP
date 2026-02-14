@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0204\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Consider dose reduction due to CKD stage 3b (eGFR 32 mL/min/1.73m2).\",\n      \"suggested_dose\": \"Initial dose 100-300mg once daily; titrate slowly not to exceed 300mg TID with caution.\",\n      \"monitoring\": \"Monitor for increased side effects such as dizziness or somnolence.\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Use with caution. eGFR is 32 mL/min/1.73m2; metformin can be continued at reduced dose with monitoring.\",\n      \"suggested_dose\": \"Continue 500mg BID with close monitoring of renal function; avoid dose increase.\",\n      \"monitoring\": \"Monitor eGFR regularly; discontinue if eGFR falls below 30.\"\n    }\n  },\n  \"additional_recommendations\": {\n    \"general\": \"Monitor renal function and blood glucose closely. Adjust medications as eGFR changes.\",\n    \"BP_management\": \"Blood pressure 138 systolic is elevated; manage according to CKD guidelines.\"\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 332,
+"completion_tokens": 287,
+"latency_seconds": 4.667295000021113
+}

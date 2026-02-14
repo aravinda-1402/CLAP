@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0126\",\n  \"domain\": \"infection_antibiotics\",\n  \"demographics\": {\n    \"age_group\": \"45-54\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"cellulitis\",\n    \"anxiety\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"amoxicillin\",\n      \"dose\": \"500mg\",\n      \"freq\": \"TID\"\n    },\n    {\n      \"name\": \"omeprazole\",\n      \"dose\": \"20mg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"temp\": 38.2,\n    \"HR\": 88\n  },\n  \"labs\": {\n    \"WBC\": 12.5,\n    \"Cr\": 1.0,\n    \"eGFR\": 90\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 127. Domain: infection_antibiotics. Age group 45-54, sex M. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 349,
+"completion_tokens": 246,
+"latency_seconds": 4.566561799991177
+}

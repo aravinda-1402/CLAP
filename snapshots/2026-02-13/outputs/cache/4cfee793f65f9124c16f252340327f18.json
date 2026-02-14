@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_diabetes_0111_renal_impairment_0\",\n  \"medication_changes\": [\"adjust_metformin_for_renal\"],\n  \"risk_flags_identified\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n  \"contraindications_identified\": [],\n  \"forbidden_changes_detected\": []\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 239,
+"completion_tokens": 74,
+"latency_seconds": 1.2296427999972366
+}

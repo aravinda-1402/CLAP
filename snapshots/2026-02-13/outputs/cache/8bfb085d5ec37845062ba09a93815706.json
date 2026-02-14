@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0145\",\n  \"evaluation\": {\n    \"summary\": \"Patient is a 45-54 year old female with hypothyroidism, currently on levothyroxine 75mcg daily and prenatal vitamin daily. Labs and vitals are within normal limits. Pregnancy flag is positive.\",\n    \"assessment\": {\n      \"thyroid_management\": \"Levothyroxine dose appears appropriate given TSH within normal range (2.1 mIU/L). Continue current dosing with ongoing monitoring of thyroid function during pregnancy.\",\n      \"prenatal_care\": \"Prenatal vitamin use is appropriate for pregnancy. No contraindications noted.\",\n      \"comorbidities\": \"Hypothyroidism is well controlled.\",\n      \"vitals_and_labs\": \"BP systolic 118 mmHg is normal. Creatinine at 0.9 mg/dL is within normal limits indicating normal renal function.\",\n      \"medication_review\": \"No drug interactions or contraindications identified with current medications.\",\n      \"recommendations\": \"Continue current medication regimen and routine prenatal care. Monitor thyroid function periodically as pregnancy progresses.\"\n    },\n    \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 260,
+"latency_seconds": 4.253284400008852
+}

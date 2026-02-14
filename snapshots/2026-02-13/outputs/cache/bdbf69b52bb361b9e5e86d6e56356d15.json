@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_anticoagulation_0110\",\n  \"evaluation\": {\n    \"appropriateness_of_anticoagulation\": \"Appropriate\",\n    \"comments\": \"The patient has atrial fibrillation which warrants anticoagulation to reduce stroke risk. Warfarin is a suitable choice given the patient's profile. The INR is within therapeutic range (2.0-3.0), indicating effective anticoagulation.\",\n    \"drug_interactions_or_concerns\": [\n      {\n        \"interaction\": \"Warfarin and aspirin\",\n        \"risk\": \"Increased bleeding risk\",\n        \"recommendation\": \"Assess bleeding risk carefully; concomitant use of aspirin and warfarin increases bleeding risk. Use aspirin only if there is a clear indication such as recent coronary artery disease or stenting.\"\n      }\n    ],\n    \"monitoring_recommendations\": [\n      \"Regular INR monitoring to maintain therapeutic range (2.0-3.0).\",\n      \"Monitor blood pressure and renal function periodically.\",\n      \"Evaluate for any signs of bleeding given dual antithrombotic therapy.\"\n    ],\n    \"potential_optimization\": \"Consider reassessing the indication for aspirin to minimize bleeding risk if no clear vascular indication exists. Otherwise, continue current therapy with close monitoring.\",\n    \"summary\": \"Current anticoagulation therapy with warfarin is appropriate for atrial fibrillation and INR is within therapeutic range. Concomitant aspirin use should be reviewed for indication due to bleeding risk.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 352,
+"completion_tokens": 313,
+"latency_seconds": 5.336231900000712
+}

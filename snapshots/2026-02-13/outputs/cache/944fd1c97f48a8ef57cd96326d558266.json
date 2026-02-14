@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0177\",\n  \"assessment\": \"The patient is a female aged 55-64 with chronic low back pain, currently treated with oxycodone 5mg and acetaminophen 650mg, both taken as needed every 6 hours. Vitals and labs are within normal limits, with blood pressure 122 systolic and respiratory rate 14. Renal function is normal with creatinine 1.0 mg/dL and eGFR 85 mL/min/1.73m2. The patient has a latex allergy and is noted to have a pregnancy flag.\",\n  \"recommendations\": [\n    \"Given the patient's age and pregnancy flag, reassessment of medication safety during pregnancy is recommended, especially opioids like oxycodone which may pose risks.\",\n    \"Continue monitoring renal function to guide dosing of acetaminophen and oxycodone.\",\n    \"Consider non-pharmacologic pain management strategies to minimize opioid exposure.\",\n    \"Evaluate for possible alternative analgesics safer in pregnancy if pregnancy is confirmed, in consultation with obstetrics.\",\n    \"Ensure counseling on risks, proper dosing, and reporting of any side effects or changes in pain status.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 349,
+"completion_tokens": 268,
+"latency_seconds": 6.885507700004382
+}

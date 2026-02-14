@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_asthma_copd_0163\",\n  \"domain\": \"asthma_copd\",\n  \"demographics\": {\n    \"age_group\": \"25-34\",\n    \"sex\": \"O\"\n  },\n  \"comorbidities\": [\n    \"COPD\",\n    \"asthma\",\n    \"obesity\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"albuterol_inhaler\",\n      \"dose\": \"2 puffs\",\n      \"freq\": \"Q4H PRN\"\n    },\n    {\n      \"name\": \"budesonide_formoterol\",\n      \"dose\": \"160/4.5 mcg\",\n      \"freq\": \"BID\"\n    }\n  ],\n  \"vitals\": {\n    \"O2_sat\": 96,\n    \"RR\": 16\n  },\n  \"labs\": {\n    \"WBC\": 8.2\n  },\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 164. Domain: asthma_copd. Age group 25-34, sex O. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 366,
+"completion_tokens": 258,
+"latency_seconds": 4.9025823999836575
+}

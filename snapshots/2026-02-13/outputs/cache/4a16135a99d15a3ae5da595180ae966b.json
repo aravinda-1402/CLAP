@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0226\",\n  \"assessment\": \"The patient presents with cellulitis and is currently treated with amoxicillin 500mg TID and omeprazole 20mg daily. Vitals show a mild fever (38.2\u00b0C) and heart rate within normal limits (88 bpm). Lab values reveal mild leukocytosis (WBC 12.5), consistent with infection. Renal function is normal (Cr 1.0, eGFR 90). Given current stable vitals and appropriate antibiotic therapy, continue current treatment and monitor clinical response.\",\n  \"recommendations\": [\n    \"Continue amoxicillin 500mg three times daily\",\n    \"Monitor temperature and heart rate regularly\",\n    \"Observe for signs of clinical improvement or worsening\",\n    \"Avoid unnecessary antibiotic changes unless clinical deterioration occurs\",\n    \"Ensure hydration and pain control as needed\"\n  ],\n  \"warnings\": \"Monitor for potential allergic reactions despite no reported allergies. Monitor renal function during antibiotic therapy.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 213,
+"latency_seconds": 3.1030824999907054
+}

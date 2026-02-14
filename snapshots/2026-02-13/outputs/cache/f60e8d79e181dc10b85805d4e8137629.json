@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_asthma_copd_0143\",\n  \"assessment\": {\n    \"summary\": \"65-74 year old patient with comorbid COPD and asthma, currently managed with albuterol inhaler (2 puffs every 4 hours as needed) and budesonide-formoterol (160/4.5 mcg twice daily). Vitals and lab values are within normal ranges, indicating stable respiratory status.\",\n    \"clinical_impression\": \"Chronic airway obstruction due to combined COPD and asthma, currently well controlled on prescribed inhalers.\",\n    \"recommendations\": [\n      \"Continue current inhaler regimen with albuterol PRN for symptomatic relief.\",\n      \"Monitor respiratory symptoms and perform regular spirometry to assess lung function.\",\n      \"Ensure adherence to inhaled corticosteroid and long-acting beta-agonist therapy.\",\n      \"Encourage smoking cessation if applicable and avoid respiratory irritants.\",\n      \"Schedule follow-up visits to reassess control and adjust therapy if needed.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 352,
+"completion_tokens": 210,
+"latency_seconds": 2.8355379000131506
+}

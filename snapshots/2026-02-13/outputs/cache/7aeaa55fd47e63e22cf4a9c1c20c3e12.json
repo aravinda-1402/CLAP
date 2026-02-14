@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_chf_0158\",\n  \"assessment\": \"This is a synthetic case of a male patient aged 45-54 with heart failure with reduced ejection fraction (HFrEF) and hypertension. Current medications include lisinopril, carvedilol, and furosemide. Vital signs and labs are within acceptable ranges for outpatient management, though BNP is elevated at 450, consistent with chronic heart failure status.\",\n  \"recommendations\": [\n    {\n      \"item\": \"Continue current heart failure regimen (ACE inhibitor, beta blocker, and diuretic) with routine monitoring.\"\n    },\n    {\n      \"item\": \"Monitor renal function and electrolytes regularly due to ACE inhibitor and diuretic use.\"\n    },\n    {\n      \"item\": \"Reassess volume status and symptoms at follow-up visits.\"\n    },\n    {\n      \"item\": \"Consider uptitration of medications if clinically indicated based on symptoms and tolerance.\"\n    },\n    {\n      \"item\": \"Lifestyle modifications including low sodium diet and fluid restriction as appropriate.\"\n    }\n  ],\n  \"disclaimer\": \"For evaluation purposes only - not for clinical use.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 245,
+"latency_seconds": 3.8357475999800954
+}

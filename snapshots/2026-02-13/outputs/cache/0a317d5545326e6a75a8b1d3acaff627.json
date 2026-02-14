@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_anticoagulation_0140_pregnancy_toggle_1\",\n  \"base_id\": \"base_anticoagulation_0140\",\n  \"changes_made\": {\n    \"medication_changes\": [],\n    \"risk_flags\": [],\n    \"contraindications\": [],\n    \"forbidden_changes_applied\": []\n  },\n  \"compliance_check\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_not_applied\": true\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 197,
+"completion_tokens": 122,
+"latency_seconds": 1.5869936999806669
+}

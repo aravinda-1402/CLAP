@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0009\",\n  \"clinical_assessment\": {\n    \"interpretation\": \"The patient is a 65-74-year-old male with hypothyroidism on levothyroxine 100 mcg daily. Lab results show a TSH of 5.2 mIU/L, which is slightly elevated above the typical upper reference range (commonly around 4.0-4.5), with a low normal free T4 of 0.9 ng/dL, suggesting suboptimal thyroid hormone replacement or mild undertreatment.\",\n    \"recommendations\": [\n      \"Consider evaluating adherence to levothyroxine therapy and timing of dose administration relative to food or other medications.\",\n      \"Repeat thyroid function tests in 6-8 weeks after any dose adjustment.\",\n      \"Evaluate for symptoms of hypothyroidism or hyperthyroidism as clinical correlation is important.\",\n      \"If clinically appropriate, a slight increase in levothyroxine dose may be considered to achieve TSH within target range (typically 0.5-4.0 mIU/L), especially given age and presence of hypothyroid symptoms.\",\n      \"Monitor renal function (Cr is currently normal at 1.0 mg/dL).\"\n    ],\n    \"summary\": \"The current lab values suggest mildly elevated TSH with low-normal free T4 indicating possible insufficient levothyroxine dosing. Clinical correlation and possible dose adjustment are appropriate.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 301,
+"latency_seconds": 4.175077799998689
+}

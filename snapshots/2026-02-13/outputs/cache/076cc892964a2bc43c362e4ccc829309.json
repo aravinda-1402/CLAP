@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"case_id\": \"base_diabetes_0211\",\n  \"summary\": \"Patient is a 65-74 year old individual with comorbid type 2 diabetes and obesity. Current medications include metformin 1000mg twice daily and insulin glargine 20 units at bedtime. Vital signs are within normal ranges with a systolic BP of 132 mmHg and heart rate of 78 bpm. Laboratory results show HbA1c of 7.8%, creatinine of 1.0 mg/dL, and eGFR of 88 mL/min/1.73m2, indicating reasonable glycemic control and preserved renal function. No allergies or pregnancy. This synthetic case is for evaluation purposes only.\",\n  \"recommendations\": {\n    \"glycemic_control\": \"HbA1c of 7.8% suggests acceptable but improvable glycemic control. Consider lifestyle optimization and possible medication adjustment if clinically indicated.\",\n    \"renal_function\": \"Normal renal function. Continue metformin as kidney function is adequate.\",\n    \"cardiovascular_risk\": \"Monitor blood pressure regularly to maintain <140/90 mmHg. Current BP is borderline elevated.\",\n    \"follow_up\": \"Regular follow-up with HbA1c and renal labs every 3-6 months recommended.\"\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 343,
+"completion_tokens": 287,
+"latency_seconds": 4.706773899990367
+}

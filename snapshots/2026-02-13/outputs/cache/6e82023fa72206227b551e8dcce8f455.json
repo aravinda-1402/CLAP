@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pregnancy_meds_0055_renal_impairment_0\",\n  \"base_id\": \"base_pregnancy_meds_0055\",\n  \"assessment\": {\n    \"medication_changes_valid\": true,\n    \"risk_flags_valid\": true,\n    \"contraindications_valid\": true,\n    \"forbidden_changes_valid\": true,\n    \"comments\": \"All expected medication changes, risk flags, contraindications, and forbidden changes align accurately with the synthetic variant involving renal impairment.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 254,
+"completion_tokens": 116,
+"latency_seconds": 1.9909394000133034
+}

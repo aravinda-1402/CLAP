@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_anticoagulation_0240_allergy_key_med_2\",\n  \"compliance\": {\n    \"medication_changes\": {\n      \"achieved\": true,\n      \"details\": \"Warfarin substituted with an alternative anticoagulant.\"\n    },\n    \"risk_flags\": {\n      \"allergy_flagged\": true,\n      \"details\": \"Allergy to warfarin was flagged in patient records.\"\n    },\n    \"contraindications\": {\n      \"avoid_warfarin_allergy\": true,\n      \"details\": \"Contraindication to warfarin due to allergy was recognized and adhered to.\"\n    },\n    \"forbidden_changes\": {\n      \"prescribe_warfarin\": false,\n      \"details\": \"Warfarin was not prescribed to this patient.\"\n    }\n  },\n  \"evaluation_summary\": \"All expected medication changes and safety flags for warfarin allergy were correctly implemented. No forbidden prescribing of warfarin occurred.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 246,
+"completion_tokens": 209,
+"latency_seconds": 2.645409100019606
+}

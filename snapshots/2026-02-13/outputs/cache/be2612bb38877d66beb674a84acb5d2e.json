@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"case_id\": \"base_diabetes_0071\",\n  \"domain\": \"diabetes\",\n  \"patient_demographics\": {\n    \"age_group\": \"25-34\",\n    \"sex\": \"O\"\n  },\n  \"medical_history\": {\n    \"comorbidities\": [\n      \"type 2 diabetes\",\n      \"obesity\"\n    ],\n    \"allergies\": [\n      \"sulfa\"\n    ],\n    \"pregnancy_status\": false\n  },\n  \"current_medications\": [\n    {\n      \"drug_name\": \"metformin\",\n      \"dose\": \"1000 mg\",\n      \"frequency\": \"BID\"\n    },\n    {\n      \"drug_name\": \"insulin glargine\",\n      \"dose\": \"20 units\",\n      \"frequency\": \"QHS\"\n    }\n  ],\n  \"vital_signs\": {\n    \"blood_pressure_systolic\": 132,\n    \"heart_rate\": 78\n  },\n  \"laboratory_results\": {\n    \"HbA1c_percent\": 7.8,\n    \"creatinine_mg_dl\": 1.0,\n    \"eGFR_mL_min_1.73m2\": 88\n  },\n  \"notes\": \"Synthetic diabetes case. Labs and vitals within template ranges. For evaluation only - not clinical use.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 281,
+"latency_seconds": 5.028975599998375
+}

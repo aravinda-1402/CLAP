@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_chf_0218_interaction_introduced_3\",\n  \"base_id\": \"base_chf_0218\",\n  \"assessment\": {\n    \"medication_changes\": [],\n    \"risk_flags_identified\": [\n      \"drug_interaction\"\n    ],\n    \"contraindications_identified\": [\n      \"interaction_requires_monitoring_or_change\"\n    ],\n    \"forbidden_changes_made\": false,\n    \"comments\": \"The variant correctly identified the drug interaction risk and the need for monitoring or potential changes. No medication changes were made, in line with expectations.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 212,
+"completion_tokens": 132,
+"latency_seconds": 1.975379100011196
+}

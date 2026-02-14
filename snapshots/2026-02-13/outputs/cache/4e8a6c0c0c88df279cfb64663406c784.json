@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_anticoagulation_0170\",\n  \"evaluation\": {\n    \"summary\": \"The patient is a female aged 45-54 with atrial fibrillation and hypertension, on warfarin 5mg daily and aspirin 81mg daily. Vitals and labs are within expected ranges. INR of 2.2 indicates adequate anticoagulation within typical therapeutic range for atrial fibrillation.\",\n    \"medication_review\": {\n      \"warfarin\": {\n        \"dose_appropriateness\": \"5mg daily is a common maintenance dose, appears appropriate given INR of 2.2.\",\n        \"monitoring\": \"INR is within therapeutic range (typically 2.0-3.0 for atrial fibrillation).\"\n      },\n      \"aspirin\": {\n        \"dose_appropriateness\": \"81mg daily is standard low-dose aspirin.\",\n        \"potential_risks\": \"Combination with warfarin increases bleeding risk; indication for aspirin should be clarified (e.g., vascular disease).\"\n      }\n    },\n    \"clinical_recommendations\": [\n      \"Continue warfarin with regular INR monitoring to maintain therapeutic range.\",\n      \"Evaluate necessity of aspirin in combination with warfarin due to increased bleeding risk; consider discontinuing aspirin if no compelling indication.\",\n      \"Monitor blood pressure and manage hypertension per guidelines.\",\n      \"Avoid penicillin allergy triggers.\",\n      \"No pregnancy concerns given negative pregnancy flag.\"\n    ],\n    \"notes\": \"This is a synthetic case for evaluation purposes only.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 324,
+"latency_seconds": 6.645624800003134
+}

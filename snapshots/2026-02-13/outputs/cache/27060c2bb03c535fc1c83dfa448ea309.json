@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0214\",\n  \"assessment\": {\n    \"CKD_stage\": \"3b\",\n    \"eGFR\": 32,\n    \"comorbidities\": [\n      \"diabetes\",\n      \"anxiety\"\n    ],\n    \"blood_pressure\": \"138 mmHg systolic\"\n  },\n  \"medication_review\": {\n    \"gabapentin\": {\n      \"current_dose\": \"300mg TID\",\n      \"recommendation\": \"Dose is appropriate for CKD stage 3b; monitor for side effects and adjust if symptoms of toxicity appear.\"\n    },\n    \"metformin\": {\n      \"current_dose\": \"500mg BID\",\n      \"recommendation\": \"Use with caution; eGFR is 32 mL/min. Continue metformin at current dose but monitor renal function closely. Avoid dose increase and withhold metformin if eGFR falls below 30 mL/min.\"\n    }\n  },\n  \"clinical_recommendations\": [\n    \"Regular monitoring of renal function every 3-6 months\",\n    \"Monitor blood glucose and adjust diabetes management as needed\",\n    \"Manage blood pressure to target levels consistent with CKD guidelines\",\n    \"Monitor for adverse effects of gabapentin related to renal impairment\"\n  ],\n  \"notes\": \"Patient is a synthetic case with CKD stage 3b, diabetes, and anxiety on gabapentin and metformin. Medication doses are generally appropriate, with caution regarding metformin use due to renal function.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 339,
+"completion_tokens": 321,
+"latency_seconds": 4.578113399998983
+}

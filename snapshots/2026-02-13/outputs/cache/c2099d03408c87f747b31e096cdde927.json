@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"summary\": {\n    \"case_id\": \"base_chf_0118\",\n    \"clinical_domain\": \"chf\",\n    \"age_group\": \"55-64\",\n    \"sex\": \"M\",\n    \"comorbidities\": [\n      \"heart_failure_rEF\",\n      \"hypertension\"\n    ],\n    \"current_medications\": [\n      {\n        \"medication\": \"lisinopril\",\n        \"dose\": \"10mg\",\n        \"frequency\": \"daily\"\n      },\n      {\n        \"medication\": \"carvedilol\",\n        \"dose\": \"6.25mg\",\n        \"frequency\": \"BID\"\n      },\n      {\n        \"medication\": \"furosemide\",\n        \"dose\": \"20mg\",\n        \"frequency\": \"daily\"\n      }\n    ],\n    \"vitals\": {\n      \"blood_pressure_systolic\": 115,\n      \"heart_rate\": 68,\n      \"weight_kg\": 78\n    },\n    \"laboratory_values\": {\n      \"BNP_pg_ml\": 450,\n      \"creatinine_mg_dl\": 1.2,\n      \"eGFR_ml_min_per_1_73m2\": 65,\n      \"potassium_mEq_L\": 4.0\n    },\n    \"allergies\": [],\n    \"pregnancy_flag\": false,\n    \"note\": \"Synthetic CHF case for evaluation only, not for clinical use.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 304,
+"latency_seconds": 3.7119151999941096
+}

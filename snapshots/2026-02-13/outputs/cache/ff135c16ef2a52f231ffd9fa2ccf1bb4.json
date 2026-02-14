@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_chf_0038_interaction_introduced_3\",\n  \"medication_changes\": [],\n  \"risk_flags_identified\": [\n    \"drug_interaction\"\n  ],\n  \"contraindications_identified\": [\n    \"interaction_requires_monitoring_or_change\"\n  ],\n  \"forbidden_changes_applied\": false\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 212,
+"completion_tokens": 79,
+"latency_seconds": 1.2973725000047125
+}

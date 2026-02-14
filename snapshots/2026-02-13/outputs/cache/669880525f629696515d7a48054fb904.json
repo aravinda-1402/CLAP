@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_infection_antibiotics_0236_pregnancy_toggle_1\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_found\": [\n      \"pregnancy_safe_alternatives\"\n    ],\n    \"contraindications_found\": [\n      \"avoid_teratogenic_if_applicable\"\n    ],\n    \"forbidden_changes_detected\": []\n  },\n  \"conclusion\": \"The variant evaluation matches the expected change specifications. No forbidden recommendations were made, and appropriate risk flags and contraindications for pregnancy were identified.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 119,
+"latency_seconds": 1.639121599990176
+}

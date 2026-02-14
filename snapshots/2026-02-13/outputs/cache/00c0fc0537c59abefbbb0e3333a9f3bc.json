@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_infection_antibiotics_0236_interaction_introduced_3\",\n  \"medication_changes\": [],\n  \"risk_flags\": [\n    \"drug_interaction\"\n  ],\n  \"contraindications\": [\n    \"interaction_requires_monitoring_or_change\"\n  ],\n  \"forbidden_changes_made\": false\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 221,
+"completion_tokens": 74,
+"latency_seconds": 1.4727603000064846
+}

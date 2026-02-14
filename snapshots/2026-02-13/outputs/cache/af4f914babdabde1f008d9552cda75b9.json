@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_diabetes_0241_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": {\n      \"substitute_for_metformin\": true\n    },\n    \"risk_flags\": {\n      \"allergy_flagged\": true\n    },\n    \"contraindications\": {\n      \"avoid_metformin_allergy\": true\n    },\n    \"forbidden_changes\": {\n      \"prescribe_metformin\": false\n    }\n  },\n  \"summary\": \"All expected medication changes, risk flags, and contraindications are properly addressed. No forbidden medication such as metformin is prescribed.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 228,
+"completion_tokens": 135,
+"latency_seconds": 2.0867079000163358
+}

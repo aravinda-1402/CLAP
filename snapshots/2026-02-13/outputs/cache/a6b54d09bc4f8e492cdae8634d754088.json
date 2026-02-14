@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0066\",\n  \"domain\": \"infection_antibiotics\",\n  \"assessment\": \"The patient is a 45-54 year-old male with cellulitis and GERD currently on amoxicillin and omeprazole. He presents with a low-grade fever (38.2\u00b0C) and mildly elevated WBC count (12.5), consistent with ongoing infection. Renal function is within normal limits. Vitals are stable.\",\n  \"plan\": [\n    \"Continue current antibiotic therapy with amoxicillin 500mg TID to complete the prescribed course for cellulitis.\",\n    \"Monitor patient's temperature and WBC count over the next 48-72 hours to assess response to therapy.\",\n    \"Maintain omeprazole 20mg daily for GERD management.\",\n    \"Advise patient to report any worsening symptoms such as increased redness, swelling, pain, or systemic symptoms.\",\n    \"Reassess clinically and consider imaging if cellulitis does not improve or worsens.\"\n  ],\n  \"recommendations\": [\n    {\n      \"action\": \"continue_current_therapy\",\n      \"justification\": \"Patient's current antibiotic regimen is appropriate for cellulitis, and clinical parameters indicate mild infection without evidence of complications.\"\n    },\n    {\n      \"action\": \"monitor\",\n      \"parameters\": [\"temperature\", \"WBC count\"],\n      \"frequency\": \"daily for 3 days\",\n      \"justification\": \"To evaluate the effectiveness of treatment and detect early signs of treatment failure.\"\n    }\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 350,
+"completion_tokens": 319,
+"latency_seconds": 4.894371600006707
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0064\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Reduce dose due to decreased eGFR (32 mL/min). Consider starting at 100-300 mg per day in divided doses and titrate based on response and tolerability to minimize toxicity.\",\n      \"monitoring\": [\n        \"Monitor for signs of gabapentin toxicity including dizziness and somnolence.\",\n        \"Assess renal function regularly.\"\n      ]\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Use with caution. The patient\u2019s eGFR is 32 mL/min, which is below the threshold (usually <45 mL/min) for starting metformin and close to contraindicated levels (<30 mL/min). Consider dose reduction or discontinuation depending on risk factors and clinical scenario.\",\n      \"monitoring\": [\n        \"Monitor renal function closely every 3-6 months.\",\n        \"Watch for signs of lactic acidosis.\"\n      ]\n    },\n    \"general\": {\n      \"recommendations\": [\n        \"Ensure tight glycemic control while minimizing risk of hypoglycemia.\",\n        \"Optimize blood pressure control as per guidelines for CKD and diabetes.\",\n        \"Review all medications for renal dosing adjustments.\"\n      ]\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 339,
+"completion_tokens": 275,
+"latency_seconds": 3.663616000005277
+}

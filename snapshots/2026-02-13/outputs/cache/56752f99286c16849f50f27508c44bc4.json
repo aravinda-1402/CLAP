@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0199\",\n  \"recommendations\": {\n    \"interpretation\": \"TSH is slightly elevated above the typical reference range (usually up to 4.0-4.5 mIU/L), and free T4 is at the low end of normal. This pattern may indicate suboptimal control of hypothyroidism despite current levothyroxine dosing.\",\n    \"suggested_actions\": [\n      \"Consider evaluating the adequacy of current levothyroxine dose given TSH of 5.2 mIU/L with low-normal free T4.\",\n      \"Assess adherence to levothyroxine therapy and timing of medication intake relative to meals and other drugs.\",\n      \"Review potential factors affecting levothyroxine absorption (e.g., iron or calcium supplements, GI disorders).\",\n      \"Consider a modest increase in levothyroxine dose and repeat thyroid function tests in 6-8 weeks to monitor response.\",\n      \"Continue monitoring anxiety symptoms, as thyroid status can impact mood.\",\n      \"No urgent intervention needed given stable vitals and normal creatinine.\"\n    ],\n    \"follow_up\": \"Repeat thyroid function testing in 6-8 weeks after any dose adjustment or adherence interventions.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 309,
+"completion_tokens": 258,
+"latency_seconds": 5.686263100011274
+}

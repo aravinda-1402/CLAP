@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_asthma_copd_0233\",\n  \"assessment\": {\n    \"summary\": \"Patient is a 35-44 year old individual with comorbid COPD and asthma. Currently managed with albuterol inhaler as needed and maintenance budesonide-formoterol BID. Vital signs and labs are within normal limits. Allergy to penicillin noted. No pregnancy. The clinical condition appears stable.\",\n    \"plan\": [\n      \"Continue current medications (albuterol inhaler PRN and budesonide-formoterol BID).\",\n      \"Monitor respiratory status and symptoms regularly.\",\n      \"Educate patient on avoiding penicillin and other allergens.\",\n      \"Schedule routine follow-up to assess disease control and lung function.\",\n      \"Provide asthma and COPD action plan including recognition of exacerbation symptoms.\",\n      \"Encourage smoking cessation if applicable and avoidance of respiratory irritants.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 359,
+"completion_tokens": 187,
+"latency_seconds": 2.6003779000020586
+}

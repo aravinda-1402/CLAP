@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0156\",\n  \"assessment\": \"The patient is a 65-74 year old with cellulitis and obesity on amoxicillin and omeprazole. Temperature is febrile at 38.2\u00b0C with elevated WBC indicating ongoing infection. Vitals and labs overall stable with normal renal function (Cr 1.0, eGFR 90).\",\n  \"plan\": {\n    \"continue_antibiotics\": \"Amoxicillin 500mg TID is appropriate for cellulitis coverage; continue as prescribed.\",\n    \"monitor\": [\n      \"Monitor temperature and WBC for response to therapy.\",\n      \"Assess for any signs of antibiotic adverse effects.\",\n      \"Monitor renal function periodically due to age and obesity.\"\n    ],\n    \"supportive_care\": \"Encourage adequate hydration and wound care as per infection guidelines.\",\n    \"follow_up\": \"Reassess clinical status within 48-72 hours to confirm improvement or need for treatment adjustment.\"\n  },\n  \"notes\": \"This is a synthetic case for evaluation only, not clinical use.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 349,
+"completion_tokens": 231,
+"latency_seconds": 3.6375933999952395
+}

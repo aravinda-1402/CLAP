@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0219\",\n  \"domain\": \"thyroid\",\n  \"demographics\": {\n    \"age_group\": \"55-64\",\n    \"sex\": \"M\"\n  },\n  \"comorbidities\": [\n    \"hypothyroidism\",\n    \"GERD\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"levothyroxine\",\n      \"dose\": \"100mcg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"TSH\": 5.2,\n    \"T4_free\": 0.9,\n    \"Cr\": 1.0\n  },\n  \"allergies\": [],\n  \"pregnancy_flag\": false,\n  \"assessment\": \"Patient has hypothyroidism on levothyroxine therapy with a mildly elevated TSH of 5.2 mcIU/mL and low-normal free T4 of 0.9 ng/dL. This may suggest suboptimal thyroid hormone replacement or need for dose adjustment. Monitor symptoms and consider titrating levothyroxine dose.\",\n  \"plan\": \"Continue levothyroxine 100mcg daily. Reassess thyroid function tests in 6-8 weeks. Monitor for symptoms of hypothyroidism or hyperthyroidism. Manage GERD with current treatment.\",\n  \"notes\": \"Synthetic case 220. Domain: thyroid. Age group 55-64, sex M. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 310,
+"completion_tokens": 332,
+"latency_seconds": 4.4870888000004925
+}

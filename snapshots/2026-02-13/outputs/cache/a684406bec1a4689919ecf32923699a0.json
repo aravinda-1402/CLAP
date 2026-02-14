@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0119\",\n  \"assessment\": \"The patient's TSH level is mildly elevated at 5.2 uIU/mL, with a low-normal free T4 of 0.9 ng/dL while on levothyroxine 100 mcg daily for hypothyroidism. This may indicate suboptimal thyroid hormone replacement or early undertreatment.\",\n  \"recommendation\": \"Consider evaluating patient's symptoms and adherence to levothyroxine. Recheck thyroid function tests in 6-8 weeks after potential dose adjustment. Monitor for signs of hypothyroid symptoms or overreplacement. No immediate urgent intervention required based on current vitals and labs.\",\n  \"follow_up\": \"Repeat TSH and free T4 in 6-8 weeks with clinical reassessment.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 170,
+"latency_seconds": 2.34417399999802
+}

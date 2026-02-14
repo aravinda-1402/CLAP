@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0074\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Recommend dose reduction due to CKD stage 3b (eGFR 32). Gabapentin dosing should be adjusted to lower doses or extended frequency to prevent accumulation and toxicity.\",\n      \"suggested_dose\": \"Reduce dose to 300mg once to twice daily depending on clinical response and tolerability.\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Metformin is generally contraindicated or should be used with caution in patients with eGFR below 30. With eGFR 32, metformin may be continued at reduced dose with close monitoring.\",\n      \"suggested_dose\": \"Maintain current dose (500mg BID) with frequent monitoring of renal function; consider dose reduction if eGFR declines further.\"\n    }\n  },\n  \"monitoring\": {\n    \"renal_function\": \"Monitor serum creatinine and eGFR every 3 months or more frequently if clinically indicated.\",\n    \"side_effects\": \"Watch for signs of gabapentin toxicity (e.g., dizziness, somnolence) and lactic acidosis symptoms for metformin.\"\n  },\n  \"notes\": \"Patient has CKD stage 3b with diabetes and obesity. Medication doses should be adjusted accordingly with careful monitoring.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 339,
+"completion_tokens": 289,
+"latency_seconds": 3.440993199998047
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_anticoagulation_0220\",\n  \"evaluation\": {\n    \"therapeutic_assessment\": {\n      \"warfarin_inr_target\": \"2.0-3.0\",\n      \"current_inr\": 2.2,\n      \"warfarin_status\": \"therapeutic\",\n      \"aspirin_use\": \"low dose for possible additional antithrombotic effect\",\n      \"combination_therapy_risk\": \"increased bleeding risk due to dual antithrombotic therapy\",\n      \"blood_pressure_control\": \"within goal range (<140/90 mmHg)\",\n      \"renal_function\": \"normal (eGFR 85ml/min/1.73m2)\",\n      \"potential_issues\": [\n        \"dual antithrombotic therapy may increase bleeding risk\",\n        \"monitor for bleeding signs\"\n      ],\n      \"recommendations\": [\n        \"continue warfarin maintaining INR target 2-3\",\n        \"evaluate risk-benefit of concomitant aspirin use considering bleeding risk\",\n        \"regular clinical and INR monitoring\",\n        \"manage hypertension as per guidelines\"\n      ]\n    },\n    \"summary\": \"Synthetic patient aged 45-54 with atrial fibrillation and hypertension on warfarin and low dose aspirin. INR is therapeutic at 2.2. Blood pressure and renal function are controlled within acceptable limits. Dual therapy increases bleeding risk; clinical monitoring and periodic risk assessment recommended.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 344,
+"completion_tokens": 303,
+"latency_seconds": 3.8267154000059236
+}

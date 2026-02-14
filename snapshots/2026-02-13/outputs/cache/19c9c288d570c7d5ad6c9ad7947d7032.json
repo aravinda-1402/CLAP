@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0186\",\n  \"evaluation\": {\n    \"assessment\": \"The patient is a 25-34 year old female with cellulitis currently treated with amoxicillin 500mg TID and omeprazole 20mg daily. Vital signs show low-grade fever (38.2\u00b0C) and normal heart rate (88 bpm). Labs indicate mild leukocytosis (WBC 12.5) consistent with infection, with normal renal function (Cr 1.0, eGFR 90). No allergies or pregnancy concerns noted.\",\n    \"recommendations\": [\n      \"Continue current antibiotic therapy with amoxicillin for cellulitis, ensuring adherence to the prescribed dosage and frequency.\",\n      \"Monitor clinical response including resolution of fever and improvement in cellulitis symptoms over next 48-72 hours.\",\n      \"Repeat labs if symptoms worsen or fail to improve to assess for possible complications or antibiotic resistance.\",\n      \"Maintain supportive care including hydration and pain control as needed.\",\n      \"No current contraindications to ongoing use of omeprazole.\"\n    ],\n    \"disclaimers\": \"FOR EVALUATION ONLY - NOT FOR CLINICAL USE. This is synthetic data and recommendations are for educational purposes only.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 261,
+"latency_seconds": 4.357115699996939
+}

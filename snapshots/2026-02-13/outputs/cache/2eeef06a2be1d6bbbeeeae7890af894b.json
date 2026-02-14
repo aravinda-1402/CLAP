@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_anticoagulation_0020\",\n  \"assessment\": {\n    \"summary\": \"The patient is a 65-74 year old individual with atrial fibrillation and hypertension, currently receiving warfarin 5mg daily and aspirin 81mg daily. Vital signs and labs, including INR of 2.2, are within therapeutic and safe ranges for anticoagulation management.\",\n    \"recommendations\": [\n      \"Continue warfarin with regular INR monitoring to maintain therapeutic range (2.0-3.0).\",\n      \"Evaluate the necessity of concomitant aspirin given bleeding risk; consider cardiology consultation for dual antithrombotic therapy assessment.\",\n      \"Monitor blood pressure to maintain control to reduce stroke risk.\",\n      \"Routine kidney function monitoring appropriate given creatinine 1.0 and eGFR 85.\",\n      \"Educate patient on bleeding risks and signs to report.\"\n    ],\n    \"follow_up\": \"Regular follow-up in anticoagulation clinic or primary care to ensure INR stability and assess bleeding/thrombotic risks.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 344,
+"completion_tokens": 225,
+"latency_seconds": 2.999778099998366
+}

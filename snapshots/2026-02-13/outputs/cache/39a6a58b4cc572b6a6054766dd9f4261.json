@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_ckd_dosing_0044\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"note\": \"In CKD stage 3b (eGFR 30-44), gabapentin dose adjustment is recommended due to reduced renal clearance.\",\n      \"dose_adjustment\": \"Reduce dose frequency to BID or adjust total daily dose accordingly.\",\n      \"monitoring\": \"Monitor for signs of gabapentin toxicity such as dizziness or sedation.\"\n    },\n    \"metformin\": {\n      \"note\": \"Metformin use is generally considered safe with eGFR \u226530 mL/min/1.73m\u00b2 but caution is advised.\",\n      \"dose_adjustment\": \"Continue metformin at current dose with close monitoring of renal function. Avoid initiating if eGFR falls below 45; discontinue if eGFR falls below 30.\",\n      \"monitoring\": \"Monitor renal function closely to prevent lactic acidosis.\"\n    },\n    \"additional_management\": {\n      \"note\": \"BP is slightly elevated; consider optimizing antihypertensive therapy to protect kidney function.\",\n      \"allergies\": \"Avoid penicillin and related antibiotics.\",\n      \"diabetes_management\": \"Continue glycemic control with attention to renal dosing adjustments.\"\n    }\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 339,
+"completion_tokens": 285,
+"latency_seconds": 3.9610088000190444
+}

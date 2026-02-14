@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0215\",\n  \"evaluation\": {\n    \"hypothyroidism_management\": {\n      \"levothyroxine_dose_appropriateness\": \"The current dose of 75mcg daily of levothyroxine is within typical replacement dosing for hypothyroidism in non-pregnant adults; TSH is within normal limits at 2.1 mIU/L, indicating adequate thyroid hormone replacement.\",\n      \"monitoring_recommendations\": \"Continue regular monitoring of TSH every 6-12 months or more frequently if dose changes or clinical symptoms occur. Adjust dose as needed to maintain TSH in normal range.\"\n    },\n    \"prenatal_vitamin_use\": {\n      \"appropriateness\": \"Prenatal vitamin is appropriate for women of childbearing potential to ensure adequate folic acid and micronutrient intake for potential pregnancy.\",\n      \"note\": \"Though pregnancy_flag is false, prenatal vitamin use remains beneficial.\"\n    },\n    \"labs_and_vitals\": {\n      \"remarks\": \"Blood pressure (118 mmHg systolic) and labs (TSH 2.1, creatinine 0.9 mg/dL) are within expected normal ranges, indicating stable clinical status.\"\n    },\n    \"overall_assessment\": \"No contraindications or concerns identified with current medication regimen. Continue current therapy with routine monitoring.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 290,
+"latency_seconds": 4.9368424999993294
+}

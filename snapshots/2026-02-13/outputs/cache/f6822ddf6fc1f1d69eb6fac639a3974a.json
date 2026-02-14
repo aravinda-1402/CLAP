@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_htn_0222_allergy_key_med_2\",\n  \"base_id\": \"base_htn_0222\",\n  \"evaluation\": {\n    \"medication_changes_correct\": true,\n    \"risk_flags_correct\": true,\n    \"contraindications_correct\": true,\n    \"forbidden_changes_correct\": true,\n    \"overall_evaluation\": \"All expected medication changes, risk flags, contraindications, and forbidden changes are correctly identified.\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 105,
+"latency_seconds": 1.700246700027492
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0179\",\n  \"assessment\": \"The patient is a 65-74 year old female with hypothyroidism currently taking levothyroxine 100mcg daily. Vital signs and labs are within template ranges except for a mildly elevated TSH at 5.2 \u00b5IU/mL, with a low normal free T4 of 0.9 ng/dL. This suggests suboptimal thyroid hormone replacement, possibly indicating under-treatment or non-compliance. Kidney function is within normal limits (Cr 1.0 mg/dL).\",\n  \"recommendations\": [\n    \"Consider evaluating for adherence to levothyroxine therapy and timing of medication relative to meals or other medications.\",\n    \"Repeat thyroid function tests (TSH and free T4) in 6-8 weeks after ensuring proper medication administration.\",\n    \"Adjust levothyroxine dose if TSH remains elevated and free T4 is low or low-normal, to achieve TSH within the target range (approximately 0.5-4.0 \u00b5IU/mL) per guidelines.\",\n    \"Continue monitoring renal function and vital signs routinely.\",\n    \"Educate patient on importance of consistent daily intake of levothyroxine on an empty stomach and avoiding interfering substances.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 283,
+"latency_seconds": 3.972211000014795
+}

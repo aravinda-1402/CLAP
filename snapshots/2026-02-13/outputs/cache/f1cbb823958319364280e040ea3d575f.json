@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"medication_changes\": [\"adjust_budesonide_formoterol_for_renal\"],\n  \"risk_flags_expected\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n  \"contraindications_expected\": [],\n  \"forbidden_changes\": [\"increase_nephrotoxic_dose\"]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 261,
+"completion_tokens": 64,
+"latency_seconds": 1.154929699987406
+}

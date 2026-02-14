@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"evaluation\": {\n    \"variant_id\": \"var_htn_0052_allergy_key_med_2\",\n    \"base_id\": \"base_htn_0052\",\n    \"result\": \"pass\",\n    \"details\": {\n      \"medication_changes_valid\": true,\n      \"risk_flags_valid\": true,\n      \"contraindications_valid\": true,\n      \"forbidden_changes_valid\": true,\n      \"notes\": \"All expected conditions met: lisinopril was avoided due to allergy, appropriate substitution made, allergy flagged, and contraindications respected.\"\n    }\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 122,
+"latency_seconds": 2.461165599990636
+}

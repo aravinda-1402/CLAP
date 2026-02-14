@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_thyroid_0209\",\n  \"domain\": \"thyroid\",\n  \"demographics\": {\n    \"age_group\": \"35-44\",\n    \"sex\": \"O\"\n  },\n  \"comorbidities\": [\n    \"hypothyroidism\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"levothyroxine\",\n      \"dose\": \"100mcg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 128,\n    \"HR\": 72\n  },\n  \"labs\": {\n    \"TSH\": 5.2,\n    \"T4_free\": 0.9,\n    \"Cr\": 1.0\n  },\n  \"allergies\": [\n    \"penicillin\"\n  ],\n  \"pregnancy_flag\": false,\n  \"clinical_insight\": \"TSH is mildly elevated above the typical reference range (commonly 0.4-4.0 mIU/L), which may suggest undertreatment or need for levothyroxine dose adjustment in hypothyroidism management. Free T4 is at the lower end of the normal range, supporting this assessment. Clinical correlation and possible dose titration with follow-up labs is recommended.\",\n  \"notes\": \"Synthetic case 210. Domain: thyroid. Age group 35-44, sex O. No real patient data.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 309,
+"completion_tokens": 301,
+"latency_seconds": 4.197979300020961
+}

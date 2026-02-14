@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"case_id\": \"base_diabetes_0221\",\n  \"evaluation\": {\n    \"summary\": \"45-54-year-old female with type 2 diabetes, obesity, and GERD on metformin and insulin glargine with labs and vitals within expected ranges.\",\n    \"glycemic_control\": {\n      \"HbA1c\": 7.8,\n      \"interpretation\": \"Suboptimal glycemic control; above target for most guidelines (<7%).\"\n    },\n    \"renal_function\": {\n      \"creatinine\": 1.0,\n      \"eGFR\": 88,\n      \"interpretation\": \"Normal renal function.\"\n    },\n    \"medication_review\": {\n      \"metformin\": {\n        \"dose\": \"1000 mg BID\",\n        \"appropriateness\": \"Appropriate first-line agent; dose within typical range.\"\n      },\n      \"insulin_glargine\": {\n        \"dose\": \"20 units QHS\",\n        \"appropriateness\": \"Basal insulin dose reasonable for type 2 diabetes with suboptimal control.\"\n      }\n    },\n    \"vitals_review\": {\n      \"BP_sys\": 132,\n      \"HR\": 78,\n      \"interpretation\": \"Blood pressure slightly elevated above optimal but not hypertensive crisis.\"\n    },\n    \"recommendations\": [\n      \"Consider lifestyle modifications targeting weight reduction to improve insulin sensitivity.\",\n      \"Evaluate adherence and possible titration of insulin or additional agents to improve glycemic control.\",\n      \"Continue monitoring renal function and blood pressure regularly.\",\n      \"Manage comorbid GERD as clinically indicated.\"\n    ],\n    \"disclaimers\": \"FOR EVALUATION ONLY - NOT FOR CLINICAL USE.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 354,
+"latency_seconds": 5.107836299983319
+}

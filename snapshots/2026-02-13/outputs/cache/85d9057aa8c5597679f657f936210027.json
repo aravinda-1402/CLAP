@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0076\",\n  \"assessment\": \"The patient is a 35-44 year old male with cellulitis, currently on amoxicillin 500mg TID and omeprazole 20mg daily. Vitals show a mild fever (temp 38.2\u00b0C) and elevated WBC of 12.5, consistent with an infectious process. Kidney function is normal (Cr 1.0, eGFR 90). There are no known drug allergies. The current antibiotic regimen with amoxicillin is appropriate for cellulitis and the patient's clinical and laboratory status supports continuing this treatment.\",\n  \"recommendations\": [\n    \"Continue amoxicillin 500mg TID to treat cellulitis.\",\n    \"Monitor temperature and WBC count to assess response to therapy.\",\n    \"Review clinical symptoms daily to evaluate improvement or progression.\",\n    \"Maintain hydration and supportive care.\",\n    \"Consider follow-up in 48-72 hours or sooner if symptoms worsen.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 230,
+"latency_seconds": 3.787627200013958
+}

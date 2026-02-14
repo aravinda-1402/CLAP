@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0025\",\n  \"summary\": \"The patient is a 65-74 year old female with hypothyroidism, currently taking levothyroxine 75mcg daily and a prenatal vitamin daily. All vitals and labs including TSH and creatinine are within normal limits. The patient is not pregnant. No contraindications or alerts related to pregnancy medications are identified in this synthetic case.\",\n  \"assessment\": {\n    \"thyroid_status\": \"Stable on levothyroxine with TSH in normal range\",\n    \"prenatal_vitamin\": \"Use is not indicated as patient is not pregnant and beyond reproductive age\",\n    \"pregnancy_status\": \"Not pregnant\"\n  },\n  \"recommendations\": {\n    \"levothyroxine\": \"Continue current dose with routine monitoring of TSH\",\n    \"prenatal_vitamin\": \"Discontinue as patient is not pregnant and beyond childbearing age unless for other clinical indications\",\n    \"routine_follow_up\": \"Maintain periodic monitoring of thyroid function and general health\"\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 327,
+"completion_tokens": 246,
+"latency_seconds": 3.91996410000138
+}

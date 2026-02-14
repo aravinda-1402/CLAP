@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_chf_0198\",\n  \"domain\": \"chf\",\n  \"assessment\": \"55-64 year old female with heart failure with reduced ejection fraction (HFrEF) and hypertension, currently managed on guideline-directed medical therapy including lisinopril, carvedilol, and furosemide. Vital signs and labs are stable and within expected ranges. BNP is elevated consistent with chronic heart failure status. Renal function is stable with an eGFR of 65 and creatinine 1.2. Potassium is normal at 4.0. Blood pressure is well controlled at 115 mmHg systolic. No medication allergies reported. Patient is not pregnant.\",\n  \"recommendations\": {\n    \"continue_current_therapy\": true,\n    \"monitoring\": [\n      \"Periodic monitoring of renal function and electrolytes given ACE inhibitor and diuretic use\",\n      \"Routine follow-up to assess symptoms and adjust diuretics as needed\",\n      \"Monitor blood pressure and heart rate regularly\",\n      \"Consider titrating ACE inhibitor and beta blocker doses toward target doses if tolerated\"\n    ],\n    \"patient_education\": [\n      \"Advise adherence to medications\",\n      \"Low sodium diet recommended\",\n      \"Monitor weight daily and report rapid weight gain\",\n      \"Report symptoms of worsening heart failure such as increased dyspnea, edema, and fatigue\"\n    ],\n    \"follow_up\": \"Routine cardiology follow-up recommended within 3-6 months or sooner with change in clinical status.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 316,
+"latency_seconds": 3.5213101000117604
+}

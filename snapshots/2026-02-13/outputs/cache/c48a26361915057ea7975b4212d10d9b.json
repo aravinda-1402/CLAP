@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_htn_0242_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes_valid\": true,\n    \"risk_flags_valid\": true,\n    \"contraindications_valid\": true,\n    \"forbidden_changes_valid\": true,\n    \"comments\": \"All expected medication changes, risk flags, contraindications, and forbidden changes are correctly addressed in this variant.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 89,
+"latency_seconds": 1.549040399986552
+}

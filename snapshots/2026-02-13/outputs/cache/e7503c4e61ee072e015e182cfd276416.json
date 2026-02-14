@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_pain_opioids_0167_pregnancy_toggle_1\",\n  \"base_id\": \"base_pain_opioids_0167\",\n  \"evaluated_changes\": {\n    \"medication_changes\": [],\n    \"risk_flags_found\": [\n      \"pregnancy_safe_alternatives\"\n    ],\n    \"contraindications_found\": [\n      \"avoid_teratogenic_if_applicable\"\n    ],\n    \"forbidden_changes_detected\": []\n  },\n  \"evaluation_status\": \"pass\",\n  \"comments\": \"All expected risk flags and contraindications are present. No forbidden medication changes were made.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 240,
+"completion_tokens": 134,
+"latency_seconds": 2.064762399997562
+}

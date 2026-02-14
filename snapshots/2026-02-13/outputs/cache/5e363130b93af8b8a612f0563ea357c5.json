@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_pain_opioids_0247_allergy_key_med_2\",\n  \"medication_changes\": [\"substitute_for_oxycodone\"],\n  \"risk_flags\": [\"allergy_flagged\"],\n  \"contraindications\": [\"avoid_oxycodone_allergy\"],\n  \"forbidden_changes\": [\"prescribe_oxycodone\"]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 255,
+"completion_tokens": 86,
+"latency_seconds": 1.603484400024172
+}

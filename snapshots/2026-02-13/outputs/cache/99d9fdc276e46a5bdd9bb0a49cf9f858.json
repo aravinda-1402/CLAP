@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_diabetes_0131_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": {\n      \"adjust_metformin_for_renal\": true\n    },\n    \"risk_flags_detected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_detected\": [],\n    \"forbidden_changes_detected\": [],\n    \"compliance_with_expected\": true\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 239,
+"completion_tokens": 101,
+"latency_seconds": 1.6626070000056643
+}

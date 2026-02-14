@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_infection_antibiotics_0116\",\n  \"assessment\": {\n    \"condition\": \"cellulitis\",\n    \"status\": \"stable\",\n    \"infection_signs\": {\n      \"fever\": 38.2,\n      \"WBC\": 12.5\n    }\n  },\n  \"medication_review\": {\n    \"amoxicillin\": {\n      \"dose_appropriateness\": \"appropriate\",\n      \"frequency_appropriateness\": \"appropriate\",\n      \"indication\": \"treatment of cellulitis\"\n    },\n    \"omeprazole\": {\n      \"dose_appropriateness\": \"appropriate\",\n      \"frequency_appropriateness\": \"appropriate\",\n      \"indication\": \"gastric protection\"\n    }\n  },\n  \"recommendations\": {\n    \"continue_current_antibiotic\": true,\n    \"monitoring\": [\n      \"temperature\",\n      \"WBC\",\n      \"renal function\"\n    ],\n    \"considerations\": [\n      \"evaluate for improvement in cellulitis within 48-72 hours\",\n      \"adjust antibiotics if no clinical improvement or worsening\"\n    ]\n  },\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 260,
+"latency_seconds": 4.051398599985987
+}

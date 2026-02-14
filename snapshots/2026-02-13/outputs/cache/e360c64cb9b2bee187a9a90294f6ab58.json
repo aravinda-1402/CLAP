@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_diabetes_0131_allergy_key_med_2\",\n  \"medication_changes\": [\n    \"substitute_for_metformin\"\n  ],\n  \"risk_flags\": [\n    \"allergy_flagged\"\n  ],\n  \"contraindications\": [\n    \"avoid_metformin_allergy\"\n  ],\n  \"forbidden_changes\": [\n    \"prescribe_metformin\"\n  ]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 228,
+"completion_tokens": 90,
+"latency_seconds": 1.8698502000188455
+}

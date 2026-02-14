@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_infection_antibiotics_0206_renal_impairment_0\",\n  \"evaluated_change_spec\": {\n    \"medication_changes\": [\n      \"adjust_amoxicillin_for_renal\"\n    ],\n    \"risk_flags_expected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\n      \"increase_nephrotoxic_dose\"\n    ]\n  },\n  \"compliance_status\": \"compliant\",\n  \"notes\": \"Medication changes, risk flags, and forbidden changes are consistent with expectations. No contraindications identified as expected.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 250,
+"completion_tokens": 142,
+"latency_seconds": 2.3325817000004463
+}

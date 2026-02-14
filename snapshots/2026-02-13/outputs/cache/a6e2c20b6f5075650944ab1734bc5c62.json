@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_pregnancy_meds_0115\",\n  \"assessment\": {\n    \"pregnancy_med_appropriateness\": \"The patient's use of prenatal vitamins is unusual given her age group and non-pregnant status. Prenatal vitamins are typically indicated for women who are pregnant or planning pregnancy, which is unlikely in a female aged 65-74. Levothyroxine use is appropriate for hypothyroidism management.\",\n    \"recommendations\": [\n      \"Reassess the indication for prenatal vitamin supplementation to avoid unnecessary medication.\",\n      \"Continue levothyroxine therapy as prescribed, monitoring thyroid function periodically.\",\n      \"No contraindications identified with current medications.\",\n      \"Maintain monitoring of labs and vitals as per standard care.\"\n    ],\n    \"pregnancy_flag\": false\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 333,
+"completion_tokens": 171,
+"latency_seconds": 2.3281906000047456
+}

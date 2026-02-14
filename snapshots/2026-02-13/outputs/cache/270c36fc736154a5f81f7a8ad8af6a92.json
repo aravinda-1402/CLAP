@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0007\",\n  \"assessment\": \"The patient is a young adult female with chronic low back pain currently managed with oxycodone 5mg and acetaminophen 650mg as needed every 6 hours. Vitals and labs are within normal limits. The patient is pregnant and allergic to penicillin.\",\n  \"recommendations\": [\n    \"Avoid opioid escalation and monitor for fetal safety due to pregnancy.\",\n    \"Consider non-pharmacologic pain management options to reduce opioid exposure.\",\n    \"Use acetaminophen within recommended doses for pain, ensuring not to exceed daily limits.\",\n    \"Close monitoring of pain control and any side effects from oxycodone during pregnancy is advised.\",\n    \"Avoid penicillin due to allergy; use alternative antibiotics if needed.\",\n    \"Follow-up for regular assessment of pain, medication effectiveness, and fetal well-being.\"\n  ],\n  \"alerts\": [\n    \"Pregnancy: opioids should be used with caution; risk-benefit assessment required.\",\n    \"Penicillin allergy noted\u2014document and avoid penicillin-class antibiotics.\"\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 350,
+"completion_tokens": 227,
+"latency_seconds": 4.025884500006214
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_chf_0148\",\n  \"clinical_assessment\": {\n    \"diagnosis\": \"Chronic Heart Failure with reduced Ejection Fraction (HFrEF) and Hypertension\",\n    \"assessment\": \"Stable patient with controlled blood pressure and heart rate. BNP is elevated consistent with heart failure but within expected range for compensated status. Renal function is preserved with creatinine 1.2 mg/dL and eGFR 65 mL/min/1.73m2. Potassium level is normal. Current medications (lisinopril, carvedilol, furosemide) align with guideline-directed medical therapy for HFrEF.\",\n    \"recommendations\": [\n      \"Continue current medications and monitor adherence\",\n      \"Regular follow-up to assess symptoms, renal function, and electrolytes\",\n      \"Lifestyle modifications including low sodium diet and fluid management\",\n      \"Periodic echocardiogram to monitor ejection fraction and cardiac function\",\n      \"Consider uptitration of beta-blocker or ACE inhibitor if tolerated and indicated on further follow-up\"\n    ],\n    \"alerts\": [\n      \"Monitor renal function and potassium due to ACE inhibitor and diuretic use\",\n      \"Watch for symptoms of worsening heart failure such as increased dyspnea, edema, or weight gain\"\n    ]\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 395,
+"completion_tokens": 276,
+"latency_seconds": 6.312204199988628
+}

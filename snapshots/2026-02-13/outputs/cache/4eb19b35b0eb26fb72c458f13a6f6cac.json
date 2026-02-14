@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0089\",\n  \"assessment\": \"75-84-year-old male with hypothyroidism currently taking levothyroxine 100mcg daily. Vital signs are within normal limits. Laboratory results show a mildly elevated TSH at 5.2 mIU/L with a low-normal free T4 at 0.9 ng/dL, which may suggest suboptimal thyroid hormone replacement or early under-treatment. Kidney function is normal. Clinical correlation and possibly adjusting levothyroxine dose may be considered to optimize thyroid status.\",\n  \"recommendations\": [\n    \"Review clinical symptoms for hypothyroidism or hyperthyroidism.\",\n    \"Consider repeating TSH and free T4 in 6-8 weeks after any medication adjustment.\",\n    \"Evaluate medication adherence and timing of levothyroxine administration (e.g., fasting state).\",\n    \"Adjust levothyroxine dose cautiously given patient's age and comorbidities.\",\n    \"Monitor for signs of overtreatment or undertreatment during follow-up.\"\n  ],\n  \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 302,
+"completion_tokens": 233,
+"latency_seconds": 4.018600299983518
+}

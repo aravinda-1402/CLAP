@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_htn_0042\",\n  \"domain\": \"htn\",\n  \"demographics\": {\n    \"age_group\": \"35-44\",\n    \"sex\": \"F\"\n  },\n  \"comorbidities\": [\n    \"hypertension\",\n    \"hyperlipidemia\"\n  ],\n  \"meds\": [\n    {\n      \"name\": \"lisinopril\",\n      \"dose\": \"10mg\",\n      \"freq\": \"daily\"\n    },\n    {\n      \"name\": \"amlodipine\",\n      \"dose\": \"5mg\",\n      \"freq\": \"daily\"\n    }\n  ],\n  \"vitals\": {\n    \"BP_sys\": 145,\n    \"BP_dia\": 92,\n    \"HR\": 76\n  },\n  \"labs\": {\n    \"K\": 4.2,\n    \"Cr\": 1.1,\n    \"eGFR\": 82\n  },\n  \"allergies\": [\n    \"latex\"\n  ],\n  \"pregnancy_flag\": false,\n  \"assessment\": {\n    \"blood_pressure_control\": \"Elevated (Stage 1 Hypertension)\",\n    \"renal_function\": \"Normal\",\n    \"potassium_level\": \"Normal\"\n  },\n  \"recommendations\": [\n    \"Continue current antihypertensive medications (lisinopril and amlodipine).\",\n    \"Monitor blood pressure regularly to assess control and adjust therapy as needed.\",\n    \"Continue lipid management as per hyperlipidemia guidelines.\",\n    \"Encourage lifestyle modifications including dietary sodium restriction, weight management, and regular exercise.\",\n    \"Monitor renal function and potassium periodically due to lisinopril use.\",\n    \"Avoid latex exposure due to allergy.\"\n  ],\n  \"notes\": \"Synthetic case 43. Domain: htn. Age group 35-44, sex F. No real patient data.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 357,
+"completion_tokens": 397,
+"latency_seconds": 6.183976799977245
+}

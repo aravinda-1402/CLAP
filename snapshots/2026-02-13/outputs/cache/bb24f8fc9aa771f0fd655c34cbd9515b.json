@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_asthma_copd_0003_allergy_key_med_2\",\n  \"base_id\": \"base_asthma_copd_0003\",\n  \"evaluation\": {\n    \"medication_changes\": [\"substitute_for_budesonide_formoterol\"],\n    \"risk_flags_detected\": [\"allergy_flagged\"],\n    \"contraindications_identified\": [\"avoid_budesonide_formoterol_allergy\"],\n    \"forbidden_changes_detected\": [\"prescribe_budesonide_formoterol\"]\n  },\n  \"result\": \"PASS\",\n  \"notes\": \"All expected medication changes, risk flags, contraindications, and forbidden changes have been correctly identified.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 270,
+"completion_tokens": 154,
+"latency_seconds": 2.452918299997691
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_thyroid_0159_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"adjust_levothyroxine_for_renal\"\n    ],\n    \"risk_flags_expected\": [\n      \"renal_dose_adjustment\",\n      \"eGFR_low\"\n    ],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\n      \"increase_nephrotoxic_dose\"\n    ],\n    \"comments\": \"Medication adjustment for levothyroxine in renal impairment is appropriate. Risk flags for renal dose adjustment and low eGFR are correctly noted. No contraindications present. Avoid increasing nephrotoxic medication doses.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 248,
+"completion_tokens": 150,
+"latency_seconds": 2.6409954999980982
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_thyroid_0179_interaction_introduced_3\",\n  \"evaluated_changes\": {\n    \"medication_changes\": [],\n    \"risk_flags\": [\n      \"drug_interaction\"\n    ],\n    \"contraindications\": [\n      \"interaction_requires_monitoring_or_change\"\n    ],\n    \"forbidden_changes\": []\n  },\n  \"conclusion\": \"Evaluation matches expected changes. No medication changes introduced. Appropriate risk flag and contraindication identified without any forbidden changes.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 215,
+"completion_tokens": 106,
+"latency_seconds": 1.738489599985769
+}

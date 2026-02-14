@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_thyroid_0069\",\n  \"assessment\": \"The patient is a 25-34-year-old male with hypothyroidism on levothyroxine therapy and comorbid GERD. Current labs show a slightly elevated TSH of 5.2 mIU/L with a low-normal free T4 of 0.9 ng/dL, suggesting suboptimal thyroid hormone replacement or possible undertreatment.\",\n  \"plan\": [\n    \"Consider evaluating levothyroxine adherence and timing of medication relative to other drugs and meals, especially given comorbid GERD, which may affect absorption.\",\n    \"Repeat thyroid function tests in 6-8 weeks after any adjustment in dose or adherence improvement.\",\n    \"If TSH remains elevated, consider levothyroxine dose adjustment to achieve target TSH within the reference range (approx. 0.5-4.5 mIU/L).\",\n    \"Continue monitoring renal function as current creatinine is normal.\",\n    \"Educate patient regarding symptoms of hypo- and hyperthyroidism.\",\n    \"No immediate concerns from vital signs; continue routine monitoring.\"\n  ]\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 310,
+"completion_tokens": 234,
+"latency_seconds": 2.910894800006645
+}

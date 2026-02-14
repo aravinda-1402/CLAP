@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"medication_changes\": [\"substitute_for_metformin\"],\n  \"risk_flags_expected\": [\"allergy_flagged\"],\n  \"contraindications_expected\": [\"avoid_metformin_allergy\"],\n  \"forbidden_changes\": [\"prescribe_metformin\"]\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 228,
+"completion_tokens": 57,
+"latency_seconds": 0.9592303999816068
+}

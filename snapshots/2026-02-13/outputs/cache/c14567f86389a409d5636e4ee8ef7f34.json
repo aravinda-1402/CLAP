@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"base_id\": \"base_ckd_dosing_0144\",\n  \"recommendations\": {\n    \"gabapentin\": {\n      \"dose_adjustment\": \"Reduce dose due to decreased eGFR to 32 mL/min/1.73m2\",\n      \"recommended_dose\": \"300mg once daily to twice daily\",\n      \"rationale\": \"Gabapentin is renally cleared, dose reduction is recommended in CKD stage 3b to reduce risk of accumulation and toxicity.\"\n    },\n    \"metformin\": {\n      \"dose_adjustment\": \"Use with caution; max dose 500mg twice daily acceptable with close monitoring\",\n      \"monitoring\": \"Regular monitoring of renal function and lactic acidosis symptoms recommended due to CKD stage 3b\",\n      \"contraindication_note\": \"Metformin is contraindicated if eGFR < 30 mL/min/1.73m2\"\n    }\n  },\n  \"additional_notes\": \"Patient has CKD stage 3b and diabetes, with eGFR 32. Avoid nephrotoxic agents and monitor kidney function closely. Sulfa allergy noted; no current meds contraindicated.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 340,
+"completion_tokens": 249,
+"latency_seconds": 4.543186399998376
+}

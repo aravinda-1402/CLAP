@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_infection_antibiotics_0046\",\n  \"assessment\": {\n    \"infection_status\": \"likely cellulitis with systemic signs (fever, elevated WBC)\",\n    \"pregnancy_consideration\": \"patient is pregnant, antibiotic choice should consider fetal safety\",\n    \"current_antibiotic\": {\n      \"name\": \"amoxicillin\",\n      \"dose\": \"500mg TID\",\n      \"appropriateness\": \"generally appropriate for cellulitis and safe in pregnancy\"\n    },\n    \"gastroprotection\": {\n      \"medication\": \"omeprazole\",\n      \"dose\": \"20mg daily\",\n      \"rationale\": \"likely for gastritis or peptic ulcer prevention especially with antibiotic use\"\n    },\n    \"renal_function\": \"normal (Cr 1.0, eGFR 90)\",\n    \"recommendations\": [\n      \"Continue amoxicillin as it is appropriate for treating cellulitis and safe in pregnancy.\",\n      \"Monitor vital signs and clinical response to therapy closely.\",\n      \"Consider consulting obstetrics for pregnancy management during infection treatment.\",\n      \"Maintain omeprazole if indicated to protect gastric mucosa.\",\n      \"Follow up labs if clinically indicated.\"\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 342,
+"completion_tokens": 258,
+"latency_seconds": 4.2048594999942
+}

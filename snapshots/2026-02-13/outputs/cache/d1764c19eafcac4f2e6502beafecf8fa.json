@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_asthma_copd_0023\",\n  \"assessment\": {\n    \"summary\": \"75-84 year old male with history of COPD and asthma currently managed on albuterol inhaler PRN and budesonide/formoterol BID. Vitals and labs are within normal limits with oxygen saturation at 96%, respiratory rate 16, and WBC 8.2. Allergic to latex. No acute distress noted. Medication regimen aligns with standard asthma-COPD overlap management.\",\n    \"recommendations\": [\n      \"Continue current inhaler regimen with albuterol for rescue use and budesonide/formoterol for maintenance.\",\n      \"Monitor for any exacerbation symptoms such as increased dyspnea, sputum production, or wheezing.\",\n      \"Ensure vaccination status is up to date (influenza, pneumococcal) considering age and comorbidities.\",\n      \"Regular follow-up pulmonary function testing if feasible to assess disease progression.\",\n      \"Education on inhaler technique and avoidance of triggers.\",\n      \"No changes to current treatment recommended at this time given stable clinical and laboratory parameters.\"\n    ],\n    \"alerts\": [\n      {\n        \"type\": \"allergy\",\n        \"details\": \"Patient allergic to latex; ensure medical\u7528\u54c1 used are latex-free.\"\n      }\n    ]\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 358,
+"completion_tokens": 273,
+"latency_seconds": 3.9777959999919403
+}

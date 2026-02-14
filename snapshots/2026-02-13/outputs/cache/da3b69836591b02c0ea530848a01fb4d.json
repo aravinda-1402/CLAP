@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"variant_id\": \"var_anticoagulation_0050_pregnancy_toggle_1\",\n  \"base_id\": \"base_anticoagulation_0050\",\n  \"evaluation\": {\n    \"medication_changes\": [],\n    \"risk_flags_expected\": [],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\n      \"recommend_contraindicated_in_pregnancy\"\n    ],\n    \"comments\": \"No medication changes, risk flags, or contraindications are expected. Recommendations that are contraindicated in pregnancy must be avoided.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 197,
+"completion_tokens": 117,
+"latency_seconds": 2.6491071000054944
+}

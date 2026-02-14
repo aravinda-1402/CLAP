@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_htn_0142_renal_impairment_0\",\n  \"evaluation\": {\n    \"medication_changes\": [\"adjust_lisinopril_for_renal\"],\n    \"risk_flags_expected\": [\"renal_dose_adjustment\", \"eGFR_low\"],\n    \"contraindications_expected\": [],\n    \"forbidden_changes\": [\"increase_nephrotoxic_dose\"],\n    \"result\": \"pass\"\n  }\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 243,
+"completion_tokens": 99,
+"latency_seconds": 1.7784138999995776
+}

@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_anticoagulation_0080\",\n  \"domain\": \"anticoagulation\",\n  \"evaluation\": {\n    \"indication_appropriateness\": \"The use of warfarin for atrial fibrillation is appropriate for stroke prevention.\",\n    \"aspirin_use\": \"Concurrent aspirin use with warfarin may increase bleeding risk; evaluate the indication for dual therapy.\",\n    \"INR_level\": \"An INR of 2.2 is within therapeutic range for atrial fibrillation (2.0-3.0).\",\n    \"blood_pressure\": \"BP of 128 mmHg systolic is within target range for hypertension management.\",\n    \"renal_function\": \"Serum creatinine and eGFR indicate normal renal function.\",\n    \"allergy_consideration\": \"No contraindications related to latex allergy for current medications.\",\n    \"recommendations\": [\n      \"Confirm the clinical indication for aspirin alongside warfarin to assess bleeding risk versus benefit.\",\n      \"Continue regular INR monitoring to maintain therapeutic range.\",\n      \"Maintain BP control as per hypertension guidelines.\",\n      \"Educate patient on signs of bleeding and medication adherence.\"\n    ],\n    \"disclaimer\": \"FOR EVALUATION ONLY - NOT CLINICAL USE.\"\n  }\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 350,
+"completion_tokens": 260,
+"latency_seconds": 4.1860477999725845
+}

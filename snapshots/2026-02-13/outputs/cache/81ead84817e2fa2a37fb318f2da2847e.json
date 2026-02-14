@@ -1,0 +1,8 @@
+{
+"raw_text": "{\n  \"base_id\": \"base_pain_opioids_0167\",\n  \"domain\": \"pain_opioids\",\n  \"demographics\": {\n    \"age_group\": \"75-84\",\n    \"sex\": \"O\"\n  },\n  \"comorbidities\": [\n    \"chronic_low_back_pain\"\n  ],\n  \"medications\": [\n    {\n      \"name\": \"oxycodone\",\n      \"dose\": \"5mg\",\n      \"frequency\": \"Q6H PRN\"\n    },\n    {\n      \"name\": \"acetaminophen\",\n      \"dose\": \"650mg\",\n      \"frequency\": \"Q6H PRN\"\n    }\n  ],\n  \"vitals\": {\n    \"blood_pressure_systolic\": 122,\n    \"respiratory_rate\": 14\n  },\n  \"laboratory_results\": {\n    \"creatinine_mg_per_dl\": 1.0,\n    \"estimated_glomerular_filtration_rate\": 85\n  },\n  \"allergies\": [\n    \"sulfa\"\n  ],\n  \"pregnancy_flag\": false,\n  \"notes\": \"Synthetic case 168. Domain: pain_opioids. Age group 75-84, sex O. No real patient data.\"\n}",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 351,
+"completion_tokens": 266,
+"latency_seconds": 3.7177349000121467
+}

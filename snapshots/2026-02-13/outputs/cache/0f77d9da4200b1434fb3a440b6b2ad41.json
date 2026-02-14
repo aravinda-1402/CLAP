@@ -1,0 +1,8 @@
+{
+"raw_text": "```json\n{\n  \"variant_id\": \"var_thyroid_0059_allergy_key_med_2\",\n  \"evaluation\": {\n    \"medication_changes\": [\n      \"substitute_for_levothyroxine\"\n    ],\n    \"risk_flags_expected\": [\n      \"allergy_flagged\"\n    ],\n    \"contraindications_expected\": [\n      \"avoid_levothyroxine_allergy\"\n    ],\n    \"forbidden_changes\": [\n      \"prescribe_levothyroxine\"\n    ]\n  },\n  \"status\": \"valid\",\n  \"notes\": \"The medication changes appropriately substitute levothyroxine to avoid allergy risk. The allergy flag is correctly set and contraindication to avoid levothyroxine is recognized. Prescribing levothyroxine is correctly forbidden.\"\n}\n```",
+"model_id": "openai",
+"version": "gpt-4.1-mini",
+"prompt_tokens": 249,
+"completion_tokens": 163,
+"latency_seconds": 3.2292461000033654
+}
